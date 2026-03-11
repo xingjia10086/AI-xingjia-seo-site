@@ -3,6 +3,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import TOC from '@/components/TOC'
 import PostEffects from '@/components/PostEffects'
+import Navbar from '@/components/Navbar'
 
 export async function generateStaticParams() {
     const paths = getAllPostSlugs()
@@ -25,6 +26,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
 
     return (
         <article className="min-h-screen bg-neutral-50 dark:bg-neutral-900 text-neutral-900 dark:text-neutral-50 transition-colors duration-300 relative">
+            <Navbar />
             <div className="max-w-7xl mx-auto px-6 py-12 sm:py-20 xl:flex xl:gap-16 xl:justify-center relative items-start">
 
                 {/* Main Content Area */}

@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { getSortedPostsData } from '@/lib/posts'
 import PostList from '@/components/PostList'
+import Navbar from '@/components/Navbar'
 
 export default function Home() {
   const allPostsData = getSortedPostsData()
@@ -12,15 +13,7 @@ export default function Home() {
     <div className="min-h-screen bg-neutral-50 dark:bg-neutral-900 text-neutral-900 dark:text-neutral-50 font-sans transition-colors duration-300">
 
       {/* 顶部导航 */}
-      <nav className="sticky top-0 z-50 backdrop-blur-md bg-white/70 dark:bg-neutral-900/70 border-b border-neutral-200 dark:border-neutral-800">
-        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-          <Link href="/" className="text-xl font-bold tracking-tight">星佳的小宇宙</Link>
-          <div className="hidden md:flex gap-6 text-sm font-medium">
-            <Link href="/" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors cursor-pointer">发现全库</Link>
-            <a href="https://github.com/xingjia10086/AI-xingjia-seo-site" target="_blank" className="hover:text-neutral-500 transition-colors">GitHub开源</a>
-          </div>
-        </div>
-      </nav>
+      <Navbar />
 
       <main className="max-w-6xl mx-auto px-6 py-12 flex flex-col md:flex-row gap-12">
 
