@@ -38,7 +38,7 @@ export default function Home() {
                 const count = allPostsData.filter(p => p.category === cat).length
                 return (
                   <li key={i}>
-                    <Link href={`/category/${encodeURIComponent(cat)}`} className="text-neutral-700 dark:text-neutral-300 hover:text-blue-600 dark:hover:text-blue-400 font-medium text-base flex items-center justify-between transition-colors">
+                    <Link href={`/category/${cat}`} className="text-neutral-700 dark:text-neutral-300 hover:text-blue-600 dark:hover:text-blue-400 font-medium text-base flex items-center justify-between transition-colors">
                       {cat}
                       <span className="text-xs bg-neutral-200 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400 py-0.5 px-2 rounded-full">{count}</span>
                     </Link>

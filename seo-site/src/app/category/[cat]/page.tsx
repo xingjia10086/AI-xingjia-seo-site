@@ -5,7 +5,7 @@ export async function generateStaticParams() {
     const allPostsData = getSortedPostsData()
     const categories = Array.from(new Set(allPostsData.map(post => post.category).filter(Boolean)))
     return categories.map((cat) => ({
-        cat: encodeURIComponent(cat),
+        cat: cat,
     }))
 }
 
@@ -45,7 +45,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ cat: 
                                 const isActive = cat === decodedCat
                                 return (
                                     <li key={i}>
-                                        <Link href={`/category/${encodeURIComponent(cat)}`} className={`font-medium text-base flex items-center justify-between transition-colors ${isActive ? 'text-blue-600 dark:text-blue-400' : 'text-neutral-700 dark:text-neutral-300 hover:text-blue-600'}`}>
+                                        <Link href={`/category/${cat}`} className={`font-medium text-base flex items-center justify-between transition-colors ${isActive ? 'text-blue-600 dark:text-blue-400' : 'text-neutral-700 dark:text-neutral-300 hover:text-blue-600'}`}>
                                             {cat}
                                             <span className={`text-xs py-0.5 px-2 rounded-full ${isActive ? 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300' : 'bg-neutral-200 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400'}`}>{count}</span>
                                         </Link>
