@@ -1,0 +1,23 @@
+# Node modules & Next.js build
+node_modules/
+.next/
+out/
+build/
+.env*.local
+
+# macOS/Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Temporaries
+/gongzhonghao/未分类/
+parse-markdown.js
+
+# Only push the processed and important content
