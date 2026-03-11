@@ -43,12 +43,17 @@ export default function SearchModal() {
         }
 
         const lowerQuery = query.toLowerCase()
-        const matched = indexData.filter(post =>
-            post.title.toLowerCase().includes(lowerQuery) ||
-            post.description.toLowerCase().includes(lowerQuery) ||
-            post.tags.some(t => t.toLowerCase().includes(lowerQuery)) ||
-            post.category.toLowerCase().includes(lowerQuery)
-        )
+        const matched = indexData.filter(post => {
+            const safeTitle = post.title?.toLowerCase() || ''
+            const safeDesc = post.description?.toLowerCase() || ''
+            const safeCat = post.category?.toLowerCase() || ''
+            const safeTags = Array.isArray(post.tags) ? post.tags : []
+
+            return safeTitle.includes(lowerQuery) ||
+                safeDesc.includes(lowerQuery) ||
+                safeCat.includes(lowerQuery) ||
+                safeTags.some(t => t?.toLowerCase().includes(lowerQuery))
+        })
         // 最多展示前 20 条，防止页面 DOM 过多卡顿
         setResults(matched.slice(0, 20))
     }, [query, indexData])
@@ -120,13 +125,13 @@ export default function SearchModal() {
                                                 className="block p-4 bg-white dark:bg-neutral-800 border border-neutral-200 dark:border-neutral-700/50 rounded-xl hover:border-blue-500 dark:hover:border-blue-500 hover:shadow-md transition-all group"
                                             >
                                                 <div className="flex items-center gap-3 mb-1">
-                                                    <span className="text-xs font-medium text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/40 px-2 py-0.5 rounded uppercase">{post.category}</span>
+                                                    <span className="text-xs font-medium text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/40 px-2 py-0.5 rounded uppercase">{post.category || '未分类'}</span>
                                                     <span className="text-xs text-neutral-400 flex gap-1">
-                                                        {post.tags.slice(0, 2).map(t => <span key={t}>#{t}</span>)}
+                                                        {(Array.isArray(post.tags) ? post.tags : []).slice(0, 2).map((t: string) => <span key={t}>#{t}</span>)}
                                                     </span>
                                                 </div>
-                                                <h3 className="text-lg font-bold text-neutral-900 dark:text-neutral-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{post.title}</h3>
-                                                <p className="text-sm text-neutral-500 dark:text-neutral-400 line-clamp-1 mt-1">{post.description}</p>
+                                                <h3 className="text-lg font-bold text-neutral-900 dark:text-neutral-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{post.title || '无标题'}</h3>
+                                                <p className="text-sm text-neutral-500 dark:text-neutral-400 line-clamp-1 mt-1">{post.description || ''}</p>
                                             </Link>
                                         </li>
                                     ))}
