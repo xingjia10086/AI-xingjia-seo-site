@@ -1,0 +1,79 @@
+---
+title: 赚零花钱 从开个证券账户开始
+description: 不知道从什么时候开始，江湖上流传一个传说，炒股的和炒房的彼此看不上对方，但这两年似乎两个圈里的同学们日子都过的不咋的，于是痛彻心扉后痛醒的星佳终于开始试着研究下股票圈的事，有时候可能会有惊喜。
+date: 2023-09-13
+category: 其他与日常
+tags: ['生活记录']
+---
+
+![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqvGcan6Ce805tHIJuEWticYpRHmzGVGFkwxUWfRknqFQI77EzWiaVYCNkuzU6ecB1OiaCwBjsT4kqYjw/0?wx_fmt=jpeg)
+
+赚零花钱，从开个证券账户开始
+
+
+原创 
+
+
+不知道从什么时候开始，江湖上流传一个传说，炒股的和炒房的彼此看不上对方，但这两年似乎两个圈里的同学们日子都过的不咋的，于是痛彻心扉后痛醒的星佳终于开始试着研究下股票圈的事，有时候可能会有惊喜。
+
+价值投资好多年的00700的腾讯终于过了500，第一次港股打新中签的蜜雪集团如今涨的我都不信。
+
+  
+
+> 上次打新没中，于是这次在丁妈的建议下采取了多账户模式，也就是集合家里尽可能多的人，每个人的账户都放够资金，用足杠杆（200 倍），直接静待花开。
+> 
+>   
+> 
+> 除了暗盘变现之外，准备长持几个账户，跟着蜜雪集团一起成长，过年在海外看到那么多蜜雪的门店，还有大排长龙的场景，让我深刻意识到一句话，中国产品就是又好又便宜，怎么了？！
+> 
+> 星佳，公众号：星佳是个小人物[花了 1 分钟，蜜雪送了够喝 10 年的奶茶钱](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649830841&idx=1&sn=a059b8ed563082f4710ff62a76df0110&chksm=8897bafebfe033e8d457cdec377e4c0f0e8a1675216c7ef1573b6b0a3909fb027bd852685cc5#rd)
+
+  
+
+当年投资房产的时代只要选对城市，找到好地段，恨不得把杠杆拉到最高，祈望通过通货膨胀把账务缩水，同时还能享受房价上涨的美梦，与此同时看到了美股的几次熔断，新闻里听到了华尔街不讲武德最后拔网线套牢散户的真事。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/X7tF8NibHPQ5WtqiclHTlwhwe4IyPh0MKv6nYrd2axZMmL8VsiaWicl36SDwO6sWKHoJwWTCqYQ3QaKxV0lbXfr5fg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+但特斯拉和英伟达，还有指数QQQ等几个美股热门投资标的用事实让房圈的人看到了美国是如何收割全世界的财富的，同时特朗普和马斯克的组合让区块链资产很快会成为国家储备，虽然川普币的确让一些人爆仓了，但投资毕竟是自己的事，币圈乱用杠杆的后果真的很惨。
+
+> 到底如何投资股票市场和区块链资产，其实有很多流派，但定投策略用数据说话，的确很适合小白入场，理解了蛋壳原则后，找到标的，定投长达两个周期即可。
+> 
+>   
+> 
+> 疫情期间写过一篇文章，如何人在内地就可以开通港卡，美卡和积累美国信用分，然后开通证券账户，买入美国七巨头，当然星佳由于是腾讯股东的缘故，所以很早就用了富途持有了 00700，见证了鹅厂的辉煌，并且顺便成为了京东和美团的股东。
+> 
+> 星佳，公众号：星佳是个小人物[居然这么多人不知道如何开港美股的证券账户](https://mp.weixin.qq.com/s/7O8FrZAnyYTNNHiBjCaNSQ?scene=310#wechat_redirect)
+
+  
+
+家庭资产慢慢变富的策略 Version One：
+
+1.房产自住+收租（30年房贷）
+
+2.股票和指数定投（偶尔期权）
+
+3.区块链囤币（远离垃圾币）
+
+4.持续稳定的现金流（创业才可以时间自由）
+
+5.家庭和睦+不多的几个朋友
+
+6.其他不能写了
+
+疫情期间列的思维导图如今有部分内容已经过期，但依然有参考价值，其实人生重要的事就那么几件，年过三十五之后就应该开始做减法了。
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqtibDUrQKyQ0PrnwtI6MLnwEnP9vfpOzBt9GibrlJ5mc9ZTWPNfNUqSsZxsv1UVPTGS0Ve2vEGe4Igw/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+
+  
+
+为了开券商，首先需要一张香港的储蓄卡，然后提供一张存量证明即可开通各大券商，比如老虎，盈立和长桥证券，目前新户都有蛮多活动，欢迎需要的同学联系星佳给官方拉群服务。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqvGcan6Ce805tHIJuEWticYpkfNxco4pfybuxYzbOEFyxNk9CfyMDWZvVWYw7od4QClvWBhqvZdCdA/640?wx_fmt=jpeg)
+
+投资股票的确是需要躬身入局的，起初从模拟盘开始，之后每个月拿出收入的10%去定投自己看好的个股或者指数，毕竟国家允许一个人每年5W美金的额度，参加下港股打新赚点零花钱也是不错的。
+
+最近小米集团的雷总成了一阵子的中国首富，这也代表着中国科技制造业真的要起飞了，跟着趋势，赚点零花钱，长持三年就好，不上杠杆，安心和时间一起慢慢变富。
+
+对了，记得花时间陪孩子，起码生三胎吧。
+
+![Image](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquqpyHRBwNeDZNdYLVD05duKVuKXGbf83eiarwpnexQTLK96Te9DoWDUF6LCJjdvK3c1C0ricTMO15Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)

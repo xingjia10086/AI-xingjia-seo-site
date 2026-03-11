@@ -1,8 +1,9 @@
 ---
-title: "香港优才 难吗"
-description: "**这是星佳和爱米的第******1179******篇原创**"
-date: "2023-02-15"
-tags: ["优才"]
+title: 香港优才 难吗
+description: 这是星佳和爱米的第1179篇原创
+date: 2026-05-10
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '优才']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqvgOLdXUlBmQJjBRkjbDRTupQweXWQg9zY3mvESgNocHdTrZBN2S2VyrlnD86hAJd0JTSy4yB3TlQ/0?wx_fmt=jpeg)

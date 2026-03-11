@@ -1,8 +1,9 @@
 ---
-title: "我不随便听信别人的传言 我要自己来判断  关于香港计划"
-description: "我不随便听信别人的传言，我要自己来判断——关于香港计划"
-date: "2023-01-20"
-tags: ["DSE"]
+title: 我不随便听信别人的传言 我要自己来判断  关于香港计划
+description: 我不随便听信别人的传言，我要自己来判断关于香港计划
+date: 2026-04-14
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', 'AI人工智能']
 ---
 
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawT1W3wGJYVPtxBae3VrVS8YPnibfGPxoRIDiaVbwljE549JDg2zKHia6DicC6Z1iaQicuoHqwX9McL9kibjg/0?wx_fmt=jpeg)

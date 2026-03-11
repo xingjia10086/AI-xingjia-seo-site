@@ -1,0 +1,77 @@
+---
+title: 小白别怕 信用卡 酒店 航空的入门直播来了
+description: 小白别怕，信用卡酒店航空的入门直播来了
+date: 2025-06-30
+category: 常旅客与信用卡
+tags: ['常旅客羊毛', '信用卡攻略', '万豪酒店']
+---
+
+小白别怕，信用卡|酒店|航空的入门直播来了...
+
+
+原创 
+
+
+在此之前，我们持续分享了五次关于常旅客基础知识的直播，效果还是不错的，但是之后发现在微信群里，大部分朋友由于第一次接触常旅客这个领域，对于很多老鸟嘴里常提到的SPG，BRG，搬砖等黑话，还有一夜升金，达美7500飞头等舱等玩法感到莫能两可，疑惑重重，于是这次带班助教星佳打算分享一次给小白们听的关于『信用卡|酒店|航空』的入门直播...
+
+  
+
+当然，最有价值的应该是**实时的问答环节**哦，我们争取能收集一些小白们的问题当场实时解答下，当然作为听众的学员们也是可以回答别人的问题哈...
+
+![](http://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqvTpIO8ESJVuhbIGakxh2fHagccqARIJpGzCI0spKaEZGxmQDZy6IN1Ve8oIwM40807OVEicOoWfFA/0.png)
+
+如果你还没有听过这五次直播，请在微信里扫描可以直接去回听，相信你会很有收获的哈，除此之外，务必请添加客服小王子的微信哦，不然错过一手信息就会错过很多的美好。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqvTpIO8ESJVuhbIGakxh2fH3v7QyEXlcCOqqXlDn7z3Y5yiap8LCkrlersbJLg2X4NA6OIq0ycfryA/0.png)
+
+长按二维码去回听之前的直播哦
+
+  
+
+接下来，星佳附上本周末晚9点课程的部分PPT截图：
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqvTpIO8ESJVuhbIGakxh2fHic5S0IMyp4AjQjGGZ5On82jYibmrPrrAlSSsGu7pNPxRmVIRDInU0x8A/0.png)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqvTpIO8ESJVuhbIGakxh2fHCQIRruWutxic5GUaYNkAMpcy6iatuqk9c8ZqKI2IUlwSKictMsCCKydkg/0.png)
+
+  
+
+so,扫描报名呗：  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvTpIO8ESJVuhbIGakxh2fHYVMgiaNV9SKVMicuhSeX3sc4nwWdROx5xwuOeBb7ADicUBXoKey5ZeqSg/0.jpeg)
+
+  
+
+最后，如果你有相关的问题，欢迎在下面『写评论』处直接写出来哈，方便星佳为周末晚的直播课程提前做好准备哈，我们微信群里见哈...
+
+  
+
+客服小王子的个人微信（会拉你进群，朋友圈及时更新活动信息）：
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvTpIO8ESJVuhbIGakxh2fHY2T8uQ7uMOmtKdJDw1YcQXpYztn7EFPNia6SAOkNm40JONsX0T2EFzQ/0.jpeg)
+
+  
+
+推荐相关阅读：
+
+  
+
+[送你一张万豪&喜达屋酒店集团的金卡，要吗？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649813145&idx=1&sn=5213ae2f8002dcc60830ba4707d6bcb4&chksm=88967fdebfe1f6c861f7d92c6bc9906ebfff5395aab7916ffbd6522c3b4e2a9a18a9f7c95bb4&scene=21#wechat_redirect)  
+
+  
+
+[一篇文章搞懂United airlines 美联航常旅客计划和里程机票兑换](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649813132&idx=1&sn=d4c682cb9cda0c9c0c4f408ee6f49277&chksm=88967fcbbfe1f6dd174847d6df9d8e8470ab74c19a67f6bd8e07f7a14db36ca22738fa4a57c9&scene=21#wechat_redirect)  
+
+  
+
+[以前觉的是别人装逼，后来知道是自己傻逼](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649813128&idx=1&sn=73570ac898aaf7a3014cb0f1a209279e&chksm=88967fcfbfe1f6d979f2e3e078e8d8b274904cc877cf26943c6212124e5dad712ec3e1c666ec&scene=21#wechat_redirect)  
+
+  
+
+[99%的信用卡小白都需要看的小故事](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649813074&idx=1&sn=d08e0157a20af24a9434c7868c47803a&chksm=88967f15bfe1f603da49d392eef43d20679a5e0980ec0be4c67db89785dd4acc8169c83895b1&scene=21#wechat_redirect)

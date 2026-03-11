@@ -1,0 +1,109 @@
+---
+title: 星佳是谁 一分钟了解他
+description: 用星佳是个小人物的笔名在互联网江湖用文字浪迹了几年，日积月累也码了几十万字，原创文章三百余篇。从小人物创业帮的发起人，到目前受邀入驻百度百家、今日头条、一点资讯、搜狐、腾讯媒体平台等自媒体平台，用一个90后的标准理工男跟文字死磕精神来证明星佳对于互联网的热爱和痴狂。
+date: 2023-03-02
+category: 其他与日常
+tags: ['生活记录']
+---
+
+星佳是谁？一分钟了解他....
+
+
+原创 
+
+
+用“星佳是个小人物”的笔名在互联网江湖用文字浪迹了几年，日积月累也码了几十万字，原创文章三百余篇。从“小人物创业帮”的发起人，到目前受邀入驻百度百家、今日头条、一点资讯、搜狐、腾讯媒体平台等自媒体平台，用一个90后的标准理工男跟文字死磕精神来证明星佳对于互联网的热爱和痴狂。
+
+  
+
+从最早教大家占打车软件为快速打开市场而撒钱疯狂补贴的便宜，之后推荐一些好用的小众软件app解决大家的某个需求，再到开始尝试多做线上线下分享，做一些实操类的视频教程，再到现在帮一些传统企业做互联网转型顾问，帮传统行业的手艺人塑造线上的个人品牌。
+
+  
+
+**只要坚持去贡献自己的价值，树立自己的专业性，培养读者的信任感，相信会有更多星佳这样的小人物崛起。**
+
+  
+
+感恩互联网时代。  
+
+  
+
+基础互联网工具的搭建，产品的前后端咨询问诊，宏观上的爆款产品规划到具体的营销推广上的活动策划，自媒体平台技巧，Web端SEO布局，电商平台的侧重点，个人品牌的塑造，这一路上的辛酸血泪和坑可以和你分享交流。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs09BxPkKWOiakticZ174qKrRcKCntSyThLDyuNjZcJTf60B5ib1CJlKwWp3vyXojYa3tg0PZ21lnxyQ/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs09BxPkKWOiakticZ174qKrRyN9lVcShnofsGzvE8tvQzHTh3H9EpaKw6erYv0KO3phQaVspt9YGkw/0?wx_fmt=jpeg)
+
+  
+
+欢迎大家直接关注，也可以加微信xingjia10086，微博@星佳是个小人物，为了让更多小白用户更好的应用互联网工具而努力。
+
+  
+
+为了帮助更多热爱互联网的朋友学习互联网知识，星佳持续录制了很多录屏教程，有演示有语音讲解，目前已经上架到了各大视频网站（搜索 星佳是个小人物 即可）：
+
+  
+
+  
+
+优酷视频地址i: http://i.youku.com/xingjia0951
+
+土豆视频地址：http://www.tudou.com/home/xingjia10086
+
+腾讯视频地址：http://v.qq.com/vplus/dee4d267515b6b55a25e9827b38c171e
+
+网易云课堂地址：http://study.163.com/course/courseMain.htm?courseId=1381012
+
+知知网地址： http://www.zhiizhii.com/c/133 http://www.zhiizhii.com/c/134
+
+  
+
+**各大自媒体专栏地址：**
+
+  
+
+百度百家： http://xingjia.baijia.baidu.com
+
+  
+
+今日头条： http://toutiao.com/m3216796161/
+
+  
+
+搜狐： http://mp.i.sohu.com/xingjia10086/profile
+
+  
+
+品途网： http://m.pintu360.com/u/555d8c8b95a8a43878382d38.html
+
+  
+
+砍柴网： http://space.ikanchai.com/xingjia0000
+
+  
+
+腾讯新闻： 请直接去腾讯新闻App里搜索『星佳』即可  
+
+  
+
+  
+
+同时附上几篇媒体采访：
+
+  
+
+[90后，小人物也有大世界｜专访星佳](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=209600060&idx=1&sn=fbfa2735278cd630a3a33d140c7f7732&scene=21#wechat_redirect)  
+
+  
+
+[“互联网+”创业众生记：自媒体人也需要一款APP](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=209132071&idx=1&sn=d96ec5dee5f7cd51c9266eea0e46fcc8&scene=21#wechat_redirect)  
+
+  
+
+  
+
+微信xingjia10086，微博@星佳是个小人物
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs09BxPkKWOiakticZ174qKrRtRVXbFibTsQOf2oAL9QPbRsibOEZCnNkFPqNXuc6hXHdlWn6msYgaVsA/0?wx_fmt=jpeg)

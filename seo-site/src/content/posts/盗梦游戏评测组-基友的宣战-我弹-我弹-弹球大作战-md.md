@@ -1,0 +1,120 @@
+---
+title: 盗梦游戏评测组  基友的宣战 我弹 我弹    弹球大作战
+description: 盗梦游戏评测组 基友的宣战！我弹！我弹！ 弹球大作战
+date: 2022-02-06
+category: 其他与日常
+tags: ['生活记录', 'AI人工智能']
+---
+
+【盗梦游戏评测组】 基友的宣战！我弹！我弹！—— 弹球大作战
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+以下文章来源于盗梦极客之VR虚拟现实 ，作者盗梦极客评测舢舨
+
+[
+
+![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM6DtAYZynYUREctxFkZehSk3cAJRVnibw2GLp99M6sZ0fw/0)
+
+**盗梦极客之VR虚拟现实** .
+
+喜欢虚拟现实吗？新闻？玩机心得？教程？产品售价？你想知道的这里总是会有的。呃...你说没有？【DmGeek.com】总会有的，还没有？来论坛问吧。
+
+](#)
+
+ **盗 梦 极 客** 
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9C7AJdojdjibXJm4jYTMC0TuicmR569NlgKu9PjmO5wOdxd81CCACthTtA/0?wx_fmt=png)
+
+最近小编有幸玩了一款号称15天引爆韩国的超爆款VR大作《弹球大作战》，这是一款国人发的VR游戏，这款游戏并没有在steam上架，需要安装造梦科技平台来下载该游戏，支持htc vive，郁野科技开发。
+
+![](http://mmbiz.qpic.cn/mmbiz_gif/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9C9Hc61uzJdW46icKY3Z5xf2tH5QRYhK0t6YHnCTcyicdFk7u1tYMteJ1Q/0?wx_fmt=gif)
+
+该游戏看似为卡通休闲类游戏，实则为竞技类游戏（射击游戏），但小编头一次进入游戏时还以为是恐怖类游戏，因为其中有个地图还是比较瘆人（包括音效），而且我环顾四周的时候，左边有一只巨大的狐狸在看着我（其实角色名称叫狼人），着实被吓了一跳。
+
+![](http://mmbiz.qpic.cn/mmbiz_gif/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CtSCWLRPJBvdkBamibIPSFva2wBEZYuoHkPuTFXiappzunCgwg3DwpIqw/0?wx_fmt=gif)
+
+进入游戏，首先会来到一个类似古代城门顶部的地方，一旁摆放着一个游戏机和一块白板，白板上可以画画，据开发团队称，未来可能加入通信功能（和其他玩家互动）。游戏机内可以对游戏的各项操作进行选择，支持局域网对战和互联网对战。三个地图两个人物。初始界面的音效给个赞。小编在玩的时候碰巧互联网对战有一个房间开着，就进去和对方玩了几局。
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CibNa2ic7oWiaeCPOvArLficm3QdMyTHjZoV0UDxqhafSicwEfpCias0AoRIQ/0?wx_fmt=png)
+
+这是一个占领据点的游戏，不在乎杀的人数有多少，据点占的数量多的一方获胜，就像lol和农药是推塔游戏一样，但是到游戏里面，抢人头的过程才是最开心的时刻。不过该游戏其中一个地图没有占领据点的规则。图中白色光线顶端顶着个球，那个位置就是据点，站到光线下面等待周围的一圈和球变成自身队伍的颜色就算抢占一个据点，不过在游戏中并没有说明则，只是场景内会有指示牌提示你该走的路线，头一次玩杀了对方好多次，但是到时间结束提示为平局，小编我一脸懵逼。。。  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9Cq00w0YeL0bJyvicxFJEeZXpe71OlZXHIFMLn8LYPxibs0qYHvJXCYIpg/0?wx_fmt=png)
+
+三个地图的场景都是非常卡通但制作的相当精致，可见开发团队在场景制作这方面还是下了一定功夫的，两个人物：狼人和木乃伊，有不同的技能，狼人右手是发射弹球的，左手有个魔杖可以让发射出去的弹球进行二次加速，木乃伊右手有个球拍可以打掉弹球，左手的物品具体作用是减速敌人发射过来的球，个人感觉还是狼人易上手而且容易获胜，但近身攻击还是木乃伊比较厉害，只需挥动几下球拍敌人就挂了，弹球的攻击力远不如球拍。
+
+![](http://mmbiz.qpic.cn/mmbiz_gif/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CKgPtgOvHz6rzaBMoxgm3o9oZcVopP53X5Ric677n6KWn5nicoJa1o2Ew/0?wx_fmt=gif)
+
+实力坑队友
+
+小编还发现一个大部分steam游戏不具有的细节：在游戏人物到墙面或某个物体时，现实中走过去游戏内不会穿墙或看到物体里面的内容，而是跟着你自身移动而移动，因为steam上有很多游戏可以利用这个特点来躲避敌人的攻击或通关，所以这点做的很周到，避免了卡bug。
+
+![](http://mmbiz.qpic.cn/mmbiz_gif/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CAV03LXBJRI0icBibKUd9BuH2uekBt3jdJIl9whjQxAwVibE64KnmeVvicQ/0?wx_fmt=gif)
+
+基情满满
+
+![](http://mmbiz.qpic.cn/mmbiz_gif/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9C4XjG2TK1jscahyFhzUYhlS6o12gR9hfkg2ONfeJibYiaTqadFIH2bCoA/0?wx_fmt=gif)
+
+小编这水平无力吐槽  
+
+**总结：**  
+
+场景模型精致，卡通化，音效和游戏内容搭配合理，细节设计到位，游戏易上手，眩晕感控制的很好。在目前steam以单机类打僵尸射击游戏为主的VR游戏中加入多人互动功能和画面卡通化，使趣味性大大的增加，适合各年龄段人群体验（包括女生）。
+
+但是人物模型还是有点吓人，有待改进，功能较少：地图不多，角色单一，建议增加语音互动功能（这些是难免的，毕竟刚开发）。字体太过卡通，不够养眼，角色名字可增加自定义功能。人物移动方式为手柄的前后左右方向键来移动，但缺少8个方向的移动，操作不便。进入游戏的初始场景太过单一可进行优化。建议在游戏过程中显示所杀人数和占领据点数量（显示方式为可直接显示或在某个物体上或按键显示）。
+
+期待未来推出的移动版能让更多的VR玩家能体验到这款游戏。
+
+  
+
+**bug：**
+
+有二级跳跃按住跳跃键会有短时间的滑翔状态可跳至地图外面。
+
+等待玩家进入时做自杀行为游戏画面会卡住需要强退。
+
+  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CYukC9hFS746YqI63O3ppTxpVJemwNXkLawualEAQLmjMeCp2YIXIIQ/0?wx_fmt=gif)
+
+  
+
+**_盗梦评测组：_**
+
+**是由盗梦极客号召，论坛玩家为主的游戏评测群体。为了让玩家们更多的了解VR游戏，也为游戏公司提供玩家的反馈体验信息，让玩家和游戏公司互动起来。旨在为VR内容推荐更新鲜的血液。**
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CmskLpzcgtkAxSF0zDV7uiakL5385YnR442RdOpUzV4sgfiaxMW7kb09A/0?wx_fmt=png "undefined")  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9Ct5j09SqthAISOicHJZXSGLL2TicDSlWsUOrH6gKSHQh3MSdmLcCiaQ2aQ/0?wx_fmt=png)  
+
+**这是一个有性格的公众号**
+
+**ID:DmGeek**
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CGsWBVlObyyiacnsBmsibGcE3Fj31CGODibRog9Rmvbpp30Pn2gS08AbIQ/0?wx_fmt=jpeg "undefined")
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XFI3xllwqJoZHOtBLBicGsTlgzwlAicu9CbMhDbpkyseIPS3JKNDpGib7aULTbz7QauHrdQ5lRzpR3Ju02VVztc0g/0?wx_fmt=png)
+
+盗梦极客
+
+扫码关注更多精彩
+
+  
+
+> 声明：
+
+> 我们精选的文章均已注明来源，转载文章版权属原作者所有。部分文章推送时未能与原作者取得联系。若涉及版权问题，敬请原作者及时联系我们删除，联系请注明“版权”。
+
+> 微信：274139818
+> 
+> 投稿：contact@dmgeek.com

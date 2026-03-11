@@ -1,8 +1,9 @@
 ---
-title: "拿到香港大学佛学的Offer了"
-description: "《 [四个早点和六个国际化](https://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649819989&idx=1&sn=ec54b723fb97320439b1536350255045&chksm=88978412bfe00d04d7f444"
-date: "2023-01-22"
-tags: ["DSE"]
+title: 拿到香港大学佛学的Offer了
+description: 四个早点和六个国际化httpsmpweixinqqcoms__bizMzA5ODQwMDgwOAmid2649819989idx1snec54b723fb97320439b1536350255045chksm88978412bfe00d04d7f444
+date: 2026-04-16
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', 'AI人工智能']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvVMj6ey8fp8otEg4BOCjQSEB4iaz6vINGDWtDaOUksV2ia9kradhRAt2ialetPBSfaD6iaQzia09gqq5g/0?wx_fmt=jpeg)

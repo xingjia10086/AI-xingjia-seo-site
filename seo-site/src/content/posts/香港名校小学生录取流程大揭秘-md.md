@@ -1,8 +1,9 @@
 ---
-title: "香港名校小学生录取流程大揭秘"
-description: "**![](https://mmbiz.qpic.cn/mmbiz_jpg/DgUs24w7xyYqIWjAgXgQk5JmslIxxbYsEOJBaiaOU0UHQUYuRypzkCSN2F3IZNfLUZJE90ib7ycTSXN5T6dicRLiaA/640?wx_fmt=jpeg&wxfro"
-date: "2023-02-18"
-tags: ["香港生活"]
+title: 香港名校小学生录取流程大揭秘
+description: httpsmmbizqpiccnmmbiz_jpgDgUs24w7xyYqIWjAgXgQk5JmslIxxbYsEOJBaiaOU0UHQUYuRypzkCSN2F3IZNfLUZJE90ib7ycTSXN5T6dicRLiaA640wx_fmtjpegwxfro
+date: 2026-05-13
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '学区房']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawS6JX3qMSVVs2Ihw6SSibZu4YD70icb31254qKt7WUewX4icfeuGGgZCTUApwpN6ia6fO7jkoXUCAzbPg/0?wx_fmt=jpeg)

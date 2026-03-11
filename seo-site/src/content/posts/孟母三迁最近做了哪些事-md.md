@@ -1,0 +1,32 @@
+---
+title: 孟母三迁最近做了哪些事
+description: 从深圳，到杭州，到上海，今天终于到北京啦。
+date: 2025-02-06
+category: 家庭教育与成长
+tags: ['家庭教育', '孟母三迁']
+---
+
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvkuyNDIFE4C6YW5TiawxqbJPoh2uEwicVSDVhvicUxhYFbyXiaqhaKhrMp4aGb1MGmSUMPgscXP8P4VA/0?wx_fmt=jpeg&debug_from=ios)
+
+孟母三迁最近做了哪些事？
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+从深圳，到杭州，到上海，今天终于到北京啦。
+
+  
+
+嗯，小鱼老师作为香港人在深圳创业，受到了媒体采访，这也是我们团队第一次集体露脸。
+
+  
+
+然后爱总开始逼着自己每天要直播啦，真是鸡自己啊。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqvkuyNDIFE4C6YW5TiawxqbJZcK0703ZiahJI7iceoK4ibngfX1tZCkmPLVMkT0HcibibB89AibO03ib0SaaA/640?wx_fmt=png)
+
+​

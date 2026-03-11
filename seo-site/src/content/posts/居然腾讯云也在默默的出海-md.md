@@ -1,0 +1,53 @@
+---
+title: 居然腾讯云也在默默的出海
+description: 去年开始，各种鹅厂离职群突然活跃起来，尤其聊出海和超级个体，还有Web3的主题群，这些Web2时代的很多精英们开始肉身投入到建设Web3世界里。
+date: 2022-11-06
+category: 其他与日常
+tags: ['生活记录', 'AI人工智能']
+---
+
+![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqukBJRFpjDXygHEictqYCmYOZia2PnzDz6ZCbVQicicOpUy594s1riamQhXhRP9BcTAOia7jgiclhZ5oxtDg/0?wx_fmt=jpeg)
+
+居然腾讯云也在默默的出海
+
+
+原创 
+
+
+去年开始，各种鹅厂离职群突然活跃起来，尤其聊出海和超级个体，还有Web3的主题群，这些Web2时代的很多精英们开始肉身投入到建设Web3世界里。
+
+上周群里看到同事发的活动，看了下主题还挺感兴趣，于是报了名，今天在滨海大厦和几十位在坑的和离职的聊了一下午，鹅厂的确一如既往的低调，居然CSIG的腾讯云服务在海外已经默默布局了这么久，并且帮助很多Web3公司提供了基础设施。
+
+从官网截图个生态系统合作伙伴
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqukBJRFpjDXygHEictqYCmYOG2ibp39u6pmPeLib1ibhp4S9G1m8y9wG42RtQCvibK67z1eSDhEMt1Lk1g/640?wx_fmt=png&from=appmsg)
+
+如果你是Web3老人，这些公司的Logo应该都认识，尤其从川普大选期间最火的 PolyMarket 其实就是 polygon 这条链上可能最知名又最赚钱的 Dapp了，据说明年初也要发行自己的token了。
+
+有能力访问这个网站的建议去看看，最好用Web3钱包登录下，之后找到一个感兴趣的项目，投个1U玩玩，体验下热钱包做区块链项目交互的感觉，全球最大预测市场，让选民们用真金白银选到了他们支持的领导人。
+
+继续说下午的精彩分享，第一站先去参观了展厅，在公司服务了快四年，居然自己还没去过展厅，在爱马哥签到的时候，就看到一群外宾，和一群穿着校服的学生们也在等着排队去展厅参观，听专业的解说同事边讲边体验，很多时刻把记忆拉回了小学时代大半夜注册的第一个QQ号的回想。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqukBJRFpjDXygHEictqYCmYOdh8Q1PC0XxyI7ia0CgleZ2mp3kZia1Q7hUN8HeusBbq90WK0Yy9iaLm7A/640?wx_fmt=png&from=appmsg)
+
+谁能想到从一个聊天室开始的天南海北的几个热爱互联网的年轻人，最后能成为改变世界的网友们，对中国互联网历史感兴趣的同学们可以去小宇宙收听两个播客 @保持偏见 和 @半拿铁，完整回顾从中国联网到如今的短短二十多年的精彩。
+
+等你真的研究完中国互联网发展史之后，再看看目前腾讯在港股的股价，会发现一个共识：
+
+如果你觉得创业太辛苦，如果你也没办法入职腾讯，那么你可以真金白银的去买00700的股票，让全中国最聪明的一批人给你打工！
+
+如果你没有港股账户和券商也没关系，港股通目前还不交税！
+
+如果跟某个大佬一样真的All in腾讯，几万块办一个某小国绿卡后，2700万港币All in 00700，直接就可以投资移民香港了，七年后等熬到永居，居然还赚钱！
+
+扯远了，以上只是个人观点，目前针对普通人最适合的方式就是每个月拿工资的一部分去定投你看好的个股或者指数就好。
+
+下午的分享简单用AI做个总结，现在在AI的辅助下学习效率真是蹭蹭的！
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqukBJRFpjDXygHEictqYCmYO5ic3AJHHmVTMLan34LHHZlTkxnMLySKeV0iciaC244wz3WvSyTgn0KKuw/640?wx_fmt=png&from=appmsg)
+
+带着疑问和ChatGPT聊了下，云服务作为基础设施，其实为整个互联网行业默默的做了很多事，如果你的产品或者服务选择出海，不妨去腾讯云国际站看看，和AWS Azure比，单纯客服响应速度这一块儿就赢了！
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqukBJRFpjDXygHEictqYCmYOSRubaxYpsMUXzeFFibDY0J67OEot4f776m0NMLaQAhrPA98v1Uibmz7A/640?wx_fmt=png&from=appmsg)
+
+时间差不多了，来不及写更多，先推送了，晚安。

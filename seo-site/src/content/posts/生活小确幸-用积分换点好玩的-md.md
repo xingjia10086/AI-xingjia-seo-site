@@ -1,0 +1,89 @@
+---
+title: 生活小确幸 用积分换点好玩的
+description: 之前在文章花了两小时，如何忽悠留澳五年的海外留学生回国到深圳发展？httpmpweixinqqcoms__bizMzA5ODQwMDgwOAmid2649815786idx1sn335c2af0e07a6ab7a544c86abd70d6e1chksm8
+date: 2023-06-01
+category: 其他与日常
+tags: ['生活记录']
+---
+
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wqtQokfZa6T4sRLToAL914Xx7tGgA4zRc8JXEwoqC0mEbpcgVRSWgf0P8FQ5Eo27giaJH1zzFc1lK9w/0?wx_fmt=jpeg)
+
+生活小确幸，用积分换点好玩的....
+
+
+原创 
+
+
+之前在文章「[花了两小时，如何忽悠留澳五年的海外留学生回国到深圳发展？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815786&idx=1&sn=335c2af0e07a6ab7a544c86abd70d6e1&chksm=889675adbfe1fcbb8c2840c702fdda43eb733445fd94f551834a0f7aba837d0d8fe129f98e71&scene=21#wechat_redirect)」里写了跟刚回国的朋友聊深圳的科技生活，最近机缘巧合又调查了国内技术团队出海发展的案例，听了蛮多他们聊海外本地化的经验....  
+
+  
+
+比如在大V @李自然 在他的油管频道里，提到了印尼的机会，同时他们也在那边上线了一款叫做 penyu 的音频类App （国外安卓市场被 Google Play 垄断），根据网友的评论和总结，简单整理了几点，限于大家简单了解：
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqtQokfZa6T4sRLToAL914XxdGlxCZ4arDQEbMWLH1nj1gZwtk8ntKo9VkVLfebicwCG8uChB27NqJQ/640?wx_fmt=png)
+
+  
+
+更多内容大家可以去搜索 @李自然 大佬的vlog频道，坚持了一年多的视频分享，很赞...  
+
+  
+
+今天是十一月的第一天，刚好还是个周末，不知道哪根筋抽了，突然就想打开中信信用卡的App看看这个月有没有9分享兑的机会，毕竟前两天生日把一堆没有主动生日问候的信用卡都销卡了....  
+
+  
+
+在「[年近30了，做一只绽放的男人花....](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815804&idx=1&sn=57d4bd0926fdc89e09d8168008dc3e0b&chksm=889675bbbfe1fcad540cc6e7a779a15a832bcebc0f61bf5251915e43f5f033af175aecff65ee&scene=21#wechat_redirect)」里，除了回忆过去，更重要的是活好当下，那就从把消耗征信记录的多余账户信息清理掉，果断销户了几张信用卡，而中信看在 亚万 还能兑换周杰伦演唱会门票的份上，先留着吧。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqtQokfZa6T4sRLToAL914Xx4IFZhib1pdqKxOTxAiceVwAocFIJfxxMXHdqTibfq1AJ0toRjUU51D4iaA/640?wx_fmt=png)
+
+  
+
+在未来春藤「[深吹夫妇 818为何要加盟「未来春藤」](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815632&idx=1&sn=47fa89ccd46f4a685edbf7b5802bec2c&chksm=88967517bfe1fc01a9922a054f71442768ba268e5b2f8b16d79e47a5affd700f264164661ac3&scene=21#wechat_redirect)」的启发下，开始有意识的给小星星多买绘本，多读故事，所以看到「9分享兑」里居然有ABCbook的借阅体验，不妨试一试...  
+  
+国内的互联网服务真的做的越来越好了，从八爪鱼细分到绘本借阅，甚至花呗里还推出了儿童玩具租借的线上服务（可见信用分还是蛮实用的创新），在勤劳致富的中国人们的努力下，似乎你可以找到任何你的确需要的服务，只要你真的去好好找一找....  
+
+  
+
+前两天猛的发现深圳各种线下店已经覆盖了刷脸支付，全程只需要本人按一次确定即可成功支付，真爽！
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqtQokfZa6T4sRLToAL914Xxgib7Mf5pccnAXjlup2gRsH8mcILSzgVaRv8gc66oEI0GbA3gxPBp2lA/640?wx_fmt=png)
+
+  
+
+「一本家长读物+八本儿童绘本」的组合，京东物流包邮到家里，租金和押金都免了，先给中信信用卡点个赞吧，等下周体验后再来给总结。  
+
+  
+
+针对孩子，你还有什么值得推荐的互联网产品或者服务呢？
+
+  
+
+**为什么前面会提到「技术出海」呢？**  
+
+  
+
+不瞒大家说，国内的互联网服务确实竞争太激烈了，也就在这样的红海竞争里，大量的国内创业团队历练了足够的耐心和勇气，所以从第一位出海大神通过个人开发的工具赚到美金以后，越来越多的国内技术团队把眼光盯到了海外....  
+
+  
+
+而东南亚除了 p2p 游戏等行业发展迅猛之外，其实也有蛮多基础的互联网服务都有中国人的背景，深圳的「传音手机」成了非洲老百姓们的福音，小米手机也在两印市场取得不俗战绩，甚至一度成了某些国家某些阶级的 奢侈品。
+
+  
+
+这就是当下正在发生的事情，作为一个地球村的人，我们的眼光真的应该放眼全球，做一个拥有「全球视野」的国际人。  
+
+  
+
+周末愉快，晚安
+
+  
+
+微博@星佳是个小人物  
+
+微信: xingjia9527

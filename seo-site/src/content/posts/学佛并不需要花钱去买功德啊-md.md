@@ -1,0 +1,69 @@
+---
+title: 学佛并不需要花钱去买功德啊
+description: 早晨还有辟谣的，晚上官方就定性了，这些年贴二维码收功德的寺庙越来越多了，其实如果花钱就能修行正果，那也没有我们这些凡夫俗子什么事了。
+date: 2022-10-15
+category: 其他与日常
+tags: ['生活记录', 'AI人工智能']
+---
+
+![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsKibcL9mol2RRDJZ0tTugaBZBL7HlrhGDyPHO1GSeA6kuawjZ2EJcicl0qTaV7NPBmsHNtx3GftJCg/0?wx_fmt=jpeg)
+
+学佛并不需要花钱去买功德啊！
+
+
+原创 
+
+
+早晨还有辟谣的，晚上官方就定性了，这些年贴二维码收功德的寺庙越来越多了，其实如果花钱就能修行正果，那也没有我们这些凡夫俗子什么事了。
+
+  
+
+并不想蹭热点，也没本事传法，只是想借此机会推荐一点儿纪录片和书籍等学习资料，对于那些试图花钱去表诚心的行为，不止脱口秀演员会吐槽，稍微读了点书又脑袋清醒的人都做不出来这种事。
+
+  
+
+个体在群体里，的确会降智，「乌合之众」这本书值得看看，还有奈飞出品过几部讲述邪教的纪录片，美国，台湾和韩国等国家都有无数人因此送命。
+
+  
+
+这些纪录片不仅记录历史，更揭示邪教的共性手段：
+
+  
+
+• 精神控制：利用创伤人群（如家庭不和、社会边缘者）提供虚假归属感；
+
+  
+
+• 神化领袖：伪造“神迹”（如预言天气、疾病痊愈）巩固权威；
+
+  
+
+• 隔离与恐惧：切断外界联系，灌输“背叛即毁灭”的极端思想；
+
+  
+
+• 性剥削制度化：以“赎罪”“神圣婚姻”之名合理化侵害。
+
+  
+
+  
+
+至于资源就不推荐了，各位自己去问 AI 推荐吧，豆瓣里可以关联推荐相关主题纪录片。
+
+  
+
+不过建议大家真的想做善事，可以搜索腾讯 99 公益，去看看里面有没有你感兴趣的公益项目，不仅能看到项目介绍和进度跟踪，甚至还能得到积极的反馈，其实做慈善这件事并不比创业难，感兴趣的可以听听李连杰创办「壹基金」的故事。
+
+  
+
+以下三门课或者书，值得看看，其实买这些知识并不贵，只是修行的确需要时间，而不是花钱给所谓的得道高僧去心安！
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsKibcL9mol2RRDJZ0tTugaBQn22Tr8qiaHM4Qzric801Hwp6o4CubaSyYguZF1sztQY0I1aicaLSxE3Q/640?wx_fmt=jpeg)
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsKibcL9mol2RRDJZ0tTugaBO34DtZWnrgTg70qeNJ4hsJMdZf2iaIhkv79mSm8kNpvRQOSV2QrIGPw/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsKibcL9mol2RRDJZ0tTugaBc9CoYy9cSARgYqomRp0fhvTdvdA6P780Qic9m1MNG4PtAphfMiaq2UpA/640?wx_fmt=jpeg)

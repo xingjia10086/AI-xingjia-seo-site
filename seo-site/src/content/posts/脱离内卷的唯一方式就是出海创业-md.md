@@ -1,0 +1,257 @@
+---
+title: 脱离内卷的唯一方式就是出海创业
+description: 这是星佳和爱米的第1328篇原创
+date: 2024-10-29
+category: 商业创业与自媒体
+tags: ['创业干货', '自媒体变现']
+---
+
+![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtegFCe2rsOCbYIb6OuooXJEmRocpCImr9VgQAdcCp54IWP7uzxh4pOG00h0yOrTcfqkIyGiaybcjA/0?wx_fmt=jpeg)
+
+脱离内卷的唯一方式就是出海创业 ！
+
+
+原创 
+
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquqpyHRBwNeDZNdYLVD05duKVuKXGbf83eiarwpnexQTLK96Te9DoWDUF6LCJjdvK3c1C0ricTMO15Q/640?wx_fmt=jpeg)
+
+  
+
+  
+
+点击下方“星佳是个小人物”关注公众号
+
+和上百个家庭一起实现 
+
+《 六个早点和国际化 》的愿景
+
+  
+
+**这是星佳和爱米的第 1328** **篇原创**
+
+**持续记录从宁夏到深圳和香港的**
+
+**孟母三迁之路**
+
+  
+
+  
+
+结束了新加坡的行程，飞到了隔壁的吉隆坡，为了了解为何新加坡建国短短59 年就成为发达国家还找了一些资料学习，真的为华人的智慧钦佩，可能和我党一样是全世界屈指可数的几个成功创业团队，从一穷二白到如今成为世界上举足轻重的国家，华人很屌！  
+
+  
+
+尤其和每个土生土长的新加坡人，或者新移民聊，他们都很感谢自己的国家，房子便宜，买车也还好（其实打车和公共交通也都很适合），解决了车和房子的问题后，就业率也很高，至于教育也的确没内地那么卷，毕竟只要新加坡的孩子想学习，不管是技术路线还是学术路线都是 OK 的，于是没有房子教育和医疗三座大山的负担后，有大量时间和费用可以花在提升自己去做感兴趣的事上，除了国家的确比较小和资源有限之外，似乎真的没啥缺点了。  
+
+  
+
+> 独立后发展（1965 年至今）： 
+> 
+>   
+> 
+> 经济发展：
+> 
+>   
+> 
+> 新加坡独立后，在政治、经济、国防、外交、社会等方面实施了一系列政策。
+> 
+> 新加坡政府采取了多种措施促进经济发展，包括吸引外资、发展制造业、提升服务业等。如今已成为全球重要的金融、航运和贸易中心之一。 
+> 
+>   
+> 
+> 社会建设：注重社会建设，在教育、医疗、住房等方面投入大量资源，提高了国民的生活质量，建立了多元化的教育体系，培养了大量高素质人才。 
+> 
+>   
+> 
+> 城市规划：以高效的城市规划和管理而闻名，建设了现代化的基础设施，如高效的公共交通系统、先进的通讯网络等，城市环境整洁、有序。
+
+  
+
+在听教授分享的过程中，他风趣的举了好几个例子，从经济和税收的角度解释了 SG50 年的成功，并且正在探索接下来 SG100年的研究，很期待他之后的研究成果可以公开分享，或许会给更多发展中国家提供一些新思路，总的来说就是，交易产生财富。
+
+  
+
+如果一个城市的公共交通需要不断让大家换乘交通工具，比如先地铁再公交，其实应该转车免费，或者公交费要打折给乘客，顺便说一句，一个欢迎学者和老百姓可以公开批评某些政策的国家的确是很有前途的政党。
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npxDQmBdria5PsOoHbibwDFcONBBqSlS9OhlulGtZ3GJyCr5WrMYWG6lTCg/640?wx_fmt=png&from=appmsg)
+
+  
+
+短短一周的确是无法了解一个新国家的，但是听听当地人的真心话还是很有参考价值的，我们对热门打卡点并不热情，倒是去新加坡老牌富人区的延庆寺打卡，跟第三代华人聊了聊他的人生故事，很有启发，老人家经历的多，看破。  
+
+  
+
+新加坡当地大学毕业的年轻人倒是创业热情不高，跟老老实实工作相比，的确创业是个不划算的行为，这也是发达国家尤其是金融自由的缺点吧，毕竟金融太赚钱了，科技创新是个失败率很高的创业项目，于是各个阶层的人过着各自互补的生活，挺和谐的。  
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npxI5cEoT8UMXfMdp6ian822kaqpaAZCOkHK6gjsKk36nomK4RzD1mCU4Q/640?wx_fmt=png&from=appmsg)
+
+  
+
+从周六的 CBD 中心谈完事去机场，不堵车，甚至人都没看到几个，加班是不可能加班的，确实违法，所以哪怕上市公司其实也只放了部分小团队在新加坡而已，提供技术支撑和开发的大部分还是在中国国内，如此协作是最有效的，发挥各自优势互补，毕竟新加坡的各种成本真心挺高的。
+
+  
+
+从樟宜机场到吉隆坡只需要飞一个小时，自助值机和贵宾厅休息一会很快就到了，可惜糟糕的接机体验让我们等 Grab 的车等了蛮久，折腾到一点多才能吉隆坡机场回到市中心的酒店，让我意外的是，居然凌晨两点的市中心还堵车，而且人流窜动，不少店还在营业，于是我们一行六人找了个餐厅又吃了点宵夜才回酒店睡。  
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npxsTlSThE4O64oUZicZibwQlA65AaiammrkomfYllaymiajNZQ22RW9LN7rg/640?wx_fmt=png&from=appmsg)
+
+  
+
+去了马来亚大学聊了个留学项目，听了肉身在吉隆坡五年多的老师聊了很多他在大马的感受，似乎就是一个性价比高的新加坡，同样作为本地人房子和车子是真的便宜，但和新加坡不同大马毕竟不是一个移民国家，所以至今第二家园的政策也没有太明确。
+
+  
+
+毕竟论办事效率来说，的确比不上泰国，甚至旅游局懒到对吉隆坡的宣传真的不如泰国到位啊，但这边似乎才是更适合躺平的地方，事实证明这几年的确越来越多的中国人已经拖家带口过来了。
+
+  
+
+人均汽车 1.5 辆，人家买摩托车真的是因为方便，而不是只能买得起摩托车，而且不管租房还是买房，一定是赠送车位的，但另一个鬼故事是，朋友 10 年前买的吉隆坡的房子，至今也就涨了 10% 不到，要知道 14 年原本他计划那笔钱去买上海的房子，但人家也并不后悔，一口流利的英语和华语。
+
+  
+
+如今王总在吉隆坡管理一所公立大学的吉隆坡新校区，期待后天的挂牌仪式孟母三迁的精彩报道，希望新校区今年开学季就一炮而红，让更多中考失败，或者不甘心读大专的同学们可以来吉隆坡玻璃市大学真的为自己的人生努力一把，逆袭 这个词也可以是描述自己人生的形容词。
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npxjrlabf4OdGUYv4xvfDV7NJwvkLIib4uMDDU0OFTX7ibEhN4RfFjS5jRg/640?wx_fmt=png&from=appmsg)
+
+  
+
+  
+
+虽然这所大学并不是QS100 的本科，但是留服认证还是没问题的，甚至可以让国内中考失利但的确想再好好读书的孩子们再给一个机会，高中两年学好英语，雅思符合要求后即可过来上三年本科，尤其是工商管理，传媒和计算机等相关专业，之后还可以继续升级香港或者新加坡的高校研究生，弯道超车去当地工作，而不是和很多本科生在国内卷。  
+
+  
+
+老哥分享了快十年做马来西亚华侨生联考的经历，原来这些年国内参加华侨生联考的人数从 3000，到 5000 再到 1W 人，最差也能上个国内的 985211 本科，如果孩子足够优秀，有父母来吉隆坡陪读两年，拼一拼的确可以冲击下清北，但对于选择华侨生出路的父母们来说，能努力上个 C9 已经是很满意的结果了，这就是父母知道了很多人的不知道，充分利用好政策和信息差。  
+
+  
+
+总的来说，新加坡和吉隆坡都挺适合生活和创业，无非看你的目标用户真的需求是哪些，帮有付费能力的客户们解决问题就好。  
+
+  
+
+明年高考考生全国突破1500万，复读生有500万，华侨生联考才1万人，400多分真的可以上大陆985 211
+
+  
+
+升学规划，身份＞教育路径＞补习
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npxfFcY36rVvxrbaCgeJHPCP1hUL9BfDOXFlLGTh33SNVkibPcAw0fvvZA/640?wx_fmt=jpeg&from=appmsg)
+
+  
+
+对于学渣来说，如果连香港都会，珠海等学校的本科都搞不定的，的确可以考虑来吉隆坡或者新加坡重启升学之路，要么直接国际本科拿留服认证，要么通过华侨生联考考回国内本科。  
+
+  
+
+说到底，其实哪怕学习再差的孩子都有路的，无非是父母能掌握多少信息，根据孩子的实际情况提前规划，要知道很多孩子只不过不适合内地的教育模式而已，换个环境，能找到学习的主观能动性，那就是另一种人生了，高考不过是人生的开局而已。
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqs4DZuNxfEyec0HSwiccfrlCBrF8GoSX7QWq1Hu4eZFqbWsfT2Wd1Gwcta4dqMickyMptXhMdqjaI0w/640?wx_fmt=jpeg)
+
+  
+
+  
+
+坚持写自己家发生的事，把这些文字留下来给下一代看，这就是为何一直不追热点，也不蹭流量的原因吧，这才是写作带给星佳的最大收益，也是别人抢不走的财富。
+
+  
+
+  
+
+阅读相关文章，了解更多孟母三迁的6个早点和6个国际化之路（记得扫码领取关于6个早点和国际化的资料 ）：  
+
+  
+
+《[收到了一份客户准备了三年的礼物](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827974&idx=1&sn=256e6e10f1d4a415d95b7655c0f1d740&chksm=8897a5c1bfe02cd7db9016d402f76823c92b3585fb1e60b6e7dad744ab1b865d962472a484e9&scene=21#wechat_redirect)》
+
+《[从创业到创造幸福：孟母三迁团队的共同成长之路](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827314&idx=1&sn=bd3d273118c5c7213175953d4c030ee3&chksm=8897a8b5bfe021a3d48843e7324ecc3286d0e053781f8c0ed6dad0541d37052c94e8cd74eb9e&scene=21#wechat_redirect)》
+
+《[《 好的家庭教育 》 学习笔记](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827935&idx=1&sn=0c3bf6385a99cce824dde9a641dfa3ae&chksm=8897a518bfe02c0e6279708d13fe9a0cc6ce24f754cf0a377a8ccb1611f5d4a0a03ceb57df81&scene=21#wechat_redirect)》
+
+《[我的孩子还没出生，但是我想付费跟做出结果的父母抄作业](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827949&idx=1&sn=3be811f92fe45a044034814aa352f438&chksm=8897a52abfe02c3c9f34de97750fd07fb5d0917e6f75140545dbaeaeaee7801a1f20734a211b&scene=21#wechat_redirect)》  
+
+  
+
+  
+
+  
+
+  
+
+临在时刻
+
+—  
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npxyZ0kcFqmBdficOPhlSBwGxNKDIxP4P8JbdEyaGDy28I0XQGRAK2IUOw/640?wx_fmt=jpeg&from=appmsg)
+
+  
+
+  
+
+这两天孟母四人组一直奔波在路上，最好的休息时间就是在车里补觉，每天听过来人聊他们的奋斗故事，听当地人聊他们的幸福生活，时刻对这个世界保持好奇心。  
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npxJzFqkW69U9GGNMLuiaVUMaZicZWIdLYzaqZEY5956rIRWQsTZxtibUZiaA/640?wx_fmt=png&from=appmsg)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqsCzjJiaAM9f6rpDaicj18npx3hOdtslFQQCRnKvYyhtw9KGkQTtGIyJ8f8WrpRC7icicbV8dNYxLpkjQ/640?wx_fmt=png&from=appmsg)
+
+  
+
+我们公司的偷拍文化很严重！
+
+同事累睡着了，我们第一件事情拿手机拍照……
+
+岂不知我们在车上累趴下也被偷拍了\[囧\]\[囧\]
+
+  
+
+爱总和星总的睡姿神同步啊……果然不是一家人不进一家门\[流泪\]
+
+  
+
+  
+
+永远痴迷和那些持续学习，为了建设家庭和子女教育的大人物们学习，经营好小家，这个国家就会繁荣昌盛！
+
+  
+
+> 所以星佳有了个思路，去找港科技里一些寻求资金和技术支持的大学生创业者，然后团队必须有起码一个持有回乡证或者单程证的香港永居，香港注册公司后控股深圳前海的创业公司，然后肉身来前海安心创业，这里有一流的软硬件基础设施和人才配套，除此之外政策帮助创业者解决各种后顾之忧，相信过几年会诞生更多像商汤科技和大疆这类的世界级企业。
+> 
+> 公众号：星佳是个小人物[港澳人士为何要来深圳创业和工作？](https://mp.weixin.qq.com/s/ApDPjB7W84mpNtZ6Y7DGxA)
+
+  
+
+建议大家35岁之前就开始考虑父母，和自己的养老，因为养老这件事只能靠自己未雨绸缪了，顺便再温习下孟母三迁的价值观和愿景。
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wquaeJeJw7hribzCEw8I5R5JCPnGx00HnOrrD0Me2mVwGbOpXXmg2khNEl7HCO9wucssTPnXWcBRrfA/640?wx_fmt=png)
+
+  
+
+  
+
+价值观是最顶级的广告
+
+我们一直欢迎同路人加入孟母三迁
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqvddhujicbveqyxzMsLDDx3v65Wv7r5OCg8QJLKtRdjWSjXk5eVANJ6r0N2eRDQHwp1hwpZqWzRwUg/640?wx_fmt=jpeg)

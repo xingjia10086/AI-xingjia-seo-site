@@ -1,0 +1,95 @@
+---
+title: 小猪的台湾游学见闻2    社顶部落 由对抗政府到生态保育的转弯
+description: 小猪的台湾游学见闻2  社顶部落由对抗政府到生态保育的转弯
+date: 2022-11-03
+category: 其他与日常
+tags: ['生活记录']
+---
+
+小猪的台湾游学见闻2 | “社顶部落”由对抗政府到生态保育的转弯
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+社顶部落在没有上山之前，就感觉这个名字很有“原始野性”的感觉，上山后听生态解说员介绍后才知道社顶是一个台湾原住民的聚居区，保留了很原始的生态环境。如今社顶部落的村民也是依靠他们良好的生态环境吸引来游客。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacM6vllDiaJBDtt6eGSZicjujTOIYQYrh1Ab1YEvibBt3QCzxwWU69cBicXQ/0?wx_fmt=jpeg)
+
+（社顶部落的生态解说员合影）  
+
+我们的团员分成了3个小组，在生态解说员的带领下亲自参与体验他们的生态保育路线的探访，一起了解社顶部落是怎样来做生态保护的。我们的生态解说员“潘碧月”小姐是一个很热情、亲切的社顶人，出发前的鞠躬和问好，令我映像深刻。生态解说员的标配是帽子、社顶部落的统一服装、竹棍，还有那个蓝色的宝袋。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacRicdMkEM7ePUdI6MhpLgwSaNcgMqCOlaHcjibicwmUAM71ZknibCuVnNyQ/0?wx_fmt=jpeg)  
+社顶部落位于垦丁国家公园的核心位置，动植物生态资源极其丰厚。据说，这里的植物、动物、地质、人文、景观都是数一数二的，无论是萤火虫、梅花鹿、食蛇龟，还是珊瑚礁岩、姥咕石屋、哑巴海、三面海，都极具特色，这也是社顶部落被选为发展生态旅游地的重要原因。
+
+在解说员的带领下我们穿越山林，寻找黑蜘蛛，了解社顶原住民是如何开发石灰，偶遇陆蟹，学习辨识山里的树木等植物的名字和特点，一路不紧不慢，没有旅行团的急促和走马观花，而是认真的倾听潘小姐的介绍和自我观察。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacNeIbn073HLfiaYFmpJ8pGicFwAT8AbeKcKUaDE0BqXN3sy3qiayKjqOtQ/0?wx_fmt=jpeg)  
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacHZ0gM4dbVicqOqcxokk30PajNmYicJWm0RibibP9WoFNazdyG1WSYUib1Zg/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iac1p8oibbVUzqvqfVjcmlAR3Lia4fh8ahSbHyNlqsBZGVX5Zbib6NibSJaSQ/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacibRRHhJDBNSK7F5Wke1WweUKCI0tWAOKV5pocibl8nWrrk7EwBZLXukw/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacTYbMRPKowtIibuMnGPfBuKdLU7gWyJJQJuZG9pHTPvKicRKlKpCh9IbQ/0?wx_fmt=jpeg)  
+一路上伙伴们各种发现和拍照。瞧！这是社顶梅花鹿的脚印，可惜这次我们没能看到活生生的鹿，据说他们相当敏感怕人，一般白天都会躲起来。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacU60iaCZqQVWoYqlF27qaGPBKnff5wCGMEmycSygEcMLovo8GhwhrEmA/0?wx_fmt=jpeg)
+
+还有他们的粑粑！我们的玉米哥居然不怕臭，想要仔细看看究竟是何物。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacbxNXVbekBiaAWROiasbfticJwicYgdYD6Nibic3a04hTsgib4Zmo9ZcYqzH5Q/0?wx_fmt=jpeg)  
+
+社顶的蝴蝶也是一大特色，潘小姐带着我们在密林间寻找蛹，还从她的宝袋里拿出拍过的照片给我对比查看。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacibiaP1Q8VnZdEQuRYDlfibO0pfJEyLzMCsn3zic1Tg7IwlJiaKic3bXCz2Ow/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacOYkJReTGibnQVG99z70g2QgbGJBUVR2tFA0cF6iaoH9ic1NmibWTtbsdtw/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacpvRdgfVY6t8dlwJvjeu1FYVECuibJhicIrxvfibc4IZaCmP5y3z5kLqnQ/0?wx_fmt=jpeg)
+
+偶遇的灯笼花和野菠萝。还有社顶的主人为我们准备的三元粉凉茶。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacv0uibWp0OcDmXwMxY5A10sic2WkIhHWhQX58SOicExn31BJAOacRYYf9Q/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacibiaXmkbVPiavQtibGnKuC8I0ePOmjMFJwUs4ibn562qId81shKftSwCoag/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacyzWwWOZiaxwMlYpYgIFfickBXAoAbbicF0tricib91a81JbBzpxGDI6zW1A/0?wx_fmt=jpeg)  
+游程结束，大陆来的我们都惊讶于这些生态解说员的专业和热情，经过了解才知道他们的社顶部落除了村级行政组织外，还有一个“协会”是推动生态旅游的主角，生态解说员需要参加协会的1000多小时的培训，并经过考试后方可以持证上岗。他们这样的一次生态解说可以从协会领得100多块（人民币）的收入。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacSzBibJlHHCV9nb2ufdicSelQZ7z3IWTyHKk9My3ialwibSnkOibxWbxlOibw/0?wx_fmt=jpeg)  
+
+这么好的生态环境，如此热情的生态解说员，社顶部落是如何做到让环境与人和谐共处，并且依靠垦丁国家公园自助生存的呢？我们通过“协会”的创始人蔡理事长的分享知晓了其中的一二。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacG5lfKWlAlt256uDtyYpTqibXtjxDpsxwIbquEMhglztJ5hcGLPfXm7Q/0?wx_fmt=jpeg)  
+
+1982年在蒋经国先生的推动下垦丁成立了第一个国家级的公园，社顶部落就在国家公园的核心位置，大众旅游的发展浪潮，曾严重冲击了社顶原有的朴实文化、生活环境质量及生态资源，加上为迎合大众旅游之需，居民常不顾国家法令盗采、盗猎自然资源以贩售谋利，同时也因滥垦、违建常与垦丁国家公园管理处发生抗争和冲突。
+
+后来在社顶部落文化发展促进会的协调下，由垦丁国家公园管理处和国立屏东科技大学的辅导下，社顶部落成为了公园内的第一个生态旅游示范区，从最初居民抗争，到参与投入到环境调查、探勘路线，接着培养居民成为解说员，最后推出生态旅游路线，现在已经成为全台第一个靠自主运营和生态旅游获利的部落，并且还获得了第3届国家环境教育奖国体组特优奖。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iac87ibiaeLR2Qicz16Br4F4ecIcm8DlZzx0oj5Bs8TqFc9uOUFuYDCfRIJg/0?wx_fmt=jpeg)
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacAlfM6U25m8MBU9oicJYd5ib9yPluWW8hL6vHj7b768rZ73TyDKBNej6Q/0?wx_fmt=jpeg)  
+其中，观星、赏萤、看鹿等社顶生态旅游已成为游人争相前来的热门线路。现在，居民从梅花鹿、黄裳凤蝶、萤火虫等生物身上，重新认识并爱上了自己的家乡。居民包括过去的猎人除了担任解说员，向游客宣讲自己的家乡外，还组成巡守队，自发性调查监测环境、守护着自己的家园。
+
+社顶现在已经不靠政府部门补贴，完全靠自主经营，自给自足，旺季假日名额时常爆满。目前有4条路线，部落坚持每条线每天最多接100人，以此来保护环境、永续经营。
+
+现在社顶部落也在产、官、学三方的协助下把社顶经验梳理复制到国家公园内的其他村寨。
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjU3D7gtqMSotjHCYmjicq8iacR95bzC58p6icme6Lz6YH2QWOh9riaKyPuyFmzMiaSd7HaQT4qtvr6BBQA/0?wx_fmt=jpeg)  
+
+* * *
+
+小猪曰：
+
+1，社顶部落的生态旅游转型对大陆返乡青年的「社区营造」有哪些启示？
+
+2，台湾的产（生产者）、官（政府）、学（学术机构）三方配合的乡村建设方式，对大陆的乡村建设有哪些值得学习？
+
+3，结合社顶部落的生态转型经验，我们的西分村（银宝湖乡）可以做些什么？
+
+* * *
+
+![](http://mmbiz.qpic.cn/mmbiz/X1K8cNqGpjXjzI99WavVcAWSUT7xM0IBTFh8g3UUmhvkkX3rMiaokyxgde0EXmkksuafJsblee8ycJ2BLpa7n3A/0?wx_fmt=gif)

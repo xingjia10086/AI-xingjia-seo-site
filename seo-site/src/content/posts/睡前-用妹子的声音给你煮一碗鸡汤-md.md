@@ -1,0 +1,54 @@
+---
+title: 睡前 用妹子的声音给你煮一碗鸡汤
+description: 码字的时间久了，就开始幻想着能不能有其他的形式可以把之前写的文字呈现出来，想过出书，也想过能有妹子可以把某些文字读出来，睡前可以给你煮一碗鸡汤
+date: 2023-06-16
+category: 其他与日常
+tags: ['生活记录']
+---
+
+睡前，用妹子的声音给你煮一碗鸡汤
+
+
+原创 
+
+
+码字的时间久了，就开始幻想着能不能有其他的形式可以把之前写的文字呈现出来，想过出书，也想过能有妹子可以把某些文字读出来，睡前可以给你煮一碗鸡汤...
+
+  
+
+甚至，有没有机会去写一些微小说，改编成剧本，之后去拍点小电影什么的...
+
+  
+
+所以，不管怎样，年轻人嘛，总得有点小奢求的，这不在前几个月收到了蜻蜓FM公司新媒体部门的邀请，把某些星佳适合阅读的文章发给他们朗读，同时授权在蜻蜓FM运营自媒体栏目『星佳是个小人物』。
+
+  
+
+之后，还被顺利推到了首页推荐，欢迎你在蜻蜓FM里可以搜索『星佳是个小人物』哦，声音真的是另一种感觉。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqulgIm7Tnl5GH5rzCiaHFKEok4BwO3P5pYB9ZnDzMibYcaUiatVyBG5JWvddD4wyz5FYiawb4Y5icafLDg/640?wx_fmt=jpeg)
+
+  
+
+星佳在蜻蜓FM的自媒体栏目
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqulgIm7Tnl5GH5rzCiaHFKEo5icEiczhBcKbibL8lLE57EMicPbnv26iacx9xH2ibRDNaVeztpY1RrFia8wBg/640?wx_fmt=jpeg)
+
+  
+
+  
+
+收听方式：
+
+1.  收听链接：http://m.qingting.fm/vchannels/129772
+    
+2.  蜻蜓FM里搜索『星佳是个小人物』即可收听哦
+    
+3.  点击左下方的『阅读原文』即可
+    
+
+[阅读原文](javascript:;)

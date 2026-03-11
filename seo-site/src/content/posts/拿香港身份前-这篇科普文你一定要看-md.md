@@ -1,8 +1,9 @@
 ---
-title: "拿香港身份前 这篇科普文你一定要看"
-description: "大家好，我是孟母三迁小叨，之前分享了关于规划香港身份来实现孩子升学多样化的方式。"
-date: "2023-01-24"
-tags: ["优才", "高才", "DSE"]
+title: 拿香港身份前 这篇科普文你一定要看
+description: 大家好，我是孟母三迁小叨，之前分享了关于规划香港身份来实现孩子升学多样化的方式。
+date: 2026-04-18
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '优才']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawT06w97DCWJnWT6S4u3eaWsErCOwOZcVjOfvZRenj5bePBLrvSZLj9iaOH0DfrlZIQW8SY4d8w6uDw/0?wx_fmt=jpeg)

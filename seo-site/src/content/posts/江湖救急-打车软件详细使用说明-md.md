@@ -1,0 +1,101 @@
+---
+title: 江湖救急 打车软件详细使用说明
+description: 星佳最近发现身边还是有很多人不会用打车软件，或者在使用中有很多各种问题导致最后返现不成功。今天做一个小白的使用说明书来教教大家怎么用打车软件。
+date: 2022-02-03
+category: 其他与日常
+tags: ['生活记录']
+---
+
+【江湖救急】打车软件详细使用说明
+
+
+星佳是个小人物 星佳是个小人物 [星佳是个小人物](javascript:void\(0\);)
+
+
+
+     星佳最近发现身边还是有很多人不会用打车软件，或者在使用中有很多各种问题导致最后返现不成功。今天做一个小白的使用说明书来教教大家怎么用打车软件。
+
+    本文含有大量图片，请在WIFI下观看，加载速度略慢，请稍等片刻额！
+
+    一 滴滴打车（前提：必须先在微信里绑定了任何一张有钱的银行卡，不支持理财通实时付款！）
+
+**下载安装**
+
+一、短信下载方式：编写手机短信“手机打车”发送至“12114”即可下载最新版嘀嘀打车。
+
+二、百度搜索“嘀嘀打车”，登陆嘀嘀打车官方网站(www.xiaojukeji.com)可以分别从乘客和司机角度根据手机的不同选择相应的“嘀嘀打车”下载安装。
+
+三、手机登陆各大应用市场下载并安装 “嘀嘀打车” 。如Appstore，豌豆荚等。
+
+1.乘客用户安装乘客版后，首次运行输入手机号码进行验证注册。可以预约叫车和现在叫车。
+
+2.语音呼叫。说出要去的地方。软件语音识别您要去的位置,定位您目前所在位置和显示附近出租车的信息。
+
+3.等待司机响应。响应后可以查看司机的相关信息和行车路线。
+
+4.乘车完成后，乘车互评。诚信记录将影响到乘客的乘车和司机的载客。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYV7dbqETyy1rVLib6bAbsYvtKJGtslkD7B1SDQk5H4ibxcVmLIkRd9MgQ/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYgMiagiaWogJd0uHaUFGKmicANiaICAsNaTqUG2hOzBWxm8JgDibhaVSxSzg/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYCGbg0gFDxpFTU1hDoyg3wcKWHYfOTBmNIm7KhhawAhyicibBnkiaM1Qkw/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYYIOiaEF4lax8WzsyAwBHWCqzX15mXCj5SYLdaKaEoFT1j1PWsib2icFSg/0)
+
+同时附上通过微信使用滴滴打车的教程（无需再单独下载滴滴打车）
+
+1.  登录微信，进入我的标签，选择我的银行卡，可以看到嘀嘀打车的服务，选择进入嘀嘀打车页面。
+    
+
+       2  在嘀嘀打车页面，可以看到附近的出租车数量及自己所在的位置，在要去的地方输入你的目的地，选择你要付的小费，点击马上叫车。
+
+1.  3  叫车成功后，会显示司机姓名、所在出租公司、车牌号、所在方位、预计等待时间等信息。如果一定时间内没有司机接单，会提示用户重新下单。
+    
+
+1.  4  等你上车后，到达目的地，司机在司机端会输入本次打车的费用。选择微信支付，立减十元，弹出输入确认框。
+    
+
+1.  5  弹出框中显示的是本次的打车费用及支付方式，选择微信支付，依次输入支付密码后，即可完成本次打车。
+    
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzY7ambaN3iaN2M4DEIY2WF1c8cia23XKQDZVE73rliab0oibxM9qjib5P1hMw/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYr3sMSiamna3sKT6RmXgibicPWibto2PNqRn28rXZtnbEjNGZEdpxMmdLzg/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzY8D3Odorn82AOCnRRcvfzJTyeJ0ibFib6fGicnQILwXm74eibPwaZhItTGg/0)![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzY0PaHIsFLf6tDrgZnQGa9ONfRh6icCrUE5TjQHz5W4YHbtN4xZ1wAWfg/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYBml8PriclQes2UoIluYicpDuiaCLkiaUHvsyy9FLWS6g1Lx4u5YNI37Nxw/0)
+
+    二 快的打车（前提：必须有支付宝，并且里面有钱，支持余额宝付款）
+
+2.  **下载安装**
+    
+    一、百度搜索“快的打车”，登陆快的打车官方网站(www.kuaidadi.com)可以分别从乘客和司机角度根据手机的不同选择相应的“快的打车”下载安装。
+    
+    二、手机登陆各大应用市场下载并安装 “快的打车” 。如Appstore，豌豆荚等。
+    
+3.  **使用教程--乘客版**
+    
+    1.乘客用户安装乘客版后，首次运行输入手机号码进行验证注册。
+    
+    2.语音呼叫。说出要去的地方。软件会语音识别您要去的位置,定位您目前所在位置和显示附近出租车的信息。
+    
+    3.等待司机响应。响应后可以查看司机的相关信息和行车路线。
+    
+    4.乘车完成后，乘车互评。诚信记录将影响到乘客的乘车和司机的载客。
+    
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYonyYV7IrCiafsEPianiaLK14VqUeNNfMXQKicibkj9LwUC1w4PQKASphO2g/0)![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYUCOLYxDlvpicXcib20hAAfOCX3icws5QPSXBiau5ib1Njr2QbpB8md7R2JQ/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqs9U8QuM8EY4AzRSJaPqzzYEtNwqiaLcztf2evFodcG4MP9EFIdWic1Fz1FGLOxhuCDN6QWPhZ9QuNw/0)
+
+    星佳关于两款软件的比较在【星佳是个小人物】的订阅号【ID：xingjia10086】里单独写了一篇文章分析了下，银川目前的情况适合两款软件都同时使用额，配合好打到车肯定是没问题的。
+
+      有相关问题请订阅后直接给星佳回复，我会回复大家的问题的额！欢迎把本号【xingjia10086】介绍给更多的朋友，分享文章到朋友圈，谢谢！搜索公众号：xingjia10086即可找到我额。对了，文章标题下方的蓝字点击后就可以快速关注啦！

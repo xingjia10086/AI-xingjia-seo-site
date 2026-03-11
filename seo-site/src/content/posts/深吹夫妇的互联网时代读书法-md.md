@@ -1,0 +1,37 @@
+---
+title: 深吹夫妇的互联网时代读书法
+description: 终于开通了付费阅读，那么第一篇文章就写点关于读书的些许经验吧，每个人的方法不同，找到适合自己的，挺好。
+date: 2024-10-05
+category: 商业创业与自媒体
+tags: ['创业干货', '自媒体变现']
+---
+
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wqvCMhtClPhxLaGrYG38YLff9uxeRCE2ThyuEzibOeXp6WWLD7RnsFv3RYDh8KLbQyxLcfgzhHl8mtg/0?wx_fmt=jpeg)
+
+深吹夫妇的互联网时代读书法
+
+
+原创 
+
+
+前言
+
+终于开通了付费阅读，那么第一篇文章就写点关于读书的些许经验吧，每个人的方法不同，找到适合自己的，挺好。
+
+这是第一篇付费阅读的公众号文章，虽然其实赞赏也是一种付费方式，不过在好奇心的驱使下，还是值得体验下微信孕育了三年多的付费阅读功能。  
+
+  
+
+自从上次上完行动派的线下快速阅读课「[一门线下课，才知道活了20多年根本没学会如何读书这件事](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815748&idx=1&sn=6e4aecb94fe74be8fd67a149fed456f9&chksm=88967583bfe1fc951091ac46aa72edfc4f9e4cb7cc4cadf6dce01247c83ce2d0bdc4b3d4b497&scene=21#wechat_redirect)」之后，对于看书这件事，一点儿都不恐惧了，相反开始很享受看书这件事，毕竟这是目前既廉价也有效的学习方式之一了...  
+
+  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqvCMhtClPhxLaGrYG38YLffBZEGiaKgEeMQX7PgeicicMk4BJa1I94juuYS3UpxkphhbmoS8DERiajz7A/640?wx_fmt=png)
+
+找了好多捷径，买了好多知识付费和训练营，其实偏偏忽略了书本这个媒介，而且其实读书也是可以产生有效社交的。  
+
+  
+
+星球里发过一个简略版本，那么在付费区写写具体的SOP，还有一些补充，希望你的一块钱付费体验 别说星佳割韭菜.....

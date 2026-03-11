@@ -1,8 +1,9 @@
 ---
-title: "北京折叠 香港折叠 我们的生活也折叠了吗"
-description: "北京折叠，香港折叠，我们的生活也折叠了吗？"
-date: "2023-01-08"
-tags: ["香港生活"]
+title: 北京折叠 香港折叠 我们的生活也折叠了吗
+description: 北京折叠，香港折叠，我们的生活也折叠了吗？
+date: 2026-04-02
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wquVVfVXibvS5iasGUjaQGQE0fn0h0YqltFFDfMsr3gTuEbaQ1DIp8Pan7VSUAsxlxBFg7ZkeZiaDeiblA/0?wx_fmt=jpeg)

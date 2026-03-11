@@ -1,0 +1,22 @@
+---
+title: 我 一个自带 鸡血 体质的INTP人
+description: 我，一个自带鸡血体质的INTP人 原创
+date: 2022-12-18
+category: 其他与日常
+tags: ['生活记录', 'AI人工智能']
+---
+
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/VewGlXv8GZ2uziaPSJW5AhL8UDAUq6ZKrbdQ8VSDg0nHNXzftia4AIhlYq0l9nf0a1Rvv6R1d3nZAicyatIhzu2QA/0?wx_fmt=jpeg)
+
+我，一个自带“鸡血”体质的INTP人
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+![](http://wx.qlogo.cn/mmhead/7j1UQofaR9ckEUFGicibUxV8Gt6JsqfEWOUgrDB3IV7XxN4spbVwQxq0HCyhzjtHcC7uWianwicC1sI/0)
+
+爱探险的佳蔚
+
+我，一个自带“鸡血”体质的INTP人 原创
+
+阅读全文

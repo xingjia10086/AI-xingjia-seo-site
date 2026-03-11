@@ -1,0 +1,266 @@
+---
+title: 人人都可以做音乐的时代终于来了
+description: 四个早点和六个国际化httpsmpweixinqqcoms__bizMzA5ODQwMDgwOAmid2649819989idx1snec54b723fb97320439b1536350255045chksm88978412bfe00d04d7f444
+date: 2022-04-08
+category: 其他与日常
+tags: ['生活记录', 'AI人工智能']
+---
+
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsHqWC8ER58ou04398iaFz0bo8Gw8bxUV8cBJ4q1BPWOxBJFhwxkkhgictI9LqCc76PGCDtJtexl1Ow/0?wx_fmt=jpeg)
+
+人人都可以做音乐的时代终于来了
+
+
+原创 
+
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquqpyHRBwNeDZNdYLVD05duKVuKXGbf83eiarwpnexQTLK96Te9DoWDUF6LCJjdvK3c1C0ricTMO15Q/640?wx_fmt=jpeg)
+
+  
+
+  
+
+点击下方👇“星佳是个小人物”关注公众号
+
+和上百个家庭一起实现 
+
+《 [四个早点和六个国际化](https://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649819989&idx=1&sn=ec54b723fb97320439b1536350255045&chksm=88978412bfe00d04d7f4447fb82dc86e5566d8925c7ea57dc688ee8182b7fe8e2b9315f20ca3&scene=21#wechat_redirect) 》的愿景
+
+  
+
+**这是星佳和爱米的第******1082******篇原创**
+
+**持续记录从宁夏到深圳和香港的孟母三迁之路**
+
+  
+
+  
+
+  
+
+01
+
+—
+
+  
+
+嘿，动手写一首歌吧
+
+  
+
+  
+
+这几个月以来AI出现了很多杀手级应用，星佳本着学以致用的原则在学习中，感谢互联网丰富的学习资源，可以这么说，这个时代只要你真的想学习什么技能，都可以找到足够优质的学习资料。
+
+  
+
+难题无非是要去动手做，然后碰到问题去解决问题就好，毕竟生活除了赚钱和养家糊口，最好有一个兴趣爱好，一个可以享受孤独的时光。
+
+  
+
+正如标题里说的，人人做音乐的时代的确来了。
+
+  
+
+下面两个qq音乐是今天简单训练了下公开的声音模型来唱我的歌，附上了伴奏。
+
+  
+
+不得不说，现在的音频AI技术真的强大到令我发指，已经可以把一首歌的分轨拆分出来，甚至可以MIDI化（也就是说，你就算不是音乐学院毕业的，只要懂软件操作就可以扒谱，还可以分析编曲和作曲是怎么设计的）
+
+  
+
+当然正如你最近听到的很多神曲，AI已经可以训练任何歌手的声音去创作了，只要你有足够的数据，并且得到人家的授权。
+
+  
+
+  
+
+  
+
+最近AI孙燕姿很火，起初是听了两个人被网友AI合作的《半岛铁盒》，花了点时间大概看了下实现原理，于是花了十分钟用软件简单的让AI Yanzi 的声音唱了下很多年前自己写的歌。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsHqWC8ER58ou04398iaFz0bpGqbzvpLs9ldaDIWAFx9xLjev0lcaCNibJQW7mEdB6K8JbRUbgIs5yQ/640?wx_fmt=png)
+
+  
+
+可以在QQ音乐里或者微信搜索框里的 音乐 分栏里搜索 星佳 即可听到，的确调的还不够细致，大家体验下神奇的AI音频就好。  
+
+  
+
+按照网络上大神的指导，需要大量的训练和硬件的配合，但有碍于版权的困扰，于是自己并没花太多心思，相信随着时间的推移，会有更多傻瓜化的软件让大家一键实现一个梦想：
+
+  
+
+**用你喜欢的某个歌手的声音唱你自己写的歌。**
+
+  
+
+Here are some steps to train an AI model to sing like a specific artist:
+
+  
+
+1\. Gather a large collection of the artist's songs. The more data you have, the better. You'll want audio recordings, lyrics, and ideally melody data or sheet music.
+
+  
+
+2\. Analyze the artist's vocal style. Listen to many examples of their singing and note attributes like vocal tone, accent, typical melody shapes, and common themes or motifs. You want to capture what makes their singing unique.
+
+  
+
+3\. Choose a neural network architecture suited for sequence generation. Models like LSTM, Transformer, and WaveNet are good options. They can generate sequences like lyrics, melodies, and raw audio.
+
+  
+
+4\. Train the model on the artist's data. Feed in audio, lyrics, melody, etc. and have the model try to generate new examples in the same style. Compare to original recordings and provide feedback to push the model in the right direction.
+
+  
+
+5\. Continue iterative training and fine-tuning. Repeat the training process with new data and feedback to strengthen the model and make it generate more authentic results. 
+
+  
+
+6\. Consider "pre-training" on a large general dataset. Use a big collection of songs from various artists to give the model a broad understanding of singing and music before focusing on the target artist. This can help speed up and improve training.
+
+  
+
+7\. Generate and evaluate new song examples. Have the model generate entire new songs in the artist's style and evaluate how similar they sound by listening and comparing to the artist's real music. Provide more feedback to keep improving the model.
+
+  
+
+8\. For the best results, you may need human singers and expert music producers involved in the feedback and evaluation steps. They can give highly specialized critiques to help the AI model achieve impressive results.
+
+  
+
+With a rigorous iterative process and plentiful high-quality data, you can train AI models to convincingly emulate an artist's singing style. But achieving truly professional-level results may still require human and AI collaboration. Continued progress in machine learning will make fully autonomous results more feasible over time.
+
+  
+
+  
+
+AI音色模拟工具 ：
+
+  
+
+1\. Sovits SVC 4.0整合包 
+
+2\. Vocal Remover - www.media.io/online-vocal-remover.html 
+
+3\. Ultimate Vocal Remover - ultimatevocalremover.com/ https://github.com/Anjok07/ultimatevo...
+
+4\. Adobe Audition 
+
+5\. Audio Slicer - https://github.com/flutydeer/audio-sl...
+
+6\. SongR - www.songr.ai/
+
+  
+
+至于写歌，其实也没那么难，打开 Garageband 学个一下午，配合AI编曲，折腾首自己的歌真不难，至于歌词，押韵字典一大堆，如果你跟星佳一样唱歌难题，那就训练喜欢的歌手声音去代替你唱就好。  
+
+  
+
+如果你真的对自己做音乐开始有了兴趣，再给你推荐一款AI宿主软件  
+
+  
+
+www.tuneflow.com
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsHqWC8ER58ou04398iaFz0bYbUb165UJVIuuGuJkZlc8cNic3JHbBtxjOcCvo6m2iasbgJuyVoAUQKQ/640?wx_fmt=png)
+
+  
+
+  
+
+哪怕AI时代，我也建议各位可以掌握一门乐器，入门就好，喜欢节奏就学打鼓，喜欢旋律就玩吉他或者键盘，这个时代如果成年人自学的确也并不一定需要老师，Ipad连接电鼓或者Keyboard，就跟玩音乐通关一样。  
+
+  
+
+  
+
+  
+
+技术的发展从来都是双刃剑，以后别人给你打电话，发语音，甚至远程视频或许都是AI做的，所以我们要多个心眼，尤其涉及金钱的时候。  
+
+  
+
+说回音乐人，微信视频号和腾讯音乐人打通了，而且独家签约后会全球发行你的作品，甚至还能抓取歌曲背后的公众号文章，跟微信好友互动，真的能帮很多音乐人赚钱，希望艺术家们都能过的好一点儿。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsHqWC8ER58ou04398iaFz0b7h9JKwQERObWxv7L8XW1mSNRBKIO82oe7micDf0NxVhDhvibvgfWxNjw/640?wx_fmt=jpeg)
+
+  
+
+  
+
+  
+
+阅读相关文章，了解更多孟母三迁的4个早点和6个国际化之路：
+
+  
+
+《 [从北京逃离到香港的京一代家庭](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827399&idx=1&sn=c1fb9592ae11b9db4a0e06901c66c709&chksm=8897a700bfe02e16f6ed431b5840a43ea7df5f2f2b81d13cafdc3fb2cd11d4842e31f6f27d81&scene=21#wechat_redirect)》
+
+《 [从创业到创造幸福：孟母三迁团队的共同成长之路](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827314&idx=1&sn=bd3d273118c5c7213175953d4c030ee3&chksm=8897a8b5bfe021a3d48843e7324ecc3286d0e053781f8c0ed6dad0541d37052c94e8cd74eb9e&scene=21#wechat_redirect)》
+
+《 [被腾讯辞退的前同事选择去加拿大](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827869&idx=1&sn=3211e20a1578e45b6f01a9ccd047714f&chksm=8897a55abfe02c4ce0d1454e402a14c0ee3e8554010c1ea0ef89271cf391067a7b097271dc6e&scene=21#wechat_redirect)》
+
+《[中小企业主是不是跟幸福有仇？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649827836&idx=1&sn=8a065391231e787334f385bb4b56cfa4&chksm=8897a6bbbfe02fadf9de04f840a80db6ba5fb56a88893217337808fdd49ca728604a7a7236e5&scene=21#wechat_redirect)》
+
+  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqtVBvibKwFusn2gRyS3sdBdK497ictH0c2a5oKzT7Mo8Oo3Y9yW06x55j9CaKT8ff3ic0P0P2ZDbO5lw/640?wx_fmt=jpeg)
+
+  
+
+  
+
+  
+
+  
+
+  
+
+临在时刻
+
+—  
+
+  
+
+AI应用其实还有很多进步空间，像我这样如此热心学习的同学，至今也没找到一款适合做知识图谱的工具，pdf投喂给AI后，很多都碰到各种问题，希望Google加油，搭建每个人的维基百科不是梦。
+
+  
+
+毕竟现在的孩子考试也应该开卷，做的题只要能在电脑协助下搞定的就没必要死记硬背，去解决现实社会存在的问题才是本事。  
+  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsHqWC8ER58ou04398iaFz0bOR2OLU1iarFw57aAnkhpf5cfqLaIvEu8RykDcOcTqMGBwibfl0o5eN8A/640?wx_fmt=png)
+
+  
+
+  
+
+周末咨询，周一签约/:strong￼
+
+客户说：孟母三迁名字起的真好
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsHqWC8ER58ou04398iaFz0bNyOkdSUbYwhamA6oCh1gxPx0uW66wtGqgJoAyXRa38PNmfvIwl1v9Q/640?wx_fmt=jpeg)
+
+  
+
+  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqv3v4ltUle4OGFbWlQNRloKCu0w12ibd0ice6Gka0yOH1VicDBdgpN6dnrrD8kdQ0cjsHOQQYGxPMFag/640?wx_fmt=other)

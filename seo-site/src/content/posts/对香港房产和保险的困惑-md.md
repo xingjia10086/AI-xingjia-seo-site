@@ -1,8 +1,9 @@
 ---
-title: "对香港房产和保险的困惑"
-description: "**这是星佳和爱米的第******1182******篇原创**"
-date: "2023-01-18"
-tags: ["香港生活"]
+title: 对香港房产和保险的困惑
+description: 这是星佳和爱米的第1182篇原创
+date: 2026-04-12
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsiboKU86rxc9PwbTQ9to52OTsNz6LExwiaIiaLheLm3CqzG2elcIhSrCL2Pz74BMsngEUwv931GV2Mg/0?wx_fmt=jpeg)

@@ -1,8 +1,9 @@
 ---
-title: "今天是执行第一天 所有港漂不去香港就能申请 电子签证 啦"
-description: "今天是执行第一天，所有港漂不去香港就能申请「电子签证」啦…"
-date: "2023-01-04"
-tags: ["DSE"]
+title: 今天是执行第一天 所有港漂不去香港就能申请 电子签证 啦
+description: 今天是执行第一天，所有港漂不去香港就能申请电子签证啦
+date: 2026-03-29
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawRN6QmseA97gIaibDwfZWWbvY1nWacrGxKuj2bU7ic1Axmick34gfeGqYfRuNNofzrOAypbDO0CpGibaw/0?wx_fmt=jpeg)

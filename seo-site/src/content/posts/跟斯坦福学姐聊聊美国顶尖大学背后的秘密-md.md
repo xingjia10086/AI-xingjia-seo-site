@@ -1,0 +1,67 @@
+---
+title: 跟斯坦福学姐聊聊美国顶尖大学背后的秘密
+description: 又到做广告的周末了，继上两次关于美国生子、海外身份的分享后，深吹夫妇又邀请到了一位美腻聪明的斯坦福学姐，跟大家聊聊美国顶尖大学背后的秘密。
+date: 2023-09-20
+category: 其他与日常
+tags: ['生活记录']
+---
+
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wqvPB2vohFQsKuNr1fXPJXViaqtRNEhHD9sHywAtth4G6A8jeibHvMcfJWH7uDd117COh6t1Z7GTZuGg/0?wx_fmt=jpeg)
+
+跟斯坦福学姐聊聊美国顶尖大学背后的秘密。
+
+
+原创 
+
+
+又到做广告的周末了，继上两次关于美国生子、海外身份的分享后，深吹夫妇又邀请到了一位美腻聪明的斯坦福学姐，跟大家聊聊美国顶尖大学背后的秘密。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvPB2vohFQsKuNr1fXPJXViatBgckJT4Y7oXKEnNLRHibWTdgrXc8UeribKq9mTPZtkX81CGmufn51icg/640?wx_fmt=jpeg)
+
+我一直认为互联网最大的魅力就是直接可以找到你想请教的人，并且可以直截了当从人家那里获得宝贵的人生经验。  
+
+  
+
+因为未来春藤的缘故，结识了天然妹子，从斯坦福毕业没多久因为对于教育的梦想回到深圳开始创业，上次约着喝茶，看着天然和M叔聊着美国高校和教育规划，是不是还丢出来几个听不懂的英语，真的羡慕啊。  
+
+  
+
+正是因为身边有个这么多厉害的人，让我们这些小人物可以见到更大的世界，也能清晰的看到跟人家的差距，从而激起学习的动力，所以真的圈子好重要。
+
+  
+
+大家可以先去春藤家长学院预习天然妹子拍的独家懒人心法的视频，之后周三晚上8点，视频直播跟学姐聊聊。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqvPB2vohFQsKuNr1fXPJXViaLTUjaXibPHdqLLCrC1aR4qic7Ik4ICALU7qwiav2mrPDcIwyLwywcGjZw/640?wx_fmt=png)
+
+  
+
+请看看之前对斯坦福学姐天然妹子的介绍：  
+
+  
+
+[程天然：精英教育下的“终身学习者”](https://mp.weixin.qq.com/s?__biz=MzUxNzk2MjE5NQ==&mid=2247487640&idx=1&sn=eb3035384f0fbd8f73b141fafa4f3710&scene=21#wechat_redirect)  
+
+  
+
+好吧，那我们18日 周三晚 8点直播间见哦  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvPB2vohFQsKuNr1fXPJXViaztIbgmGrCpcetu1yicaPysaW19bcCqvyQrc9OPiaxmc7ibhTkOXc65o6A/640?wx_fmt=jpeg)
+
+  
+
+相关阅读：
+
+  
+
+[人生关键节点如何破局？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649816234&idx=1&sn=3df8e5ef52e45c3f72cadbefb9b38db8&chksm=889673edbfe1fafb0d859cd23c73cd789524c315d34f2884178710f3957b7d478e7320649253&scene=21#wechat_redirect)  
+
+[在未来春藤：20 万签约一座城市 1 个月大概率营收 30 万](http://mp.weixin.qq.com/s?__biz=MzU1ODI2MzAzNA==&mid=2247483676&idx=1&sn=1de73300d492902c7bd97161eb2d64e9&chksm=fc287e89cb5ff79fc3172b5653e4c535cc3c06170daf5a94e39fa15c77afe0661f95cd5f48e3&scene=21#wechat_redirect)  
+
+[一场直播，开创了中国家庭教育规划新纪元](http://mp.weixin.qq.com/s?__biz=MzU1ODI2MzAzNA==&mid=2247483669&idx=1&sn=2c586fc95b2d4f0ddfd38151c785db95&chksm=fc287e80cb5ff796146be4eb11b0001ed0597e1e809c2e2ffc55fdf3ac852bd71dd0769fb423&scene=21#wechat_redirect)

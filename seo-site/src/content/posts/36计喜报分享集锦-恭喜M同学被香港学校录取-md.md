@@ -1,8 +1,9 @@
 ---
-title: "36计喜报分享集锦  恭喜M同学被香港学校录取"
-description: "36计喜报分享集锦——恭喜M同学被香港学校录取"
-date: "2023-01-02"
-tags: ["香港生活"]
+title: 36计喜报分享集锦  恭喜M同学被香港学校录取
+description: 36计喜报分享集锦恭喜M同学被香港学校录取
+date: 2026-03-27
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawSDloIJf64M1mdfoKaeEuia6ZkngxbSiaK8aMJsagWv0F55dxYwFoeXTkpoAkDEKGyvPTnqceJLP4Kg/0?wx_fmt=jpeg)

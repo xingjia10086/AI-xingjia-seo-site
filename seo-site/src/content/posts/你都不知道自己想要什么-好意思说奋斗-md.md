@@ -1,0 +1,85 @@
+---
+title: 你都不知道自己想要什么 好意思说奋斗
+description: 出差了快一周，又刷新了里程记录，拿出来航旅纵横Pro里的航线记录图晒一下，所谓读书不如行万里路，行万里路不如阅人无数啊。。。
+date: 2022-05-14
+category: 其他与日常
+tags: ['生活记录', '落户', 'AI人工智能']
+---
+
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wqs9AIECRH7dEQnrkVgG53CfWeZdqWn0aenOq77jkLT3teVr4icmDwXVJlRfOyub82eJQuX5nucLQaQ/0?wx_fmt=jpeg)
+
+你都不知道自己想要什么，好意思说奋斗？
+
+
+原创 
+
+
+出差了快一周，又刷新了里程记录，拿出来航旅纵横Pro里的航线记录图晒一下，所谓读书不如行万里路，行万里路不如阅人无数啊。。。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqs9AIECRH7dEQnrkVgG53CfydLumb74v8B75bTvvH9Kz1toX9mXyYEKhiaIaA21qnHGbibxLRkicmcgg/640?wx_fmt=png)
+
+  
+
+很快就要突破空中保持300小时了，随着年纪渐长，见过的妖魔鬼怪和各路神仙也越来越多，深刻体会到了吴承恩笔下的「西游记」在不同年龄段读出来的不同故事感悟。
+
+  
+
+扯远了，今天下午陪爱米看完房顺便在「生财有术深圳站」的线下活动做了个30分钟左右的分享，意外的发现即使蛮多老板好不容易赚了点钱终于买了房，居然因为所谓的网络房产大V自媒体XX老师的吹嘘还全款买了惠州的房子，还遇见了要排队公租房还要等廉租房想法的同学。。。。
+
+  
+
+于是，默默的发了个朋友圈，就像这样：
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqs9AIECRH7dEQnrkVgG53CfxxgfyrA3uBoSSy2anwSoThlznBwPIzmQeFcVIr0Wc0bDs2TjjPgzAw/640?wx_fmt=jpeg)
+
+  
+
+作为资深深吹，今天真情实感，声泪俱下的给大家讲了自己这一年来拖家带口来深的故事，所谓隔行如隔山，那种感觉就好像很多并不乐意投资BTC的同学给出的原因是太贵买不起，但其实真实情况不过是他们以为BTC必须买整数倍，oh my ladygaga.....
+
+  
+
+> 我们以为的很多常识，偏偏在某些行业的某些人群里，果真是完全不知道的，比如稀里糊涂全款买了环深房产的同学们，居然还买的是尚未交房的惠州期房....
+
+  
+
+所谓信息不对称的无风险套利，不过是高认知的一堆人联合起来收割低认知韭菜们的一场有庄家的赌场游戏而已！
+
+  
+
+之前在文章「[写公众号，改变家族的命运](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649814978&idx=1&sn=1b8f3701bebf8a19c722a25ab8b9fb24&chksm=88967885bfe1f193610d1fe6022835ca5defbfc4932c0305d14f6b455996c1c50e9e7f5b6d6e&scene=21#wechat_redirect)」里提到了很多关于初心的话题，比如我们这些明明放着老家土豪小日子不好好享受，却偏偏跑来深圳奋斗的年轻人到底想没想清楚我们「如此努力，又奋斗是为了什么」。。。
+
+  
+
+**你都不知道自己想要什么，好意思说奋斗？**
+
+  
+
+这句题目，值得所以人想一想吧，既然放弃了老家的安逸选择来到深圳，那就要先把如何成为真正的深圳人放在第一步，而落户和买房是每个真的想留下来的深圳人迟早需要面对的问题，逃避不了的。
+
+  
+
+所以，今天开始，冷静的想清楚，对于成为真正的深圳人这件事，必要且紧急的事情是什么，我们再 努力和奋斗 也不晚......
+
+  
+
+不妨，看看之前的公众号，为何成为资深深吹，因为自己跟家庭确实因为这个神奇的城市而受益，就算讲出来，也只能影响少数人，但往往奇迹总是少数人创造的，挺好。
+
+  
+
+准备了一些颇有体系的无法公开出版的神书，请各位到星球里自取，如果你连书都懒得看完，那真的是无话可说了，毕竟这类人见的多了我也就习惯了，论执行力有多差，你身边一定有好几个无法叫醒的人吧。
+
+  
+
+**相关阅读：**
+
+  
+
+[这是我的故事，也许对你略有帮助。](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815247&idx=1&sn=ed8aa7b7835a7e468028cfc0315e6ad9&chksm=88967788bfe1fe9ee4026eae9b1294d1c311e709c8f213f690368383fad7c3da79d0f23c355e&scene=21#wechat_redirect)  
+
+[去了香港后，更意识到成为深圳人有多幸运....](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815235&idx=1&sn=d1533c9833414bee94298d892fb4c78d&chksm=88967784bfe1fe92a91ae7d89d886461754b628a2151e5a0c269e4cc7e069707fc6912f10e77&scene=21#wechat_redirect)
+
+[即使离开深圳，也别放弃深圳户口！](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815211&idx=1&sn=bad2877448d479798c16599a26525270&chksm=889677ecbfe1fefa5566d0bd6dab6775a9f967a69ba10d83e2ed4c6e7716c27c59cbe857dca7&scene=21#wechat_redirect)

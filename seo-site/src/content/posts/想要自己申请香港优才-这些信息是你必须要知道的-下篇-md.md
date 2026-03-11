@@ -1,8 +1,9 @@
 ---
-title: "想要自己申请香港优才 这些信息是你必须要知道的（下篇）"
-description: "想要自己申请香港优才，这些信息是你必须要知道的（下篇）"
-date: "2023-01-19"
-tags: ["优才", "高才", "DSE"]
+title: 想要自己申请香港优才 这些信息是你必须要知道的下篇
+description: 想要自己申请香港优才，这些信息是你必须要知道的下篇
+date: 2026-04-13
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '优才']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawQYATjLtMZHEtWWfbx8ibtFNmrVRGpX2VrsoJLO7xr0KcYqQfBiborW1ZcYh47Ltp2U6W4uhhpa24nw/0?wx_fmt=jpeg)

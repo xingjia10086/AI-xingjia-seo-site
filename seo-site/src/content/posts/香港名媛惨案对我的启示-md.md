@@ -1,8 +1,9 @@
 ---
-title: "香港名媛惨案对我的启示"
-description: "早点结婚，早点生娃，早点来大城市，早点用好家族资源。"
-date: "2023-02-17"
-tags: ["香港生活"]
+title: 香港名媛惨案对我的启示
+description: 早点结婚，早点生娃，早点来大城市，早点用好家族资源。
+date: 2026-05-12
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvBUzZf1VtuAbakSxC9riceswVwrEleD9QChiakzoRNscj5ZjBHicibFG1Czq4LAMwC9tWALueSgjfoHQ/0?wx_fmt=jpeg)

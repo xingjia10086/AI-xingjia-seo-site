@@ -1,8 +1,9 @@
 ---
-title: "活动分享   这几天在香港口岸接同学啦"
-description: "也许每个人都会有他的答案：小渔村，自由港，中国人心目中的外国城市、外国人心目中的中国城市，东西文化交融的地方，著名的国际金融中心，购物天堂，衰落的东方之珠、闹独立的南方之城……"
-date: "2023-01-28"
-tags: ["DSE"]
+title: 活动分享   这几天在香港口岸接同学啦
+description: 也许每个人都会有他的答案小渔村，自由港，中国人心目中的外国城市、外国人心目中的中国城市，东西文化交融的地方，著名的国际金融中心，购物天堂，衰落的东方之珠、闹独立的南方之城
+date: 2026-04-22
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawQNyax7y1JGVuWcjS57uORcUJK4GwD2IZsLBO4hWzY8VicaUZdxwj5YYzvfGUezVMfvEvA0PibA6fpA/0?wx_fmt=jpeg)

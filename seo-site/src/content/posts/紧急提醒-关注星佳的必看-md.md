@@ -1,0 +1,32 @@
+---
+title: 紧急提醒 关注星佳的必看
+description: 星佳的个人微信号即将满了，请大家转移到其他平台，微信服务号xingjia0000
+date: 2023-07-04
+category: 其他与日常
+tags: ['生活记录']
+---
+
+紧急提醒，关注星佳的必看！！！
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+星佳的个人微信号即将满了，请大家转移到其他平台，微信服务号xingjia0000
+
+  
+
+星佳的微博@星佳是个小人物，QQ54390399，微信服务号：xingjia0000
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqud7eqJE2jNTKpc6brHUkmPcGk6gia9QofAwTI5AH2E5QotEm755FT9M9aacbREEkKEwDZVZa9tGCw/640?tp=webp&wxfrom=5)
+
+(ps:长按住图片即可出现【识别图中的二维码】选项)
+
+  
+
+**提醒**：单击左下方的【阅读原文】可以快捷关注星佳，第一时间收到系列文章的推送，同时在【互动区】跟星佳沟通啦。
+
+[阅读原文](javascript:;)

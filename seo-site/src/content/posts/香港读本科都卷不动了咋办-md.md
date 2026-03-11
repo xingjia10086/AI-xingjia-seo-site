@@ -1,8 +1,9 @@
 ---
-title: "香港读本科都卷不动了咋办"
-description: "**这是星佳和爱米的第 1329** **篇原创**"
-date: "2023-02-21"
-tags: ["香港生活"]
+title: 香港读本科都卷不动了咋办
+description: 这是星佳和爱米的第1329篇原创
+date: 2026-05-16
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtegFCe2rsOCbYIb6OuooXJEmRocpCImr9VgQAdcCp54IWP7uzxh4pOG00h0yOrTcfqkIyGiaybcjA/0?wx_fmt=jpeg)

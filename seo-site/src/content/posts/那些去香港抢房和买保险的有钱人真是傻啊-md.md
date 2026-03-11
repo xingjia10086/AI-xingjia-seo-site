@@ -1,8 +1,9 @@
 ---
-title: "那些去香港抢房和买保险的有钱人真是傻啊"
-description: "**这是星佳和爱米的第1243****篇原创**"
-date: "2023-02-07"
-tags: ["香港生活"]
+title: 那些去香港抢房和买保险的有钱人真是傻啊
+description: 这是星佳和爱米的第1243篇原创
+date: 2026-05-02
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', 'AI人工智能']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtbOxiafAaXR4uXwDCD4Yf8ibCuS8gtgiaY9o3nA9ZpzyficlEhicxKMXHhwXNzQh9ZKGo76HLQAEHmHHA/0?wx_fmt=jpeg)

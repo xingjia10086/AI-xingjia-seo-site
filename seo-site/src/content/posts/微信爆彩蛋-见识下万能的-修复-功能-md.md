@@ -1,0 +1,84 @@
+---
+title: 微信爆彩蛋 见识下万能的 修复 功能
+description: 相信各位和星佳一样，经常在使用微信的时候会碰到诸如存储空间不足，卡顿，聊天记录莫名其妙消失，会话界面空白等问题，这个时候应该怎么办呢？
+date: 2024-07-30
+category: 商业创业与自媒体
+tags: ['创业干货', '自媒体变现']
+---
+
+微信爆彩蛋，见识下万能的"修复"功能
+
+
+原创 
+
+
+相信各位和星佳一样，经常在使用微信的时候会碰到诸如『存储空间不足』，『卡顿』，『聊天记录莫名其妙消失』，『会话界面空白』等问题，这个时候应该怎么办呢？
+
+  
+
+1.  土豪们都会直接通过硬件升级的办法来解决，丢弃乞丐版，直接上64G的手机就可以。
+    
+2.  而玩乞丐版16G的同志们也心有不甘，通过强迫下载『iTunes Store』里的大电影来召唤起iphone内部的缓存清理程序来清除缓存垃圾，尤其是诸如QQ，网易云音乐，优酷，爱奇艺，支付宝等缓存文件大户，各种app的占用空间可以通过『设置』-『通用』-『用量』来看，如果可能在备份各种记录后不妨直接删除占用大空间的App，之后重新安装App即可。
+    
+3.  当然贴心的微信也提供了方便的『聊天记录迁移和备份』工具，同时在你觉得确实卡顿的时候不妨打开这个『清理微信存储空间』的功能：
+    
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquIINEDPWRg6FGwse8a7oo8p6gZ5z2H7MhRpYic2Yak8nSuoVs7bNDXicYThBibppJQtic3x9jIyDXrqA/0?wx_fmt=jpeg)  
+
+  
+
+这些都是常见用法，而最近微信爆出了一个彩蛋，其实有一个非常简单的”修复方法”，一定要珍藏，关键时刻可以拯救你的微信哦:
+
+  
+
+1、进入微信的“添加朋友”界面:
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquIINEDPWRg6FGwse8a7oo8ekGnqDM6h9hic50cqFu4iaBeLEo53FiaWWGTU1r5w0hXDeBAtqXkeZiblA/0?wx_fmt=jpeg)
+
+  
+
+2、添加“:recover”这个微信号（注意：前面一定一定要有冒号）:
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquIINEDPWRg6FGwse8a7oo8FC4aRVHNynfU2glhEYkic87V3KKjw1xj3wz1TA6libvPddgLxyLsRcEw/0?wx_fmt=jpeg)
+
+  
+
+3、进入之后就可对微信消息、通信录、朋友圈、会话诸多功能进行修复了…
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquIINEDPWRg6FGwse8a7oo8LD2A1gbpEfva8dyeOO98Aty4oL6J4dDibXx4dIEaibibf96jSRWKx9NEA/0?wx_fmt=jpeg)
+
+  
+
+正如大神张小龙所说，在微信里，希望那些功能和应用都安安静静的躺在那里，只有当用户真正需要你的时候去调用你就可以，千万不要罗列一大堆看似强大的功能去影响软件的干净和简洁。
+
+  
+
+更多相关的技巧和微信玩法，欢迎订阅『星佳是个小人物』
+
+  
+
+参考阅读：
+
+  
+
+[给你推荐两个微信里的黑科技机器人](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649812315&idx=1&sn=5bc1dc6cf162db3a301686cf2ff3568f&scene=21#wechat_redirect)  
+
+[社群空间2.0即将来袭，带你看看有多黑科技！！](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649812313&idx=1&sn=1f1a42203c25bdf76768f75f311b855a&scene=21#wechat_redirect)  
+
+[传统门店商家如何用微信低成本享受红利？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=203493172&idx=1&sn=40dcb1855ff6fa23b4cd98cead248592&scene=21#wechat_redirect)  
+
+  
+
+  
+
+微信：xingjia10086
+
+微博@星佳是个小人物

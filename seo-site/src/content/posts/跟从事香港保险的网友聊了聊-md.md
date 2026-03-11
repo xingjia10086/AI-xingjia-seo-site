@@ -1,8 +1,9 @@
 ---
-title: "跟从事香港保险的网友聊了聊"
-description: "早点结婚，早点生娃，早点来大城市，早点用好家族资源。"
-date: "2023-02-05"
-tags: ["香港生活"]
+title: 跟从事香港保险的网友聊了聊
+description: 早点结婚，早点生娃，早点来大城市，早点用好家族资源。
+date: 2026-04-30
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wqvJJXUTAkqY5aib23LswrDIRjeeIfSGbaaiaLGI7cxKlPH4vVmdUicoQzItPgQ5UuibvCrwwJI5jAibn7g/0?wx_fmt=jpeg)

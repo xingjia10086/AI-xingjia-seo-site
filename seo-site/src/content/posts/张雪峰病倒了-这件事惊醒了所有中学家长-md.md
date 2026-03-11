@@ -1,0 +1,22 @@
+---
+title: 张雪峰病倒了 这件事惊醒了所有中学家长
+description: 张雪峰病倒了，这件事惊醒了所有中学家长 原创
+date: 2022-11-22
+category: 其他与日常
+tags: ['生活记录']
+---
+
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawRE97SHBxOcrCEadRmsJXZRhmcxk4hnujwOBPX5EFOvQ3XazKQHpDIR7hzaaxWlVxkd5icLiaL4Wu3Q/0?wx_fmt=jpeg)
+
+张雪峰病倒了，这件事惊醒了所有中学家长
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+![](http://wx.qlogo.cn/mmhead/574VdhMFwaFfLImg5A1CEvy3u7jvATicibOlBqb9a5FgKISWE85CAGhlPTibpU3rfMLGLRFmmovzpc/0)
+
+孟母三迁教育规划
+
+张雪峰病倒了，这件事惊醒了所有中学家长 原创
+
+阅读全文

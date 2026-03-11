@@ -1,8 +1,9 @@
 ---
-title: "都是避免踩坑的重要信息  香港小伙伴亲测问答"
-description: "都是避免踩坑的重要信息——香港小伙伴亲测问答。"
-date: "2023-02-08"
-tags: ["DSE"]
+title: 都是避免踩坑的重要信息  香港小伙伴亲测问答
+description: 都是避免踩坑的重要信息香港小伙伴亲测问答。
+date: 2026-05-03
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', 'AI人工智能']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawTsShJzABjLHmCibfqgckVchr7D84FqmKiaXL5uEH7mgtunKIg0qibibG13YlYAyPDliawZZ7bibD6MRibTA/0?wx_fmt=jpeg)

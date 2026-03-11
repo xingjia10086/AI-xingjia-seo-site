@@ -1,0 +1,76 @@
+---
+title: 老板跑路了 优惠打折促销清仓
+description: 作为一个称职的 知识星球 星主和资深用户，每年数万快收获的不只是认知的提升，而是实实在在的回报，包括物质和精神，所以逢人便分享
+date: 2023-08-04
+category: 其他与日常
+tags: ['生活记录']
+---
+
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wqupX4fA3aa3OKGfhBqWTjYp7T9F1Pic0GLr7A3SfMCbPrW7ic2RTroA0aVxthxY4onqcbqxpABuw5bw/0?wx_fmt=jpeg)
+
+老板跑路了，优惠打折促销清仓！！
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+嗯。这不只是一篇广告。。。。  
+
+  
+
+作为一个称职的 知识星球 星主和资深用户，每年数万快收获的不只是认知的提升，而是实实在在的回报，包括物质和精神，所以逢人便分享：
+
+  
+
+> 推荐你可以下载个 知识星球，用一用，很值得的知识付费。  
+> 
+>   
+
+  
+
+之后开始做星主，每次星球官方的活动都不会落下，一旦有什么新功能也会试试，这不临近双十一，虽然续费了188年的未来春藤，但依然想着给公众号后台的上万名订阅用户们给一点福利，还好官方推出来优惠券功能。
+
+  
+
+玩法很简单，今天就送你66元优惠券吧。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqupX4fA3aa3OKGfhBqWTjYpVZeDckGs2gMSWibibgujicXREnqoazm5VMdUwY5lA8ESr7icKzfMgmQ1PQ/640?wx_fmt=png)
+
+  
+
+这里不只是交朋友，跟着 深吹夫妇和一堆真正的深圳人，开始逆袭我们的人生。
+
+  
+
+不过，还是那句话，**加入三天之内是可以随时退款的**，即使试试也可以，哪怕去看看精华帖能有一条对自己有用也蛮不错，交个朋友都是缘分嘛。  
+
+  
+
+也可以点击 阅读原文 获得优惠券。
+
+  
+
+对了，未来春藤的双十一活动相信你也知道了，明天最后一天，买一年送一年，买N年送N年，你懂的:
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqupX4fA3aa3OKGfhBqWTjYptQ0ibqKBKNwOWW2w1F02xQjdyJu00R7Mq0rPgVv0kzR9EPjv5SuiaXQg/640?wx_fmt=jpeg)
+
+至于什么是未来春藤，为何说每个家长都需要？
+
+  
+
+听听创始人孤独大脑老喻怎么说 ： [创业这么苦，我为何再来一次？](http://mp.weixin.qq.com/s?__biz=MjM5ODAyMjg3Ng==&mid=2650753358&idx=1&sn=a38e094f6c26ad4e2d78593833e628e4&chksm=bedaf2fd89ad7beb0551c7d5e2ab1f3b64b63bc096937f823a865b3ca8dc2d85ea395b9e3eea&scene=21#wechat_redirect)
+
+  
+
+相信初为人父人母的你，会深有感触。
+
+  
+
+微信:xingjia9527
+
+[阅读原文](javascript:;)

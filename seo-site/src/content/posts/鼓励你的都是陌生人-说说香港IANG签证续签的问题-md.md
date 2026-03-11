@@ -1,8 +1,9 @@
 ---
-title: "鼓励你的都是陌生人 说说香港IANG签证续签的问题"
-description: "鼓励你的都是陌生人，说说香港IANG签证续签的问题。"
-date: "2023-02-24"
-tags: ["DSE"]
+title: 鼓励你的都是陌生人 说说香港IANG签证续签的问题
+description: 鼓励你的都是陌生人，说说香港IANG签证续签的问题。
+date: 2026-05-19
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', 'AI人工智能']
 ---
 
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawTrGJeEvW7J0ScNZDF5wUNw0CXTGRMxYMhcPcBQ4dBtOjbsPTD37zSdGA9OlcTXa9fDrozSIeiazeg/0?wx_fmt=jpeg)

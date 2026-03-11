@@ -1,0 +1,40 @@
+---
+title: 英语很渣别怕 教你用工具撩妹
+description: 如果想学好英语，你必须学会如果高效通过好用的工具把英语用起来，而通过用英语撩妹可能是众多宅男们的梦想，接下来给大家几个工具分享
+date: 2024-02-29
+category: 前沿科技与工具
+tags: ['前沿科技', 'AI工具']
+---
+
+英语很渣别怕，教你用工具撩妹
+
+
+
+
+
+如果想学好英语，你必须学会如果高效通过好用的工具把英语用起来，而通过用英语撩妹可能是众多宅男们的梦想，接下来给大家几个工具分享：  
+  
+1.如果你用mac，那么通过搜狗输入法 可以方便的和老外交流，感谢@金山词霸 提供的技术支持....
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsx96ic2NFKfBH1rrzAzrzCNAJzVov0sPWCyxQlUOJdyT7APVjsqLcoletDW69xEJxr3lk4NJJ39KQ/0?wx_fmt=png)
+
+   
+
+  
+2.而在手机端尤其是iphone上通过@讯飞输入法 即可及时的中译英啊，虽然有语法错误，但是的确不影响交流的哈...  
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsx96ic2NFKfBH1rrzAzrzCN1yyBoNJfH7cWicmE9bmvZwo8BIW8nicXlR5oZeK3ZBF5FrMfdoDmqNaQ/0?wx_fmt=png)
+
+   
+作为技术大神，最近开始悠闲的学习英语，如果你有相关的毕竟好的学习资料欢迎和星佳交流哈，之前还写了几篇英语学习的心得体会和经验：  
+
+  
+
+[梦想要一个一个实现，比如开始坚持学英语口语...](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649812830&idx=1&sn=eaf2a63d1b8034ad5d142628dc667a74&chksm=88966019bfe1e90f8725f1707c5eae6ef276cf0c6e9cce5cf1848f7d2d32ba40d0c3aa0010c3&scene=21#wechat_redirect)  
+
+  
+
+如果你还有其他的关于一些软件的使用小技巧，欢迎和星佳分享哈...

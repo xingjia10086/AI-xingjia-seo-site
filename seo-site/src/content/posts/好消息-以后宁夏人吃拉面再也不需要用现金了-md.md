@@ -1,0 +1,277 @@
+---
+title: 好消息 以后宁夏人吃拉面再也不需要用现金了
+description: 好消息以后宁夏人吃拉面再也不需要用现金了
+date: 2022-09-23
+category: 其他与日常
+tags: ['生活记录']
+---
+
+好消息|以后宁夏人吃拉面再也不需要用现金了...
+
+
+徐宝宝&星佳 徐宝宝&星佳 [星佳是个小人物](javascript:void\(0\);)
+
+
+
+（**为了智慧生活，就算木有wifi，也得打开看**）  
+
+  
+
+  
+
+（ **我是宁夏人，看完不但转发，还留言** ）
+
+  
+
+    这是我们每一个小伙伴都想要的智慧生活
+
+自己才是生活的主人
+
+可是到底那些想触网的商户该怎么做呢？
+
+星佳给大家这样的一个解决方案
+
+欢迎大家留言交流吆！
+
+  
+
+    **作为一个吃货、一个购物达人，或者是一个普通消费者，以前进商户消费是这样的：**
+
+    **“老板，来碗牛肉面，再来个八宝茶，只要香菜不要面。”**
+
+**老板一脸无语，手忙脚乱的触摸屏下单**
+
+    **紧接着宁夏人又来一句**
+
+**“老板，你们家wifi是哪个？密码是多少？”  
+**
+
+    **“就是再来一碗拉面，密码LaMian88888888。”**
+
+    **“老板，总共几个8？”**
+
+    **“哎吆，这个都不会弄，你凑死我了。”**
+
+  **『看墙上，照着输入！！』**
+
+    **......**
+
+    **......**
+
+    **吃完饭后，“老板，多少钱是？”**
+
+    **“一碗面6块，八宝茶8块，一共14元。”**
+
+    **“给老板，一百元软妹币”**
+
+**宁夏人拿出土豪版百元大钞  
+**
+
+    **“哎吆吆，这么大个钱，怎么找呢。”**
+
+    **老板，翻了翻柜子、半天才给我们找了零钱！**
+
+**其实，我们完全可以这样的，HAHA......**
+
+  
+
+    一进餐厅
+
+“先生您好，这是您在我们微信平台购买的豪华牛肉面套餐。”
+
+窝们拿起手机，打开微信扫一扫，扫桌角的二维码。
+
+轻松上网，积分兑换优惠券......  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEqR2OBtZy6csoNbVdPEiaBhonwpicb7mlKfx9Rtr1qYz0G4oGxBcTwOSQ/640?wx_fmt=png)
+
+    边吃，小编还打开手机蓝牙这么玩儿
+
+看着挺嗨！
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdE2dykaz010jAZAokqNGaibjnyhZgNXTj53vd0EO0LFfg9ZFRaSz8zSZg/640?wx_fmt=png)  
+ 
+
+    小编大喊：“老板，结账。”
+
+    店老板拿出收款神奇  
+
+  
+![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdE0BSAT8ahjicCODickzKMqHicUfnvETOlGjw605lj1mOuU7ZWiatI4M2YBQ/640?wx_fmt=png)  
+
+  
+
+    打开手机扫一扫，滴一声，轻松支付！
+
+    “先生您好，一碗面6元，八宝茶8元，合计14元，您刚摇一摇获得5元优惠券，您只需要支付11元就好。”  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEa5KicYVDmAdO3UGTLQD8kgKGWNOPDPz83edb2nUcmb7QBsCibFsCZ2wQ/640?wx_fmt=jpeg)  
+
+  
+
+**智慧生活，就是这么简单！**
+
+**支付，就应该简单方便！**
+
+  
+
+* * *
+
+  
+
+**智慧星**丨**行业智慧解决方案**
+
+  
+
+**（这是我们每一个餐饮公司都面临的问题）**
+
+**面对这些问题，我们措手不及！**
+
+**我们总是找不到这样一个好的方案。  
+**
+
+  
+
+**商户需要大量用户数据**
+
+**我们有它**
+
+  
+
+**（扫一扫二维码，无需输入密码，直接关注商户微信平台****，轻松上网****）**
+
+**有这些还不足矣**
+
+**还有它**
+
+  
+
+**（微信支付，直接关注商户微信公众平台，滴一声就支付）**
+
+**有了客户，我们更应该互动**
+
+**我们可以这样互动**
+
+**拿出手机，打开蓝牙**
+
+**“摇一摇”**
+
+**轻松得优惠券  
+**
+
+ **![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEichQTriaKibU6XriboltQXVCuqvK7L3PX9oJUqO2WxUoJ33uTUmicrpVXibg/640?wx_fmt=jpeg)**
+
+**同步微信“我”-“优惠券”**
+
+**下次使用，不再翻包乱找，拿出手机就ok**
+
+**大量消费者通过wifi、积分制关注商户微信公众平台后**
+
+**商户又该怎么操作？**
+
+**简单！**
+
+**发发文章将消费者引导至微信个人号**
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEyhqic0DmYibYw2NfvzJ7w7qyiaWRoHuKMATOz46ibjdjFsLKmIsf2wv2og/640?wx_fmt=jpeg)  
+**
+
+**（智慧星客服小二：zhihuixing0951）**
+
+**再拉进VIP客户服务微信群**
+
+**邀请“社群小助手”与用户互动**
+
+**![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqskxsrLzJXMsFZY2IpbSzNCUUTWGoiaftkvUmuL54sjrakDXae4kU4vUEcGJRkpAO0s9TABUrSqNFg/0?wx_fmt=jpeg)  
+**
+
+**小助手，还能帮你管理统计数据吆！**
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdE48dJt9ibib78rO2k7m0Zr0vRZLLzXdu1DNa60jOaHzako1aD2eoqq7qA/640?wx_fmt=jpeg)  
+**
+
+**老板，还疼不？**
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEX0OFS8WZIiamYeicgfynticibZNiavQMQvyCib0UUl2t8A2ndIib5lPoE7icng/640?wx_fmt=jpeg)  
+**
+
+* * *
+
+  
+
+  
+
+**除了软件，智能硬件也是互联网落地必不可少的工具！**  
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEfZicpm8vNScRefiaB0WrfS6Db9odcTW5PcF2tG3fJK5HwvicBSryfBSuA/640?wx_fmt=jpeg)  
+**
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEp58foN7tN3AJQMov9vWaKqiapprbsXjtdJumrGXeaxy2pqTuBZzaYEg/640?wx_fmt=png)  
+![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdE1a7YKxQOiaVC98NMRHiaZkZ6Obda1VAl9QgzaowEyYJevOVtt2ia7eaaQ/640?wx_fmt=png)  
+![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEQOtku7HYtNXkNLibveGlwN7bwUzroqYeHIqDicfee3KX8LJcjfQMc1CQ/640?wx_fmt=jpeg)  
+**
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEtuh5u27cib9XYmJTQ63IRTgiaHbp5ich4DysyvcQH6xEISAeTp3MKAiblg/640?wx_fmt=jpeg)  
+**
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdE6YofrOOvf4SsmIG6K7vLKf08iaZklAN52gxMLMfkhGgJlQxoX8taCmA/640?wx_fmt=jpeg)  
+**
+
+**![](http://mmbiz.qpic.cn/mmbiz/yRaGzyIgQM011NSJ0YySspjjsDGEcBdEw305mcYbY1xpKHahick15NQtXswicVYJ0GdTVVnL9f1B1OvnZvzQtHHw/640?wx_fmt=jpeg)  
+  
+**
+
+**都看完了，应该和小编互动一下！**
+
+**直接在下方免费『写评论』**
+
+**据说看了下方的文章，老板都发财了:**
+
+**[这是一份很简陋的微信运营方案](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=401575047&idx=1&sn=da2c2ec79749dd36bf180d6bbe150c84&scene=21#wechat_redirect)  
+**
+
+**[社群空间|关于微信群小机器人的所有秘密都在这里](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=401276018&idx=1&sn=b4f355433cefbeebb9b0fcf11340b6b9&scene=21#wechat_redirect)  
+**
+
+**[银川有个做家政的老板，教你通过互联网日入上万？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=401262665&idx=1&sn=188fb1581449a4e6503c08eb2b900ebc&scene=21#wechat_redirect)  
+**
+
+**[我靠，他们说这是宁夏有情怀的互联网公司出来碰瓷啦！](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=401245826&idx=1&sn=53b2f91081e9c172e38bb0f3266a62b8&scene=21#wechat_redirect)  
+**
+
+**[企业做好微信运营的必备公式在这里](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=401153505&idx=1&sn=c9ba660803761af86a3301587bcd1a0a&scene=21#wechat_redirect)  
+**
+
+#### 智慧星科技  
+
+#### 派胜云天商务大厦21层  
+
+Shanghai West Road, Yinchuan City No.188
+
+上海西路与尹家渠街交叉口
+
+  
+
+市场合作  
+
+(工作时间: 周一至周五 9:00 - 18:30)
+
+◎
+
+_微信 /_  zhihuixing0951
+
+_电话 / 0951-3907907_
+
+137-0957-0071
+
+ 156-0950-0600    
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/7Ngc3VEZw88BWlTQHl6kdOp396P1SXqueBLkzTr7PXClEcicUsANFN4zQicvibv9xxl7vnlkHB72V9L6ChX0AuQpg/640?wx_fmt=jpeg)

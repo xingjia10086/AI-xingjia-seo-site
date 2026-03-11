@@ -1,8 +1,9 @@
 ---
-title: "去香港上学"
-description: "**这是星佳和爱米的第******1200******篇原创**"
-date: "2023-01-12"
-tags: ["香港生活"]
+title: 去香港上学
+description: 这是星佳和爱米的第1200篇原创
+date: 2026-04-06
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '学区房']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsIpnqkAcFD36QYfhmrZmevicpMnw3JTZWQxYxAniboNvgCr906XI5XpQT7S4eXZVOgS1Cv2DOP4ibrA/0?wx_fmt=jpeg)

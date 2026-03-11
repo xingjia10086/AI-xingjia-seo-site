@@ -1,0 +1,62 @@
+---
+title: 为什么值得办 一篇看懂 招商美国运通百夫长白金卡权益
+description: 为什么值得办一篇看懂招商美国运通百夫长白金卡权益
+date: 2025-05-30
+category: 常旅客与信用卡
+tags: ['常旅客羊毛', '信用卡攻略']
+---
+
+【为什么值得办】一篇看懂→招商美国运通百夫长白金卡权益
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+主卡3600元（刚性年费不能免），附属卡2张免费。
+
+主卡、附卡生日10倍积分（2元积1分，上限10000分），但年费不能积分抵扣。  
+
+为什么要办：![](http://mmbiz.qpic.cn/mmbiz_png/US10Gcd0tQEBNhn1uHVbVL9604SySChC3YxYRyHGTaoiccJ84SXKFb3K5W1GnPAG3nOOERNiaW0RngjE0R1XoNfw/0)
+
+美国运通礼宾服务。包括FHR精选豪华酒店权益。
+
+卡尔森俱乐部金卡会籍。
+
+希尔顿荣誉客会（Hilton HHonors™）金会籍（免费双早等行政待遇）。
+
+全年4次“300元起+100积分精选酒店”贵宾价入住（还可换凯悦房券）。
+
+全年1次全国50家知名体检机构免费健康检查服务（可转让）。
+
+全年1次免费口腔护理服务。
+
+无限次PP卡一张。
+
+每核卡年无限次机场贵宾服务（每次可带一人）。
+
+全年12次全国100余家高尔夫练习场免费练习服务。
+
+最高1500万航空意外险、最高4000元旅行不便险（含航班延误）、最高100万美元境外旅行及医疗援助服务。
+
+免费尊享挂失前48小时失卡保障（以本人信用额度为限）。
+
+每自然年20万里程内是1500积分兑换2000里程（含国航、东航、南航、新航、马航、法荷航、英航等）。
+
+3000积分兑换2000喜达屋spg积分，最多每年20万。（重点）
+
+  
+
+已有经典白、银联钻石可申请AE白有一定机率下卡  
+
+金葵花资产80万达标3个月有极大可能下卡
+
+![](http://mmbiz.qpic.cn/mmbiz_png/mgbNGq5ecI6chhTLK6ZdjkSC1ibnzuUTjKztK8ZMpTuJn4ib6h735UTAVa10nVaicUDSic3L2Qibyc74OIvuEYBMUhQ/0.gif)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/mgbNGq5ecI6chhTLK6ZdjkSC1ibnzuUTjbgCp6FPLiapjKkcwUwPTKJlUMjWeLGdVibXytj3AWyzc77kcu960aHJQ/0.gif)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/mgbNGq5ecI6chhTLK6ZdjkSC1ibnzuUTjRMIQ5zVic7NLAjCG6K0UdV0p7DZwRqbibpUoGhIuEiaDNgO1C4HlySy7w/0.gif)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/mgbNGq5ecI6chhTLK6ZdjkSC1ibnzuUTjvicF1mYvqb9YcuxVPcYPkP9Ao7h6d1M2G0y4UdthI7xFJu6AnnOsXKw/0.gif)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/mgbNGq5ecI6chhTLK6ZdjkSC1ibnzuUTj42pxiaoHwYemy4IQBfOBv87j31MvTCibnKBPqSVXJ2NDnzIcZUMCf4DQ/0.gif)

@@ -1,8 +1,9 @@
 ---
-title: "最全香港百科电子书免费赠送"
-description: "《 [四个早点和六个国际化](https://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649819989&idx=1&sn=ec54b723fb97320439b1536350255045&chksm=88978412bfe00d04d7f444"
-date: "2023-01-25"
-tags: ["香港生活"]
+title: 最全香港百科电子书免费赠送
+description: 四个早点和六个国际化httpsmpweixinqqcoms__bizMzA5ODQwMDgwOAmid2649819989idx1snec54b723fb97320439b1536350255045chksm88978412bfe00d04d7f444
+date: 2026-04-19
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqsW2K7ibibvptGyibaRKMMNaF7v5zyg6E1yLicia4wdsibOZdiczBqRzqgD5x1jNgQc9rEicAHz3er54a0aibA/0?wx_fmt=jpeg)

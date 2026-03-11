@@ -1,0 +1,151 @@
+---
+title: 币圈待了一辈子的投资项目归零经验
+description: 随着稳定币的火热，一些主流媒体又在开始关注区块链行业，尤其最近陆续在香港和新加坡的币圈大会，时不时还能听到一些圈外人想冲进来Web30行业的风声，于是自己作为失败典型，简单梳理下几个投资归零的项目。
+date: 2024-07-02
+category: 商业创业与自媒体
+tags: ['创业干货', '自媒体变现', 'AI人工智能']
+---
+
+![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtTdibX2sQRHOVBGEJW1kScVFQxnvczhibPteFvgUbFA5UYUsJPoIxuOcDQrZSuhcPpIzMRaWp5omqg/0?wx_fmt=jpeg)
+
+币圈待了一辈子的投资项目归零经验
+
+
+原创 
+
+
+随着稳定币的火热，一些主流媒体又在开始关注区块链行业，尤其最近陆续在香港和新加坡的币圈大会，时不时还能听到一些圈外人想冲进来Web3.0行业的风声，于是自己作为失败典型，简单梳理下几个投资归零的项目。
+
+首先，李笑来老师说的 七年就是一辈子 这个理论很好，起码让自己清醒，这辈子在币圈的确是失败的，起了个大早，啥都没赶上，好在积累了第一个周期的很多经验。
+
+不知道有多少币圈老韭菜还记得，当年注册火币，OTCBTC，BigONE和KKcoin居然还需要身份验证器，也正因为如此，只要交易所没跑路，其实想点办法还是可以登录七年前的账户的。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtTdibX2sQRHOVBGEJW1kScVjfCAOuHMZoVoChAZBPdRYvMSlZJecficWnGGjPkQlpWkqQQRGqxs9fg/640?wx_fmt=jpeg)
+
+作为曾经OTCBTC的死忠粉，居然官方还给回了邮件，然后看到后台一堆归零的代币，一笑而过。
+
+> 最近OTCBTC交易所的郑伊廷xxddite和李笑来的事件在币圈闹的沸沸扬扬，无关我们旁观者的利益，但是能从他们两者的成长过程中收获很多思考，聪明人总是能从他人的身上吸收到自己需要的养分...
+> 
+>   
+> 
+> 无可厚非，两个人都挺励志的，从一个北漂青年进化成在行业圈内有影响力和话语权的两个人，用网友跟帖的一个故事描述两人的纷争还是挺贴切的：
+> 
+>   
+> 
+> 老和尚一直觉得小和尚还没长的，而实际上小和尚不断练功，成长飞速，已经长成一个能独当一面的小英雄，而这不符合老和尚的初衷。
+> 
+>   
+> 
+> 如果凑热闹当键盘侠去站队不是聪明人应该做的事情，星佳去查了查这个叫郑伊廷的台湾籍北漂青年，翻了翻她的文章，真的能从她的身上学到很多....
+> 
+> 星佳，公众号：星佳是个小人物[普通人从李笑来和郑伊廷的危机里能学到什么？](https://mp.weixin.qq.com/s/aelErggPrhVCmtBwdrF2ug)
+
+  
+
+毫无疑问，对标BNB的OTB早已经归零，而七年后再看，当年的真相的确是是李笑来说的是事实，可惜跨境官司很难打，从损失上来看，李老师亏的很多，不止是钱，还有被深信的合伙人背刺的痛。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqtTdibX2sQRHOVBGEJW1kScVoGkfJdYlm0qI6OaMNDw6XyQuOZTINRlP0iaLc0VibmibhYn2QyU4rpUqg/640?wx_fmt=png&from=appmsg)
+
+  
+
+随手截图曾经ico过的一些早期项目，99% 的结局都是归零，甚至不是一辈子的七年后，多半在白皮书阶段，其实创始团队就是圈钱的目的，哪怕曾经试图和ETH对抗的EOS，融资如此顺利的情况下，创始团队也躺平了，至今能记得EOS的，都是币圈老韭菜，哈哈。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqtTdibX2sQRHOVBGEJW1kScVS7xGialN2NKGhibA87vPt8iadWWxC9aU5ILibfSVUW7QichemSC0AI7iaZicA/640?wx_fmt=png&from=appmsg)
+
+  
+
+再看看 BigONE 里的 CANDY，连ChatGPT都找不到对的项目信息。
+
+把后台的持币丢给AI，看看他的分析。
+
+  
+
+* * *
+
+  
+
+有实时价格（USD）
+
+BTC ≈ $118,916（CoinGecko 实时页），CoinGecko
+
+ETH ≈ $4,392（CoinGecko），CoinGecko
+
+USDT ≈ $1.00（稳定锚定；CoinGecko 稳定币页），CoinGecko+1
+
+ADA（Cardano）≈ $0.852（CoinGecko），CoinGecko
+
+IOST ≈ $0.00313（CoinGecko），CoinGecko
+
+LRC（Loopring）≈ $0.089（CoinGecko），CoinGecko+1
+
+QTUM ≈ $2.28（CoinGecko），CoinGecko
+
+SNT（Status）≈ $0.0227（CMC 实时页），CoinMarketCap
+
+IQ（Everipedia/IQ.wiki）≈ $0.00329–0.00340（IQ 官方与 CMC），IQ.wiki+1
+
+SWFTC（SWFTCOIN）≈ $0.0085（CMC/交易所价带），CoinMarketCap+1
+
+AE（Aeternity）≈ $0.00449（CMC/Gecko），CoinMarketCap+1
+
+BSV（Bitcoin SV，截图里的 BCHSV）≈ $27.7（CMC），CoinMarketCap
+
+XEC（eCash，截图里的 BCHABC 分叉线的更名）≈ $0.000018（CMC/Gecko），CoinMarketCap+1
+
+REI（REI Network）≈ $0.0161（CMC/Gecko），CoinMarketCap+1
+
+  
+
+有价但流动性很弱（谨慎参考）
+
+KIN ≈ $0.0000010–0.0000013（CMC/Gecko，超低流动），CoinMarketCap+1
+
+JEX（JEXchange）≈ $0.00167（CMC，交易量极小），CoinMarketCap
+
+BTM（BytomDAO，注意与其他“BTM”混淆）≈ $0.000876（CMC），CoinMarketCap
+
+IOST、LRC、QTUM、SNT、IQ、SWFTC、AE 等上面已列，虽能成交，但部分对的深度一般，挂单注意滑点（来源同上）。
+
+  
+
+仅“最后已知价”/预览页（主流站点已停止追踪或几乎无成交）
+
+TNB（Time New Bank）：最后已知价在 $0.000041–0.00037 之间，不同存档页差异大（项目长期不活跃）。Coinbase+1
+
+UIP（UnlimitedIP）：CMC 显示\*\*$0.000018\*\*“最后已知价”，其它站点数据互相矛盾，判定为极低流动。CoinMarketCap+1
+
+OTB（OTCBTC Token）：CMC 为预览/零流通，Yahoo 仍留\*\*$0.00157\*\*“最后已知价”。CoinMarketCap+1
+
+KARMA（EOS）：$0.00089“最后已知价”，成交微乎其微。CoinMarketCap
+
+BLACK（eosBLACK）：$0.0000348“最后已知价”。CoinMarketCap
+
+EOSDAC：≈ $0.000113，页面为“未跟踪/极低量”。CoinMarketCap
+
+MDS（MediShares）：不同站点给出 $0.00002–0.00019 区间的“最后已知价”，一致性差。CoinMarketCap+1
+
+NAS（Nebulas）：≈ $0.00008–0.00012（CMC 等存档），同样长期不活跃。CoinMarketCap+1
+
+DEW（老以太坊代币）：CMC 存档为 $0.08066“最后已知价”。CoinMarketCap
+
+MEETONE：CMC 为预览/不追踪，外站零散旧价不可用，视作无可靠报价。CoinMarketCap
+
+无法唯一定位 / 需要合约确认
+
+ADD：同名项目很多（以太坊/多链/旧 EOS 生态均有“ADD/ADD.\*”），主流行情站未统一收录，请提供链与合约地址以给出准确报价。
+
+BIG：截图图标很像 BigONE 交易所早期“BIG”积分；其官方可交易代币已更换为 ONE（BigONE Token），BIG 本体已不活跃。当前 ONE ≈ $0.00057（若你持的是“ONE”而非“BIG”，按此价估）。
+
+  
+
+* * *
+
+  
+
+很多代币完全想不起来当初为何会买，哈哈，多半就是看了个白皮书，还有KOL的站台，顶多看看团队背景，所以哪怕专业的投资机构能在天使轮投对的企业概率是再多，再和我等这类乌合之众比一下，岂不是妥妥的被收割的韭菜吗，当年的认知不够，只能被屠杀！
+
+至今记忆犹新的依然还有个叫做 Press.ONE 的项目，愿景很好，但很可惜之后没了下文。
+
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/tOFSAibJ5wqtTdibX2sQRHOVBGEJW1kScVVWr8G7LXCBEzvp7BQzNicVWSy4jIVIDuFCooh9t3K8LbHHbpYUVz4fw/640?wx_fmt=png&from=appmsg)

@@ -1,8 +1,9 @@
 ---
-title: "从北京逃离到香港的京一代家庭"
-description: "早点结婚，早点生娃，早点来大城市，早点用好家族资源。"
-date: "2023-01-07"
-tags: ["高才", "DSE"]
+title: 从北京逃离到香港的京一代家庭
+description: 早点结婚，早点生娃，早点来大城市，早点用好家族资源。
+date: 2026-04-01
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsYrKiaQ6MSqFHnkvic9OfQaVnFTqBOwSicTLziaon0kB9VLQXsEYV1OTWgrZXvnQjRhanKdP6M4AMW1Q/0?wx_fmt=jpeg)

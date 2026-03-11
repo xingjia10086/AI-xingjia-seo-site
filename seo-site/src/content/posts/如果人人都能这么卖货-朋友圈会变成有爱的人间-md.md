@@ -1,0 +1,112 @@
+---
+title: 如果人人都能这么卖货 朋友圈会变成有爱的人间
+description: 如果人人都能这么卖货，朋友圈会变成有爱的人间
+date: 2024-06-16
+category: 商业创业与自媒体
+tags: ['创业干货', '自媒体变现']
+---
+
+如果人人都能这么卖货，朋友圈会变成有爱的人间!!
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+**星佳是个小人物****微信号：xingjia10086**
+
+**星佳跟你分享小人物眼中的互联网生活，新浪微博@星佳是个小人物关注我，把星佳塞进手机。**
+
+  
+
+微信朋友圈卖货的朋友们各种卖萌耍贱煲鸡汤的玩法慢慢看多了星佳越来越无感了，该拉黑的删除，该屏蔽的拉黑。不过最近有感于一个叫做果果（@张斯雅）的广西女孩子卖芒果的启发，星佳草草起草本文，希望可以给众多微商们一点点小启发，尤其是那些还没有掌握卖货十八般秘籍的微商们，起码先学学第一点，如何给朋友圈的大佬们通过送自己的产品而获得大佬们的推荐，同时自己获得一定的关注跟大佬推荐后带来的好口碑？
+
+  
+
+听星佳细细道来，其实事情是这样子的：
+
+①在“关于星佳和他的小人物朋友们”的微信群里，有个卖芒果的广西小女孩发出来了一堆照片，尼玛在群里炸开了锅啊，随后事件的当事人星佳同学乖乖的发了朋友圈（虽然经常也有朋友送东西，但是一般还真不在朋友圈做推荐，你懂得！！千万不能给贿赂留下证据啊，哈哈！！）  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj483bI5NPWwCROLa2HjGIXJUTu8YXAlEqYmYvIGN5nQib8gNMT7TsA4YUQ/0)
+
+点评：不只文案上很有亮点，看看那有创意的配图更是亮瞎钛合金狗眼啊，被点赞就不说了，图片还能引起大量转发才是最牛逼的，当然转发的大佬里面也有鼎鼎有名，牛逼哄哄的农哥，这也是第一次跟农哥聊天，结果农嫂还是@徐三爷的亲妹子，哈哈。（世界真心足够小，只要你懂得基本的理论去实践即可）  
+
+  
+
+②农哥的转发点燃了引爆点，不知道农哥的你还是别做微商了！！起源2于群里@徐三爷 说农哥的文章里提到了小人物创业帮，之后第一次跟农哥聊天，又发现他已经转发了这些可爱的芒果图，活生生的小可爱们，拿到手里都舍不得吃掉啦！
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48aASf1TA1XFux8bTpibcWbyl7IoUSortzDFn2keLJnwBwJdmuLLWc3MA/0)
+
+截图里@徐三爷 这个帅帅的大叔目前还是单身，浪迹美容行业多年，有需求的请自行联系吧。还真没想到原来三爷的背景这么深厚，平常还以为三爷的后宫亲妹妹三千只是在群里吹牛的啦。居然农嫂都是三爷的妹子，所以农哥得叫三爷姐夫了，唉.....互联网的微信圈子太小了，太小了，小了。
+
+这之后愉快的跟农哥聊着天，扯着淡，才发现农哥转发了@果果 有创意的芒果图：
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48ZFLXibaRmQFUDw3qaN3dfNhywr0ibrMyaVQ7jH4hfDcsuGeQs6RlAvnQ/0)
+
+好吧，请原谅星佳没加农哥的微信，没办法给各位截高清图，至于跟农哥的聊天内容咱就不透露了，听说华南六少的培训顺利结束了，这里也给农哥一点小小的祝福，他是一个实干的人，希望通过互联网可以让农业发展的更好，这也跟小人物创业帮的愿景是一致的。
+
+  
+
+③基本就这样，一个女孩子用了自己手工的能力通过这个神奇的互联网顺利传播开来，除了收到了一点点的关注外，听果果说还顺利的招了几个想加盟的代理，广西芒果的上市日期就一两个月，期待果果可以把广西更多的好水果带来更多有趣的玩法，当然无需多说，广西水果的质量母庸置疑，因为大老远邮寄到宁夏依然能吃到广西的美味。最后附上一堆高清无码图，让大家体验下@诗芽儿的果果（微信号：yjlhxt888）的小小魔力吧。
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48Lmm4kZse9liclt5fQWuDlZAKwDdQiaF0FDlgsrmuiaujOfmWGXwSiaK2Fw/0)
+
+这些萌萌的小可爱们被穿上了衣服，见到这么有爱满满的芒果们，你不会有拍照分享的欲望么？
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48E55pRIl7PKf7U3kgiclFkdOGMyzooh9ZSFrtdGhsn0aLKTa0hACd9EA/0)
+
+好吧，后宫亲妹妹三千的徐三爷又一次出境了，并且顺利的盖过了星佳的风头，不高兴，不开心，还好星佳还年轻，时代始终要让大叔们把接手棒传递给更年轻的我们。即将死在沙滩上的前辈们，你们还好吗？等着星佳这代人很快也被00后干死了.....
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48qXGexOK1CPtfPSMj46Gib8cq8vXswwjFMib7HbSJpAAxFC6uSSexUhOA/0)
+
+话说这个二维码可以扫到，你们信不信？当初在朋友圈分享的时候，很多朋友好奇这个牛逼的二维码是怎么弄上去的，甚至还有询问能不能扫一扫的朋友，哈哈。想到一句话，“我书读的少，你别骗我啊！！！”
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48vvocqEoXgONyjSp7zBtqw8Tcu74tfpibRC4BsPtK3ic2EvPb4QLktHrQ/0)
+
+不知道这是不是果果妹子的真心话呢？....... 哈哈
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48hUialebJgwRKtPt5hcWJjpkPN4foOLSfFE3ssNjXotVUScOd6ibuhTDA/0)
+
+最后来一张超级硬的广告，如果各位对这个叫做诗芽儿的果果（微信号：yjlhxt888）的广西女孩子的正宗广西水果有兴趣，请联系她吧，反正提星佳也不会有任何优惠的啦！对了，大老远邮寄到宁夏的芒果贴心的妹子还搭配了手套，贴心的纸条很有美味呃！
+
+  
+
+总结下，一个好的内容（有趣，好玩，有思想跟真挚情感，话题跟鲜明观点）通过合适的传播渠道（微博微信上的大咖，意见领袖）传播，最终达到小范围内的关注，等时间足够久，知名度跟关注会慢慢从浩海无尽的互联网聚集到传播的源头这里。所以，不要期待一个好内容短时间内就能引起轰动，没有背后团队有机会的运作，微商微小的实力最好是去乖乖基于好产品的基础上创造优质内容等待互联网传播即可，就是这样，小技巧大威力，小人物大力量。
+
+  
+
+同时砍柴网，今日头条App，新浪微博，百度欢迎搜索“星佳是个小人物”订阅星佳的文章
+
+微信公众号:xingjia10086 围脖@星佳是个小人物
+
+  
+
+星佳等你来谈笑有鸿儒，往来无白丁！
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsBttJxxbTZCSiccC9fCGj48lzxv5IibpwM7kZOGpnfd6jz3e3BMnUDc7ECSOezADUzW6bOMdnFS3WQ/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/FyLzubicSA1XDI1DTicaGHXq841BL7zajtH1Out9ShMMciaICFtQj40UGKLYwOIlX0HLuK9mN8ZgwcrdnVcg4pHXQ/0)  
+
+> 小人物创业帮  
+> 同筹|同创|同工|同赢
+> --------------------
+> 
+> **◎ **小人物创业帮**  
+> **我们只有一个名字叫做“小人物”， 我们不想再用“无可奈何”“无言以对”来描述小人物的生存之痛， 我们要勇敢的把握现状后改变命运，通过互联网完成个体的连接，构建自由人的自由联合网状社群，通过去中心化（动态的中心——自由人的自由联合）、去组织化（扁平的组织，动态核心）、去产品化（动态的产品）创造属于小人物的大时代！
+> 
+> **◎ 两种订阅方式  
+> **☆点击标题下方, 蓝色“**星佳是个小人物**” 关注！  
+> ☆或查找公众号搜**星佳是个小人物**订阅！
+> 
+> ****◎ 分享与阅读  
+> ****独享不如众享，点击右上角![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfXhw3rpyVmZqo6oVZetlQfydRzlgh4YhYGrk5oQq4Vb4Q/0)或![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfXhw3rpyVmZqo6oVZetlQfyJlB1ygrl7bnjd1qJ50Qh1A/0)分享到朋友圈和朋友一起订阅吧！
+
+> **新浪微博@星佳是个小人物**
+
+  
+
+[阅读原文](javascript:;)

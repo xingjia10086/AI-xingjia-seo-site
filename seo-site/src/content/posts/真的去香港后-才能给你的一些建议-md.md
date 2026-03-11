@@ -1,8 +1,9 @@
 ---
-title: "真的去香港后 才能给你的一些建议"
-description: "最近有一个很好的消息，港府前两天宣布放宽入境检疫，这一刻等的太久了，对去香港的人来说那边几乎不设限制了，对香港本地人来说，压抑了两年多的出行终于可以如愿以偿。"
-date: "2023-01-30"
-tags: ["DSE"]
+title: 真的去香港后 才能给你的一些建议
+description: 最近有一个很好的消息，港府前两天宣布放宽入境检疫，这一刻等的太久了，对去香港的人来说那边几乎不设限制了，对香港本地人来说，压抑了两年多的出行终于可以如愿以偿。
+date: 2026-04-24
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawTlJhiapBWpE7D8Ey97mgLdogjWZ3l7m25lAcL6q9kCE5rJwxVNKz90kjesUwqHlWwm1dIdficGibSng/0?wx_fmt=jpeg)

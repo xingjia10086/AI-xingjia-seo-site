@@ -1,0 +1,182 @@
+---
+title: 加拿大小学的家长会 教会我如何支持孩子的想法
+description: 加拿大小学的家长会，教会我如何支持孩子的想法
+date: 2025-01-08
+category: 家庭教育与成长
+tags: ['家庭教育', '孟母三迁', 'AI人工智能']
+---
+
+加拿大小学的家长会，教会我如何支持孩子的想法
+
+
+未来春藤老喻 未来春藤老喻 [星佳是个小人物](javascript:void\(0\);)
+
+
+
+希望更多国内的父母可以通过未来春藤家长学院的「带娃攻略」模块了解到国外的真实教育是怎么样的，同时欢迎领取体验码到App里查阅更多精华教育干货。
+
+以下的文章来自「未来春藤家长学院」的创始人老喻，他的公众号：孤独大脑。
+
+我有两个孩子，分别在温哥华的两所私校就读小学3年级和6年级。对比中国而言，孩子们的学业很轻松，基本没有作业。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LwF7OiaWvIKARJ04ibZ45GhgEdQXMnw2Bup1aUOCAV9nOrHVq9vPHosfA/640?wx_fmt=jpeg)
+
+  
+
+但家长们带着孩子学这学那，全世界都是一样的，虽然学的东西有所差异。
+
+前两天，我们收到通知，要到学校参加了一场特别的“家长会”。 
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5L9LRibhWaGicd6gKhmPbZvOUmrpExtgen77bHqGACuibIF6Cf9Rydgs51g/640?wx_fmt=jpeg)
+
+**学校的通知都说了啥？**
+
+  
+
+①家长会不是由老师来说，而是由孩子自己说。
+
+②由孩子向家长展示在学校里所学到的东西。
+
+  
+
+到了现场，看见孩子们都是和父母坐在一起，展示他们的各种学习资料，介绍在校的学习情况。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5L3Hz7u5S8VvddMVdvl3oNuxFIibJFJGAIstvnbgibiaLx3bLn2wDHKHQVw/640?wx_fmt=jpeg)
+
+  
+
+在温哥华的私立小学，孩子们学习的学科非常广泛。但是数学的学习内容和国内同年级相比，就显得非常简单，三年级的数学还只是在两位数的加减。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LrlLuQpjDAnLuFBvqTyEcJic4Y7AiakglSqIItYGSFKD1Xj3ziaYmX1ThA/640?wx_fmt=jpeg)
+
+  
+
+在这个“特别”的家长会中，我家Ryan详细地给我介绍了一个学习项目：
+
+**“How to trap a Dragon” (如何抓住一条龙？)**
+
+这个由三年级孩子完成的小小项目学习，引起了我极大的兴趣，听完他的介绍，甚至让我联想到了**“费曼学习法”****——通过向别人清楚的解说某件事，包括但不限于（概念、技能、经验，etc），来确认自己的确弄懂了某件事。**
+
+**![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LnIiaRY9bA4RJIHb3cfnQ6gh2xoWdC1nsic3RBmwiadc4AO86NbLUQKr2w/640?wx_fmt=jpeg)**
+
+**![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LZ4LticdnwLlqZUAhYKagMygS7VUfGs5J3PDmKhqiapG4nYfA36S12aBg/640?wx_fmt=jpeg)**
+
+**![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LoibghqiblnPhGlSDU1p2D7OwDiazpDNgxpDn4bN6BtGd65Z88yOdiaByEw/640?wx_fmt=jpeg)**
+
+**![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5Le3p8PWhxul0YeJdDibWdiaR1utSCEePpA4XjUNpGL4d60Y1L2sOgU8GA/640?wx_fmt=jpeg)**
+
+这四张图，虽然看起来字迹潦草，只有半成品的配图，还处处布满了Ryan涂改的痕迹，但仔细听他介绍之后，却实实在在让我了解到，他对“如何抓到一条龙”这个事情，从头到尾的思考过程！
+
+  
+
+**在老师巧妙、科学的教案引导下，孩子写下了他思考的全过程：**
+
+  
+
+**1、 How to trap a dragon?**
+
+ (孩子首先提出了自己想要说的一个命题)
+
+  
+
+**2、 What you need?**
+
+(为了完成这个事儿，我需要铲子、食物、来自冰箱里的食物、激光剑…...)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5Laf4ayqdicS2dcYxOLpbBBREJdjcnialHx06uTpemLEVEJ0raMSWCtYQw/640?wx_fmt=jpeg)
+
+  
+
+**3、 Introduction  (简单描述一下)**
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LETVOezp17pwndRQT45JI2CFwibh2znRsNHZ7VicUEhVgTgF2eMlicpQ1w/640?wx_fmt=jpeg)
+
+  
+
+**下面是最重要的部分：**
+
+**1、 What to do? (你会怎样做？****)**
+
+孩子写下了抓住一条龙的7大步骤。
+
+  
+
+①  首先，在地上挖个洞；
+
+②  然后，一步一步的摆上食物直到洞口；
+
+③  下一步，洞里也放进食物；
+
+④  现在，告诉龙这里有食物，那么龙就会跟着食物来到洞口；
+
+⑤  那么之后，龙就会到洞里吃食物；
+
+⑥  过一会，把剑扔下去；
+
+⑦  最后，趁着龙低头吃食物扔下激光剑，龙就被击败了！
+
+小家伙清晰地展示了他对整个事情的思考逻辑，每一个步骤不仅有描述，还配上了图画来帮助我们理解，他对场景的设定。（虽然配图是涂鸦式的）
+
+孩子接着向我展示了正式提交给老师的方案。和前面那份文稿对比，有了明显的变化。
+
+因为有了前面仔细的思考，孩子在写正稿的时候，表现出信心和成熟。
+
+书写整齐，清晰；配图完整，配上了颜色。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LXAWpFxCFDN8IsObWxyQoSLSZuCwjJ32xS6k6JWS0ibLUNWhyuibUSicUA/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LrudFNzaqXvRNicibo3tOnC17KYwWGGjX3b6pUkFLiahO5SM4fKiboTnWbA/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LQQj7Nkz6FvUSKcHGSGjZG3LUI22YvmwtJK1AicZY2WJoxEco6aDmgoQ/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LXsicQR2SRLNOy1aGhhhaISR6wxn2VdTgKib451QGjypHibhiaRsoh18vqw/640?wx_fmt=jpeg)
+
+有前面完整的思考，“简述部分”放到了正稿的最前面。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5L3bap4fZBD48xqjrPIicBDicnBOaVMzRicGnZcmx2rr2pTjpibkbUibPQrKQ/640?wx_fmt=jpeg)
+
+  
+
+留意到孩子在前面思考的基础上，在第4、5个步骤里还增加了两个小亮点：用大声唱歌来引诱龙出洞；当龙喷火的时候，要躲起来。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LzhWLHEiaaKDbUPN2rlSGshGUuVQ5WQ0GQadG0KIszRnJicqxCrpVn57A/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LIv0K6r9ddl1cgxT0Jxqibw6GQC75wEiaYlq7JFDaSkdW4ocXNTGn94KA/640?wx_fmt=jpeg)
+
+最后，还有一个总结：
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5LqaXN2GcbWQfytcNTMpN4U3AAqo8icxJFOiciaBP4kOyGia56guFUVpu4dg/640?wx_fmt=jpeg)
+
+一个小插曲：老师在评语里对Ryan提到“living spray”，表示不太明白。
+
+**那什么是“living spray”呢？**
+
+孩子给我做了解说，原来他在一本漫画书上看到有一种神奇喷雾，一喷就能使其复活，比如说对着僵尸一喷，僵尸就复活了。孩子在总结里借用这个神奇喷雾还调侃了一把：千万不要用神奇喷雾喷画上的龙，不然龙会复活！
+
+  
+
+即便是这么一个小型的学习项目，老师的评价标准也是非常细致和科学的：
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/aUOKkf09oIFfIFQkhes5rF6DN4uwal5L3BiavsZhIlsrib4gWWiawqricObQDlCjqxVp12PItawGWOPjVahJERX0Sg/640?wx_fmt=jpeg)
+
+  
+
+“逻辑顺序清晰，并使用了完整的句子；书写正确，没有语法错误，所需材料列举齐全，配图能帮助读者理解。”除了肯定好的方面，老师还用平等交流的语气提出了不足和疑问。
+
+**通过孩子详细的讲解和作品展示，我的观察和感受是：**
+
+孩子，对于他自己提出的研究课题，在老师科学的指引下，经过思考、撰写，最后向别人(我)清楚解说这三个步骤，高质量的完成了这个项目学习。过程轻松并且享受。
+
+老师，科学的教案令人难忘。教案引导孩子自行思考，将思考变成清晰的文字表达+视觉图画表达，最后通过向别人解说项目，再次强化对学习的理解，提升学习的效果。
+
+**整个学习过程，老师和孩子都不累，效果佳，作为家长的我也是甚为满意。**
+
+这次分享也引发了我更大的一个愿望，希望今后在未来春藤家长学院这个平台引入海外更多优秀的教案资源分享给家长朋友们。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqvcN2QPRfNEl45TyzrVhDBGb4lHHIdnRf9Px5OZIhfWzeiawspMYEawUK2CNAVmPjyhUPwocId2Cqg/640?wx_fmt=jpeg)
+
+微信：xingjia9527
+
+微博 @ 深吹夫妇

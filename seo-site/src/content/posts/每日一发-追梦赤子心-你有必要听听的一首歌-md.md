@@ -1,0 +1,36 @@
+---
+title: 每日一发 追梦赤子心   你有必要听听的一首歌
+description: 每日一发追梦赤子心你有必要听听的一首歌！
+date: 2022-02-02
+category: 其他与日常
+tags: ['生活记录']
+---
+
+【每日一发】追梦赤子心---你有必要听听的一首歌！
+
+
+星佳是个小人物 星佳是个小人物 [星佳是个小人物](javascript:void\(0\);)
+
+
+
+![](http://mmsns.qpic.cn/mmsns/vVEysRjVVwLWSWhIqMbDf8Cy9QHWgrrXc6h0pLxUYSgXTnGUb4ic99g/0)
+
+【新朋友】点击标题下面蓝色字“星佳是个小人物”即可关注
+
+【老朋友】点击右上角，转发或分享本页面内容，查看历史消息![](http://mmsns.qpic.cn/mmsns/vVEysRjVVwLWSWhIqMbDf8Cy9QHWgrrXicdAjroLsJ62m3DvyHfIBVA/0)
+
+ 作为乐队酝酿七年的心血之作，《追梦赤子心》带着明显的怀旧印记，从标题开始就萦绕着迷人的八十年代记忆，羼杂孤独的自省和清醒的忧郁。专辑的选题范围也更为开放，从自我情感的探讨，到对社会生活的反省，从价值立场的选择，到感性与理性的对抗， GALA并不喜欢痛陈数落，却一针见血地道出成长之路的内伤，清凉，止痛，振奋人心。严肃自省的态度，调侃自嘲的词曲，主唱苏朵的古怪唱腔让认真的表演显得荒诞不经，轻快的鼓点和学生社团一般的大合唱又让这气氛变得热血而坚强。
+
+  
+
+星佳推荐大家去看着歌词听听GALA乐队的原版歌曲，这些国内饿着肚子做音乐的乐队们用着某种特有的精神坚持做着音乐，加油吧，梦想！ 
+
+> **星佳是个小人物，发现趣味生活**
+
+> ****◎ 分享与阅读**** 独享不如众分享，点击右上角![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfXhw3rpyVmZqo6oVZetlQfydRzlgh4YhYGrk5oQq4Vb4Q/0)或![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfXhw3rpyVmZqo6oVZetlQfyJlB1ygrl7bnjd1qJ50Qh1A/0)分享到朋友圈和朋友一起订阅吧。查看历史消息可以看到更多的惊喜哦，尤其是【每日一发】！**◎ 两种订阅方式** ☆点击标题下方, 蓝色“**星佳是个小人物**” 关注！  
+> ☆或**通讯录**右上角**![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfVgk2344QoIB04ibplcVIEGSMic6SgTtb1iacUILazaiaRr1Q/0)**搜**xingjia10086**订阅！  
+> **◎ **星佳是个小人物 自述**** 推荐好用的软件App，发现生活的乐趣，提供一手的互联网咨询及分析，为了找到生存的意义。
+
+> **分享文章后，点击「阅读原文」后查看更多文章！**
+
+[阅读原文](javascript:;)

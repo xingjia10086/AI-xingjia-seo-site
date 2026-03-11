@@ -1,8 +1,9 @@
 ---
-title: "香港专才大揭秘 有想象中的那么难么"
-description: "记得以前的贺岁电影里面有一句台词：21世纪什么最重要，是人才啊。这句台词当初是笑一笑，现在看来是一个底层逻辑的大实话。"
-date: "2023-02-12"
-tags: ["优才", "DSE"]
+title: 香港专才大揭秘 有想象中的那么难么
+description: 记得以前的贺岁电影里面有一句台词21世纪什么最重要，是人才啊。这句台词当初是笑一笑，现在看来是一个底层逻辑的大实话。
+date: 2026-05-07
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '优才']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawQBhFnmKsdeOWzE9oSbB4BmD3k7Q3dLEFmJKk6SvhWaiaibP4OmZJjSXoeFVdTRIDnswM5zvpSx5xfg/0?wx_fmt=jpeg)

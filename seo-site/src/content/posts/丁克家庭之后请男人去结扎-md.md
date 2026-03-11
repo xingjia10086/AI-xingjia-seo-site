@@ -1,0 +1,36 @@
+---
+title: 丁克家庭之后请男人去结扎
+description: 丁克的女生，到了 40 岁你生不出来了，男人说不想丁克了，她一转眼她就能娶一个 20 多岁的姑娘。
+date: 2025-08-25
+category: 情感与生活随笔
+tags: ['生活随笔', '个人感悟']
+---
+
+![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wquu0WSonL4mzjZRHjPbtd65GFDNrrIwLDvrXLyBuxg1fpsuicBtgcrUg0rr7NSiaFsxhZWElC48NQUA/0?wx_fmt=jpeg)
+
+丁克家庭之后请男人去结扎！
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+  
+
+丁克的女生，到了 40 岁你生不出来了，男人说不想丁克了，她一转眼她就能娶一个 20 多岁的姑娘。
+
+  
+
+人家生一个孩子，第二年人家就可以做爸爸了，但是你呢？
+
+  
+
+你到了 40 多岁你真的后悔了，你也没有任何办法了，你知道吗？
+
+  
+
+孩子真的是女人最大的一个靠山，这个就跟核武器一样，你可以不用，但是不能没有。
+
+  
+
+母凭子贵，不管是儿子还是女儿，只要你自己的孩子就是你最大的底气。#丁克

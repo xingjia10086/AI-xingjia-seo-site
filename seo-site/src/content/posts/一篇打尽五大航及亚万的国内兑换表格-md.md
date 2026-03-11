@@ -1,0 +1,97 @@
+---
+title: 一篇打尽五大航及亚万的国内兑换表格
+description: 探讨航空公司的里程奖励、贵宾会员以及酒店、信用卡等权益，让您的出行如虎添翼。
+date: 2025-06-02
+category: 常旅客与信用卡
+tags: ['常旅客羊毛', '信用卡攻略']
+---
+
+一篇打尽五大航及亚万的国内兑换表格
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+以下文章来源于里程宝典 ，作者教主
+
+[
+
+![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM6E0PDTApQDtSIW820C8q1PQgscQnicwLhIicciblhWYFiblg/0)
+
+**里程宝典** .
+
+探讨航空公司的里程奖励、贵宾会员以及酒店、信用卡等权益，让您的出行如虎添翼。
+
+](#)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XcodGK9TuHejKpjAQsxus2QvwptD4RFjkicXBORrOutez9KaqFjtDPJ57A6glA3ugHneXbjCtg6kxKkDVdHicPLg/)
+
+继之前总结过的[一篇打尽国内五大航的累积表格](http://mp.weixin.qq.com/s?__biz=MzI4OTQ2MzQ0OQ==&mid=2247483931&idx=1&sn=86370ba0fd31b05b52fed7158de2a4f6&chksm=ec2f8feddb5806fbe75803f3672a461fa8fea90b04754c7becb0c9253b61fac95cd44f91755e&scene=21#wechat_redirect)之后，我们重新整理了国内五大航外加亚万的国内航线兑换表格，并进行对比，欢迎收藏分享。
+
+另外有件重要的事情说一下，明天818就是东航会员日了，也是年度最大促销日，里程兑换在以下表格基础上打六折。要知道今年前几个月会员日都只打七五折，六折今年还是第一回呢。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/cZV2hRpuAPhrxQU1opLkENnCB9ArIxUwWq26RwicbQNpQN3ubDHibBSJfI6PzP0icQfn0s21DvR4xKYyPEs741UXQ/? "分割线")
+
+  
+
+阅读下表前，请牢记以下打折和上浮规律。
+
+  
+
+> 国航旺季直接涨到两到三倍，淡季几乎没有，深山航偶有淡季打对折。
+> 
+> 东航大部分月份的18号打折兑换，75折甚至6折，除暑运春运外全航线打折。
+> 
+> 南航每年淡季会有部分航线5-6折兑换。
+> 
+> 海航淡季也有部分航线打折兑换。
+
+  
+
+好，下面是国内五大航的兑换标准，包括亚万换国深航的标准以及联盟内的兑换标准。第一列为使用的常旅客里程计划名称，第二列为兑换的执飞航空公司。以下未注明往返标准的，往返均为两个单程相加。表格可以点开看大图。
+
+  
+
+*   经济舱
+    
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XcodGK9TuHdzHnrfHC3iaM6oW4p73X82uDmW8DmezEvgZiaUhaibGltasSSvoQDokwCwngqTVViafUz0ZUUuPt76mw/)
+
+*   公务舱
+    
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XcodGK9TuHdzHnrfHC3iaM6oW4p73X82uClDTDkytcp3HzzPhD7qP14NUBokOddb3pII4CctqdqBWgrC8ZV4ZaQ/)
+
+*   头等舱
+    
+
+![](http://mmbiz.qpic.cn/mmbiz_png/XcodGK9TuHdzHnrfHC3iaM6oW4p73X82u6rdyWGzVkjjvWJQR5iaFpU4orLCIrYQic88yDiahnXkaXmhrR8SbTX5PA/)
+
+亚万括号里的为英里里程对应的公里数，意思就是如果纯靠飞行获得的话，相当于其他航司这个数量的公里里程。也就是信用卡兑换看括号外的，靠飞飞飞看括号内的。亚万换国航的标准也适用国际和港澳台航线，亚万换深航也适用港澳台航线。此外亚万换深航可以转机可以停留，详见[亚万新伙伴深圳航空，更多玩法亮相](http://mp.weixin.qq.com/s?__biz=MzI4OTQ2MzQ0OQ==&mid=2247483993&idx=1&sn=ea5a8716f92d9c003fab213e4ee1e9a3&chksm=ec2f8fafdb5806b90d75db6312699ec8d9da32804b3cdecc3a44e5997e9dccbe0802ea714b24&scene=21#wechat_redirect)。而其他所有换法都只能换直飞航线（可以经停但不能转机）。
+
+  
+
+三张表看下来，发现厦航的里程真不值钱啊，特别是换联盟的。参考前面文章对于厦航累积的分析，不是真爱就别积白鹭了。
+
+不考虑打折兑换的话，南航经济舱整体最划算。而且南航换联盟比例也还行，个别区间甚至低于东航自己的兑换（600-799公里）。但南航两舱明显贵过其他航司。
+
+但是各大航的国内窄体客机航线，头等舱同时也按公务舱卖，以方便某些差旅标准只能乘坐公务舱的人士。但国航东航里程兑换时都算头等舱，而南航算公务舱，所以国东航头等要和南航公务对比。
+
+东航虽然经济舱比南航贵，但是东航只要把握时机，春运暑运以外的票即使是五一十一假期也可能打个75折甚至6折。
+
+国航看起来远距离航线有优势，但是要知道中国境内能超3000公里航线大部分属于南航，因为东北新疆华南大都是南航的基地。
+
+  
+
+更多里程兑换入门基础，请查阅[写给里程新手用户](http://mp.weixin.qq.com/s?__biz=MzI4OTQ2MzQ0OQ==&mid=2247483997&idx=1&sn=7f811df9eab0ef0634b6abea2b1dcfe3&chksm=ec2f8fabdb5806bdb1a94a6126782756434b2d6e6a889917da9a21e763349eb05767f1512609&scene=21#wechat_redirect)这篇文章。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/cZV2hRpuAPhrxQU1opLkENnCB9ArIxUwWq26RwicbQNpQN3ubDHibBSJfI6PzP0icQfn0s21DvR4xKYyPEs741UXQ/? "分割线")
+
+  
+
+当然除了表格划算外，能换到票才是关键。再划算的兑换没有票都是白搭。国东南海到底谁家放票大方，我们做了一个评测，请看今天推送的第二篇文章。

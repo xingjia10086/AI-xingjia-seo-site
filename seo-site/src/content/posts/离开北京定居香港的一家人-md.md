@@ -1,8 +1,9 @@
 ---
-title: "离开北京定居香港的一家人"
-description: "早点结婚，早点生娃，早点来大城市，早点用好家族资源。"
-date: "2023-01-31"
-tags: ["高才", "DSE"]
+title: 离开北京定居香港的一家人
+description: 早点结婚，早点生娃，早点来大城市，早点用好家族资源。
+date: 2026-04-25
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtIsicIAYzQ3LItepHic5icjxPaicUULOkRL3x3KPlmBOM3Gk2DXYZLp9pPtBRnITTKLrkIds5IguGpQw/0?wx_fmt=jpeg)

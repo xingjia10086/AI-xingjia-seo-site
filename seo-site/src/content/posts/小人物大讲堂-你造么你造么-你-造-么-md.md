@@ -1,0 +1,119 @@
+---
+title: 小人物大讲堂 你造么你造么 你 造 么
+description: 抢了这么多红包，谁能教我怎么也给群里的朋友们发红包呢？
+date: 2024-06-25
+category: 商业创业与自媒体
+tags: ['创业干货', '自媒体变现', 'AI人工智能']
+---
+
+小人物大讲堂，你造么你造么，你，造，么？
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/MVPvEL7Qg0HFAP2f2XKYibcoIIfH3FE09eaaY5ibibeWTzWLUe1lytercv3oQYnOebKXHMkpXhYBYPvKhse6ibeY4A/640)
+
+抢了这么多红包，谁能教我怎么也给群里的朋友们发红包呢？
+
+朋友圈莫名其妙的信息太多刷起来好麻烦，有没有办法可以屏蔽呢？
+
+![](http://mmbiz.qpic.cn/mmbiz/MVPvEL7Qg0HFAP2f2XKYibcoIIfH3FE093ib7g5EqbD9Clv61dibhn2tYJGuyCsydwem9cQamQkGQWTEtFIHZlgfg/640)
+
+![](http://mmbiz.qpic.cn/mmbiz/MVPvEL7Qg0HFAP2f2XKYibcoIIfH3FE09eaaY5ibibeWTzWLUe1lytercv3oQYnOebKXHMkpXhYBYPvKhse6ibeY4A/640)
+
+怎么直接用微信来滴滴打车，买彩票，充话费呢？
+
+去听【小人物大课堂】，星佳哥哥在免费给我们这些小白教如何玩转微信呢！！^\_^
+
+![](http://mmbiz.qpic.cn/mmbiz/MVPvEL7Qg0HFAP2f2XKYibcoIIfH3FE093ib7g5EqbD9Clv61dibhn2tYJGuyCsydwem9cQamQkGQWTEtFIHZlgfg/640)
+
+  
+
+小人物互相帮助，星佳教你玩转微信
+
+![](http://mmbiz.qpic.cn/mmbiz/MVPvEL7Qg0GPLZlicQq2RYNicbDmd1xQT0Gicv1A0tlNRtyWzrwk4Odopjzzpwqo4YJkUl3x7nMbGeLATIszGPJ2Q/640)
+
+每周坚持至少两次分享（图文及线上的操作演示）
+
+![](http://mmbiz.qpic.cn/mmbiz/MVPvEL7Qg0GPLZlicQq2RYNicbDmd1xQT0xTVEAtw1fibKcv7QmGPZ2SPibJyDvCcAI1jgWFZxhxb1XSBViae9ibboJg/640)
+
+通过微信群，QQ群来做线上课程，课后互动（服务号，今日头条，微社区等渠道）
+
+群内介绍
+
+①传统行业的从业者们很恐惧互联网时代，但往往对于互联网时代的工具使用上不太熟悉  
+②很多软件尤其是功能性的操作上必须是手把手的演示效果才最好，图文简直弱爆了...  
+
+③作为玩转微信的达人，星佳哥哥在服务号跟“今日头条”发表了多篇关于微信功能使用操作方面的图文，但是图文教程还是不如直接演示操作来的直观
+
+④有时候冥思苦想找不到的工具随便在群里问一声，别人一个截图或者一个提示就能解决你的疑问啦。
+
+中午十二点朋友圈放出了一个想法，同时建好了微信群跟QQ群（用来做软件操作的实时演示比较方便，同时伴有使用解说），很快微信群跟QQ群都有响应了。  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquOibvt1w3JLZ0lNrhbcicT5IEj9jG4ruR1Nfxm0C0vABJVMDMiby4Bj991Pe6yEeJ8cM2AqIicdicO40w/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquOibvt1w3JLZ0lNrhbcicT5IkGsp8XibxzN3orVloJtrP8mXyhWcTvS1kKNybElWs4uUn4WeOicEvYQg/0)
+
+这之后在群里制定好了规范：  
+
+1.  群里平时不闲聊不扯淡，甚至不需要自我介绍跟统一群昵称改名字。因为大家都没兴趣看那么大的无效信息量尤其几百人的群里，有问题提出来大家解决掉就结束群聊，也方便浏览群消息的人及时的得到想关注的知识而不是浪费流量看沫子！！
+    
+2.  群的定位起初很明确，只会教育跟解答关于软件操作技巧和移动互联网APP如微信，微博，口袋通等等工具的功能跟技巧等知识。什么互联网思维，粉丝经济等牛逼的高大上理论跟这个群无关，当然欢迎各位积极报名分享自己领域的干货，比如怎么搞定女神之类实操过的血泪史而换来的宝贵经验等等....
+    
+3.  QQ群的活跃度肯定没有微信高，但是接下来会投票产生的几期需要实际手把手演示的线上教育需要用QQ群里的“群课堂”功能完成直播，当然也会录屏提供温习的。课题提前大家投票，确定选题后分享的人会提前放上来预习资料，之后收集相关的问题才能更好的备课，在分享的时候有效的互动。
+    
+    “如果陌生，就请他喝杯咖啡！”因为小人物团队在银川相遇，在银川发展，看着宁夏本地传统行业从业者们眼巴巴的看着移动互联网时代来临却不知所措，我们不！想！看！到！.....所以听惯了那些成功学大师忽悠的互联网思维，粉丝经济，社群玩法后，在冷静下来分析原来他们自己对移动互联网工具的使用还不如一个没有任何商业经验的高中生，工具都用不好，不知道有什么功能怎么去驰骋战场呢？
+    
+    So，如果你在银川，可以多多留意我们参加线下面对面的分享，当然面对面后总比冷冰冰的屏幕靠谱的多，指不定下次准备充分来线下分享的你就能遇到你的暖男或者女神呢？
+    
+
+最后，附上找到我们的各种联系方式吧：
+
+① QQ群：6458257 （扫描二维码即可直接加入QQ群，手机必须安装QQ）
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquOibvt1w3JLZ0lNrhbcicT5IwBf43wuicSDID6An9zoVqmTFz8JSeic3R5nnibVfdck8zh7NDuJ8ZCuxg/0)
+
+②联系小人物创业帮团伙的各位小人物土匪说明来意，芝麻开门咯。
+
+雷叔微信号：weichunlei1110
+
+星佳微信号：xingjia0951
+
+高杨微信号：nx95995
+
+黑叔微信号：q595472442  
+
+瓜娃娃微信号：liuning9981
+
+马丁微信号：heigouqiwang
+
+③ 点击【阅读原文】进入微社区找到我们，或者来一个“星佳是个小人物”服务号:xingjia0000的二维码，点击自定义菜单也能找的到组织啦！
+
+为了方便大家平常沟通之类的问题，并且课下回复大家的疑惑，特意搞了个微社区，直接点击链接即可进入提问交流等，点击 http://m.wsq.qq.com/191220612 点击【阅读原文】也可以直达微社区哦
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquxM6vPs7QJO9JRWwQc3dbIC9huaJQf0nOswUkwzI1nrgsZ8N9BEPplOfpptibkrltNprkM7yI4QLg/0)
+
+  
+
+星佳是个小人物
+
+偶尔写干货  
+偶尔发牢骚  
+偶尔装个逼  
+但是小人物也会有自己的大时代！
+
+微信号：xingjia0000
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqvD8eSmzgQnmftzRibCqBdTeLBLibIILS6gw99O4Oa7JX3e043zfxare865Un8792g7wOuLYaDAyFEQ/0)
+
+![](http://mmbiz.qpic.cn/mmbiz/MVPvEL7Qg0ETPe4wicm4dXwcYRViatKk0CUSIMS1xkfuerLgqInf5yCgXAndN0y2icZj71ibVg28DzejYfbfibslmFg/640)
+
+点击下方 **阅读原文**
+
+[阅读原文](javascript:;)

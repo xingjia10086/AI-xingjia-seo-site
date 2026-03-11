@@ -1,8 +1,9 @@
 ---
-title: "香港急需中医人才"
-description: "父母的以身作则，潜移默化影响一个都少不了。"
-date: "2023-02-19"
-tags: ["香港生活"]
+title: 香港急需中医人才
+description: 父母的以身作则，潜移默化影响一个都少不了。
+date: 2026-05-14
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsMq80YgrvP0uicaURxfXCFAzbkPic3Yr1nuyRNy50zETAjoPb1e5aBQT7Vt6A4riaIJxrVBNE4Fh7xQ/0?wx_fmt=jpeg)

@@ -1,8 +1,9 @@
 ---
-title: "香港中小学择校秘籍 （中篇）"
-description: "**![](https://mmbiz.qpic.cn/mmbiz_jpg/DgUs24w7xyYqIWjAgXgQk5JmslIxxbYsEOJBaiaOU0UHQUYuRypzkCSN2F3IZNfLUZJE90ib7ycTSXN5T6dicRLiaA/640?wx_fmt=jpeg&wxfro"
-date: "2023-02-13"
-tags: ["DSE"]
+title: 香港中小学择校秘籍 中篇
+description: httpsmmbizqpiccnmmbiz_jpgDgUs24w7xyYqIWjAgXgQk5JmslIxxbYsEOJBaiaOU0UHQUYuRypzkCSN2F3IZNfLUZJE90ib7ycTSXN5T6dicRLiaA640wx_fmtjpegwxfro
+date: 2026-05-08
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawQMIvYdhIub3rum1SprvCyLSL9qZFO13MbRUTucyP0E9sZGtsthkIkazKiaWNzBjQGCZwJ8XvOQuEA/0?wx_fmt=jpeg)

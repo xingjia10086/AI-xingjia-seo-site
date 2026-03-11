@@ -1,0 +1,113 @@
+---
+title: 带娃旅行是真的累 但很值得
+description: 清明假期之前就寻思去哪里带娃逛逛，重要的是带小星星的奶奶也散散心，去年打卡了广州长隆，刚好还没去过珠海，于是果断定了船票直接奔过去，珠海长隆值得玩两天。
+date: 2025-03-04
+category: 家庭教育与成长
+tags: ['家庭教育', '孟母三迁', '万豪酒店']
+---
+
+带娃旅行是真的累，但很值得……
+
+
+原创 
+
+
+清明假期之前就寻思去哪里带娃逛逛，重要的是带小星星的奶奶也散散心，去年打卡了广州长隆，刚好还没去过珠海，于是果断定了船票直接奔过去，珠海长隆值得玩两天。
+
+万豪用积分订了喜来登，五晚花了大概60000的积分「送了一晚」，升级了海景套房，不过朋友推荐隔壁的瑞吉也值得打卡，有机会过去住一住体验下。
+
+为了冲飞猪F4，只要飞猪可以搞定的消费都用飞猪来买，简直成了会籍匹配和挑战的利器，拿个F4不吃亏，况且飞猪里程还能兑换万豪积分，刚好补充招行百夫长每年的兑换上限。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKV2EhJx0JXl0rJYJp4Q0DoUr3j2KoddEShVeJWmmianQs35CStfia6fsQ/640?wx_fmt=jpeg)
+
+不过话说，两天的珠海海洋公园的通票还挺划算的，足够走马观花的漫步整个公园，唯一比较遗憾的是小星星已经养成了午睡的习惯，而每当困意来袭，那就闹个不停，果真带娃出去娃比工作更消耗能量呀。
+
+但看到老母亲爱总慈祥的目光，一切都值得：
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKSLOQYttf1LEuFRvoJnHYj5Iq8w1lLAweSiaxdbwjlmohMcI6D4icDsKg/640?wx_fmt=jpeg)
+
+耍了两天海洋公园，突然很怀念当年去香港海洋公园玩，那边有专门的大片儿童游乐区域，虽然吃的可能更贵点，但确实比长隆的好吃很多，真希望疫情早日过去，通关后经常去澳门和香港玩玩，而错过了香港迪士尼乐园的周杰伦演唱会，希望等新专辑后还可以再巡演起来呀。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKZUyGcq2RwJ3nm29LX5Kc4vQxAHic9j3oxWpBz6QbzZ5v6v52QNe7ib5A/640?wx_fmt=jpeg)
+
+在看表演排队拍到的这对老人，两个人手拉手的一起去看展，真是普通人的幸福啊……
+
+人到暮年，有钱有时间跟着心爱的人去四处走走，享受最后的人生，甚至还能留下来很多给家学填充的内容，人生就是这样圆满了。 ​​​
+
+所以每次生活迷茫或者怀疑人生的时候，要么去医院看看，要么去墓地看看，或许会真的懂那句话 「除了生死，其他都是擦伤」
+
+除了带娃，让小星星的奶奶开心也是此次旅途的重要议题，跟她一起过山车，坐旋转木马等等，其实不论年龄，大家都要有一颗童心，保持对没有体验过的一切好奇心。
+
+顺便，还能促进婆媳关系的友好发展，你说是不？
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKbUULO7vNmFysezwqk4tg4zeulic62qVpmq7X7mpTd6HcQF4jJwcKNxw/640?wx_fmt=jpeg)
+
+婆媳关系这东西，我觉得核心就是你也要花时间和心思给老人，虽然老人年纪大了点，但我们都喜欢吃美食，玩世界，对很多之前电视见过但是没真实体验的东西有好奇心。
+
+所以，给他们花钱，陪他们一起花钱，其实能解决很多没必要的烦恼，大后方搞定了，事业才能更兴旺。
+
+说起事业，@爱买房的爱米 的职业病我是佩服的，非要猜房价，抱歉，我对真正的力量一无所知。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKD5U41icapHqybA3ib3RdfXyAyCzaB8icUgIsMoIOPBpibHHQxvEhLhicrQg/640?wx_fmt=jpeg)
+
+三个大人带一个娃，除了偶尔拍拍照片之外根本腾不出手来拍视频，所以这么来看，以前以为带娃环游世界缺的是钱，这段时间来看，精力和耐心才是最大的成本啊，终于开始理解那些被小学生作业气到心脏病发作的新闻主角了。
+
+但有些梦想，需要陪伴孩子和父母一起去实现，比如多出去走走，多记录我们的生活。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKk3ibSRSAn8ibz2HWs6L4fNEHsbHpChvlI1rmJ4WF8tMI8lODgCLe06jg/640?wx_fmt=jpeg)
+
+另外，最近除了持续精力管理和保持运动，开始「科学冥想」方面的练习。
+
+送上师傅「港大佛学博士」 灵心 的话：
+
+我们的心就像一个跷跷板，一有刺激就会左右摇摆，平等心，就是让你的跷跷板保持水平静止。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKlCa76ZBMSDP05zX78f1qpgvrKicNWrw8yLXCibEFGbDsBiaibG5JaiaiaTXg/640?wx_fmt=jpeg)
+
+装备买全了，接下来开始持续练习啦。
+
+今日感悟：
+
+来自任正非的一段话，打破思维就是破解被割韭菜的命运吧，偏偏同样一本书，不同的人看完却有不同的行动，同样认识一个大V，不同的人却有不同的下场。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKBoicNNTYb7oEXpO8p96W67ElVI7j6JGW4UyaQ81USEjok6ZtCuodfkw/640?wx_fmt=jpeg)
+
+最后卖个货。
+
+在老王的社群里混了快一个月，稀里糊涂的把分销业绩做到了第二名，那么既然已经第二名了为何不冲击下第一名呢？
+
+「以下推广文案来自目前第一名的同学，直接抄作业了」
+
+给大家分享4堂课 才1块钱
+
+这个博主说话很犀利 ，刚好也在深圳，不知道有多少人听过他，王寡妇，微博 村西边老王
+
+我听了觉得受益 才1块钱 所以分享给大家，值
+
+一杯奶茶十几块换来脂肪，这么一比 这1块 蛮值得
+
+这是千聊平台的锁粉海报，报名他的付费社群后比谁锁粉和变现多，星佳目前排第二了，最后冲一波名次。
+
+有时间的可以听听，我是蛮佩服他坚持写了十年的，并且赚到了钱，还体系的搞了课程和两本书，更有趣的是给社群成员高佣金的分销价，这样或许就是帕累托解，让所有参与者都收益的商业模式。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKu64DNQFPjQjibwCJ9fo8qNRkDTaULaOGCFLcdpBOtDW7vVz8AbJ16iaA/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKdYTdSlywIkIzA0DbS5u4jZeHNVnkfSJLzjeW5DtnkMt0osfrZvnLjQ/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKD3Sm5lTQtDUjhAeNYVobrJ0Py7t73RUx9kcrDERpN6x6HFLptbd02w/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKZeR6Kz46uLsfDyHy5VWNoGhVhYhHBlJ0zyNUqqmDVRUgqW7gvpuozA/640?wx_fmt=jpeg)
+
+如果试听课觉得符合自己的认知，欢迎直接购买799的年卡，这样就不用付99才能听每堂课了。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKZNkOVudjVZS2tWrv2SYtcqbsxJP9D5gjOSNlLib6cDn8ooOTDjnKAwg/640?wx_fmt=jpeg)
+
+最后吐槽一句，用手机的订阅号助手写文章真的是很不习惯呀，尤其图文并茂的这种，无法方便的调整图片，修改文字样式，插入历史文章链接等等……
+
+不过，都怪自己太懒，出门玩除了手机，啥都不想带了，这算佛系旅行？
+
+对了，忘了还可以再带货两本老王的书，基本是微博的整理版，但有了大纲的体系后，从「人性和金钱」上有了更底层的思考。
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquAYAqCf3zHd5vv4MzPVQxKlp3EwvHLSoYKf4bvNWbZibRM6AASsLlMzDeoRMPEibicmay07yeciacMpQ/640?wx_fmt=jpeg)
+
+晚安，这个世界很美好，一切都是最好的安排。

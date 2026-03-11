@@ -1,0 +1,121 @@
+---
+title: 我想告诉你 我们到底在干什么
+description: 摸索了将近半年了，依然还有很多人搞不懂到底智慧星科技在做什么，为了招募到更多牛逼的人才美工设计师，销售，无人机飞行手，代码大神，虚拟现实美女体验师
+date: 2023-01-02
+category: 其他与日常
+tags: ['生活记录', 'AI人工智能']
+---
+
+我想告诉你，我们到底在干什么
+
+
+原创 
+
+
+摸索了将近半年了，依然还有很多人搞不懂到底智慧星科技在做什么，为了招募到更多牛逼的人才：美工设计师，销售，无人机飞行手，代码大神，虚拟现实美女体验师.....
+
+  
+
+1.  **全景漫游+无人机航拍**
+    
+      
+    
+
+还记得前几天朋友圈刷屏的『宁夏大学|矿大|北方民族大学的航拍全景』吗？那只是航拍的全景展示而已，除此之外，我们针对房产中介，旅游景区，样板间和4S店的需求，又开发了结合户型图和导游图的全景漫游产品，除了展示外，直接在场景里带来产品销售。
+
+  
+
+作品案例：宁夏大学航拍全景漫游（长按二维码即可查看）
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsH1ibBETeIYT4PVYEEuyicMOAFWjJzd7uicEL15FichuNL2sZYgIJOmUl3iam2w8dQoCEaeq5FBsGMB8w/0?wx_fmt=png)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsH1ibBETeIYT4PVYEEuyicMO4gOQUFNEAeKb3pnfekOiaoWA1q4e2X2Aibsr3oKafcuBcicE6judvsmrQ/0?wx_fmt=png)
+
+  
+
+作品案例：某房地产样板间全景漫游（长按二维码即可查看）
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsH1ibBETeIYT4PVYEEuyicMOF0aOZcw8cM5goUprSIWBMvwX29sEtwHK4722TzcXpF8LEiaogiaJOSwA/0?wx_fmt=png)
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsH1ibBETeIYT4PVYEEuyicMOibF4XoemRGJFnFP6KLiazAhYxGoTIpDzKk3qibdDia0j9GOBE21PoY5R6A/0?wx_fmt=png)
+
+  
+
+  
+
+**2.虚拟现实内容制作和硬件应用体验  
+**
+
+  
+
+在宁夏可能知道虚拟现实的朋友并不是很多，有机会体验过的人也没那么多，而我们早就先行一步，不管是HTC Vive还是千元下的虚拟现实入门级玩具，我们早开始涉猎，除此之外，还需要更多优秀的3D MAX建模师，和代码大神可以加入到一起做虚拟现实内容的新世界中来。
+
+  
+
+而全景视频的制作，技术已经相对成熟，我们需要有更好的创意，更新鲜的尝试来一起给宁夏做点特别的全景展示，尤其是在公司还有一堆拥有艺术细菌的才子们，通过音乐+全景视频的方式玩一把浪漫...
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqsH1ibBETeIYT4PVYEEuyicMOlmU4A5kgCbKibXYzCv1dWPp0wmvOUkgHYonglv9cX0oNWULDf0Fq3cw/0?wx_fmt=jpeg)  
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqswqeGXK9V8NjkTrQQ1ic9vZbXptCbDhT4ibtdfKGuyZNlwFqj7WjKxYTE4HxsCqAIGibicc0z5HAmwvQ/0?wx_fmt=jpeg)  
+
+**3.智能硬件销售**
+
+  
+
+关于盒子支付POS机：
+
+1.  标准费率0.5，能给传统行业尤其餐饮娱乐无封顶机的商家们省下不少的手续费哦
+    
+2.  支持所有的支付方式，刷卡，微信，支付宝，ApplePay，美团和大众点评等
+    
+3.  市面上唯一和有赞无缝对接的Pos机
+    
+      
+    
+
+  
+
+  
+
+关于坚果|极米投影仪：没什么好说的，就是好用，国内数一数二的，同屏很爽，不插电的大屏电视哦
+
+  
+
+关于the one智能钢琴：朗朗代言，配合App，让孩子和成人享受音乐的乐趣
+
+  
+
+**关于投资人和融资：如果你是个有眼光的投资人，看到了我们的作品和前景，别忘了有机会来公司和我们聊聊哦...**
+
+  
+
+**关于招募人才：**
+
+  
+
+我们准备好了，不管是虚拟现实内容开发，还是航拍无人机全景漫游制作，还是智能硬件销售「the one智能钢琴，盒子支付pos机等」....
+
+  
+
+所以，如果你想兼职，或者干脆全职加入我们，请来吧，至少把你的能力，和简历作品发来给星佳看看呗。 
+
+  
+
+再或者，你是个牛逼的销售和美工设计师，直接来面基哈
+
+  
+
+宁夏银川市新派生云天商务大厦21层
+
+邮箱：13709570071@qq.com 
+
+地址：http://720yun.com/wx/t/e492djzkunw
+
+等你哦，一起梁山好汉打江山。。
+
+[阅读原文](javascript:;)

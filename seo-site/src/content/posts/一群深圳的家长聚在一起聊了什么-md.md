@@ -1,0 +1,117 @@
+---
+title: 一群深圳的家长聚在一起聊了什么
+description: 就算是中秋节本该休息的周末，深圳总有些优秀的父母远道而来跟我们一起聊聊关于孩子的教育跟人生规划的问题，在之前的文章周末，来一场线下活动吧httpmpweixinqqcoms__bizMzA5ODQwMDgwOAmid2649815706idx1snb1
+date: 2026-01-28
+category: 深圳居住与买房
+tags: ['深圳买房', '深漂生活']
+---
+
+![cover_image](https://mmbiz.qlogo.cn/mmbiz_jpg/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxcaSgZzhqiaOiaKAibiae2Yebiacw7tJOd8HBbnIKIVEqhqYoU6ibJjzSPiakNaw/0?wx_fmt=jpeg)
+
+一群深圳的家长聚在一起聊了什么？....
+
+
+原创 
+
+
+就算是中秋节本该休息的周末，深圳总有些优秀的父母远道而来跟我们一起聊聊关于孩子的教育跟人生规划的问题，在之前的文章「[周末，来一场线下活动吧...](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815706&idx=1&sn=b17710f3742d92905d8db181f777a008&chksm=889675ddbfe1fccb4fdb52e7b5f6dd466c6e37499e7411258a136c1badf860ad9f434b1398cb&scene=21#wechat_redirect)」里预告了周末的活动，没想到来了四十多人，有95后单身更没娃的，有从东莞坪山赶来的虎爸虎妈，还有三个孩子的资深父母等等角色，大家来就是想了解下「未来春藤」到底葫芦里卖的什么药？....  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxcaguelv0v2zY0ItmEU5gj7mtqHyvFaw4KyO3MWztV8Jrib2ecz2oC8D1A/640?wx_fmt=jpeg)
+
+  
+
+怎么大家都显得这么胖？....  
+
+  
+
+因为是广角镜头拍的呀，能控制好身材的是优秀父母的第一能力，胖佳要加油减肥了.....
+
+  
+
+说回主题，随手翻了下朋友圈看看大家的评价：  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxcaonnt5pjYHQf37fq99XYmxIZ8vEWLlTfoliaiclWHUOavYZMd4ab2QTLg/640?wx_fmt=jpeg)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxca4CxQNHiboHOBsAXOujjm5ibGpNz5pmK8TBRsPLg47JLmQJNNOuCGuiapQ/640?wx_fmt=png)
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxcaUwtP1GMrSMibCvZBkoWArwuX13MZxsZGVYQHAbiaTqvapNFHdjX8icVYA/640?wx_fmt=jpeg)
+
+  
+
+金杯银杯，不如参与者的口碑啊，放出两张「讲道理」的PPT：  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxcavlibvACcR6bP4o1Vtwv3ykicnIY6icyOiavBFVibLicRrBSZHFnt1EBEhLJA/640?wx_fmt=jpeg)
+
+  
+
+看到关于中国家长的三大教育焦虑，相信看了很多纪录片跟报道的父母们一点儿也不意外，其实就算号称素质教育的美国，往往精英教育其实也有焦虑的地方。
+
+  
+
+但生活就是这样，焦虑并不可怕，适当的压力是可以激发人的无限潜能的，如果当初没有17年小星星的降临，我敢打赌星佳和爱米不会有如今你们看起来似乎轻而易举的勇气，孩子至少是「深吹夫妇」奋斗的最大源动力。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxcaGwrCvJdvG8XgnE4aiczRnDgziciaaGA8XxyCvj5t3vyGGFnCaCvHia2zWA/640?wx_fmt=jpeg)
+
+  
+
+而芒格大佬的这段话，的确醍醐灌顶，不只是对于父母来说很有必要仔细揣摩，对于处在人生阶段尤其面对关键节点的年轻人更需要牢记。  
+
+  
+
+> 机会不好时耐心等待，积累资源；
+> 
+> 机会来临时看准时机，加大注码。
+
+  
+
+一下午的分享诞生了蛮多金句，比如三个孩子的潮汕父母@陈振贤说：
+
+  
+
+在教育三个孩子的岁月里，别人说男孩是建设银行，女孩是招商银行，而自己怎么就成了汇丰银行。  
+
+  
+
+跟陈老师一样，蛮多父母被迫自己要成为教育专家，但看了太多公众号和书，真正能搭起来框架和体系的少之又少，但是在听了若干未来春藤的课程后，好像战略这件事清晰后，战术就更有效了。  
+
+  
+
+还有@Rohm和@郭瑞智 聊到了自己的童年，缺少父母的陪伴和关爱，还自嘲自己是教育的失败品，但是25岁之后终于明白了父母的苦衷，毕竟时代不同，现在回想起来的确上一辈的父母真的是给了他们能力范围内最好的生活了。  
+
+  
+
+十岁孩子的妈妈@李倩 还准备了逐字稿，结尾用一段写给孩子的信博得了大家的掌声，妈妈不想等老了的时候给孩子说，对不起，如果那时候能XXX就好了。  
+
+  
+
+而24岁的单身@陈汉勤跟外企白领@思思，虽然并没有孩子，但早就有了意识要提前学习教育这件事，很多知道，越早掌握越有优势。  
+
+  
+
+而@Maxguo 却首次公开吐槽老爸，简直就是脱口秀选手附体，下次要开个专场教育吐槽大会了，^\_^  .....  
+
+  
+
+至于那些想来听「常旅客跟房产」的同学，大家也没有失望，最后@爱米小姐姐 压轴聊了几句黑科技，并且在沙龙结束后又被关在小房间跟同学们深入交流，同时收获满满的不在于「术」的层面，最可怕的还是「你不知道你不知道」，那么跟厉害的人在一起，就是捷径，很多时候，高认知的那群人一个信息，一句话，也就改变了你之前积累到一定程度的人生，星佳感同身受的说。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqv2evnkNuN3A7kIOb2zmxca87KElrS4kEicxL4OEdG8kpVOdoFTvl7PAbJowRRjJibXW9LO3tKuwhcw/640?wx_fmt=png)
+
+  
+
+相关阅读：
+
+[为什么加入未来春藤？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815682&idx=1&sn=7763a5ad39f9fc2d94675cf58fc8a15d&chksm=889675c5bfe1fcd3d6f54d278bcd017efea7f79125b87853ce971c9d492081548543db049ee9&scene=21#wechat_redirect)  
+
+[请问，如何成为一个合格的父母？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815663&idx=1&sn=7c34211ecd3dc84892a5c93efde5abf3&chksm=88967528bfe1fc3eecdfbe6ca0fb14e19bd588c5d5c754bf4d629f726d710d35202d91e85213&scene=21#wechat_redirect)  
+
+[我是一个父亲，这是我在做的一点小事....](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649815625&idx=1&sn=b3ecd1a5b9fc22970166495035a4d4a3&chksm=8896750ebfe1fc1893d823230f3a8a7dd37424c8cfc2c8cf49f32d2abc674937deb37367a50c&scene=21#wechat_redirect)

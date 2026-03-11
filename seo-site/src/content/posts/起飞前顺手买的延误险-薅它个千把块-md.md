@@ -1,0 +1,20 @@
+---
+title: 起飞前顺手买的延误险 薅它个千把块
+description: 起飞前顺手买的延误险，薅它个千把块！ 原创
+date: 2025-08-03
+category: 常旅客与信用卡
+tags: ['常旅客羊毛', '信用卡攻略']
+---
+
+起飞前顺手买的延误险，薅它个千把块！
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+![](http://wx.qlogo.cn/mmhead/YCOL3hU8ffWRGTPvKCpS1dlw51ydXQL1BdwTLoHCHD6fNkzhwspuFmowsSUSPN0X5LK1Xl0UYx4/0)
+
+兔美有话说
+
+起飞前顺手买的延误险，薅它个千把块！ 原创
+
+阅读全文

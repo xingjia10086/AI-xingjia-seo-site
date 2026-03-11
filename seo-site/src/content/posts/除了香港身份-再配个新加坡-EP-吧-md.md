@@ -1,8 +1,9 @@
 ---
-title: "除了香港身份 再配个新加坡 EP 吧"
-description: "**这是星佳和爱米的第 1327** **篇原创**"
-date: "2023-02-09"
-tags: ["香港生活"]
+title: 除了香港身份 再配个新加坡 EP 吧
+description: 这是星佳和爱米的第1327篇原创
+date: 2026-05-04
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtegFCe2rsOCbYIb6OuooXJEmRocpCImr9VgQAdcCp54IWP7uzxh4pOG00h0yOrTcfqkIyGiaybcjA/0?wx_fmt=jpeg)

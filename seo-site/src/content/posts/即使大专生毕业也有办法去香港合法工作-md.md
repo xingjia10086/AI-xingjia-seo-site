@@ -1,8 +1,9 @@
 ---
-title: "即使大专生毕业也有办法去香港合法工作"
-description: "孟母三迁其实已经写了很多文章讲这件事，《[给大专生们逃离内卷的一条出路](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649829580&idx=1&sn=91257a18186fb94f2e74914703536201&chksm=8"
-date: "2023-01-10"
-tags: ["香港生活"]
+title: 即使大专生毕业也有办法去香港合法工作
+description: 孟母三迁其实已经写了很多文章讲这件事，给大专生们逃离内卷的一条出路httpmpweixinqqcoms__bizMzA5ODQwMDgwOAmid2649829580idx1sn91257a18186fb94f2e74914703536201chksm8
+date: 2026-04-04
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', 'AI人工智能']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqu1w4QH9DgjEpV1wcF8a5GgTAKArUcteSLaicB2kh03nYWNkFW5XjocvcGcF8HtbTRBtgm0q0hDDEA/0?wx_fmt=jpeg)

@@ -1,8 +1,9 @@
 ---
-title: "医疗反腐 香港为何没有医疗腐败"
-description: "最近医疗行业继教培、房地产之后，也被推到了风口浪尖。至此，压在老百姓头上的三座大山都经历了彻底的“洗礼”。"
-date: "2023-01-09"
-tags: ["优才", "高才", "DSE"]
+title: 医疗反腐 香港为何没有医疗腐败
+description: 最近医疗行业继教培、房地产之后，也被推到了风口浪尖。至此，压在老百姓头上的三座大山都经历了彻底的洗礼。
+date: 2026-04-03
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '优才']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawSHjucSRagMA5MTBkXkuB0SiaurPASmID5sTk3lrIgIHnGgiaNP7Uakc507zW3cWV1Gz0UVIBgs9DnA/0?wx_fmt=jpeg)

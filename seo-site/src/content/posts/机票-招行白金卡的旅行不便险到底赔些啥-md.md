@@ -1,0 +1,324 @@
+---
+title: 机票 招行白金卡的旅行不便险到底赔些啥
+description: 以下文章来源于Aires行记 ，作者Aires
+date: 2025-07-14
+category: 常旅客与信用卡
+tags: ['常旅客羊毛', '信用卡攻略']
+---
+
+机票︱招行白金卡的旅行不便险到底赔些啥
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+以下文章来源于Aires行记 ，作者Aires
+
+[
+
+![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM7nLIicxwm8SxiabdhzxcZ8U0I23YNrvjX1rr5x03MDarhA/0)
+
+**Aires行记** .
+
+教你如何用低成本完成高品质旅行！
+
+](#)
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9XvbibC9Uic9R5xpXwNSj1ZhIvyZm4Qqmj6QicsnY3rxadiattwCytU7xxg/0?wx_fmt=png)
+
+  
+
+* * *
+
+* * *
+
+**假冒了两天国航员工，是时候回到本职继续谈吃喝玩乐了。最近谈招行好像谈得比较多，感觉又要被人说是招行的托儿了：）招行**
+
+  
+
+**白金信用卡的高额旅行不便险一直是延误险中的神器，机票购买的渠道要求低，赔付金额高，但因为需要提供相关证明材料去索赔，因此隐藏了许多暗坑。如何避免掉坑，实际上是一门技术活，下面以运通百夫长白金卡为例进行详解。  
+**  
+
+* * *
+
+* * *
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9B2iab6SicKkukbqqLN364UnIsaXIYftlQib3Fhvic22wLkNwSdfQx9t90Q/0?wx_fmt=png)
+
+  
+
+ **保险获得方式**   
+
+当你持有一张有效且可以正常使用的招商银行黑金卡、无限卡、AE白金卡、银联钻石卡、景点白金卡、精致白金卡、银联白金卡或者白金分期卡时，该项高额旅行不便险随时可以激活。
+
+ **保险激活方式** 
+
+只要你使用上述招行白金信用卡或以上的高端卡全额支付机票款，全额支付里程兑换机票的税费，或是80%以上（含）的旅行团团费，不需要任何的提前报备或办理任何手续，都可以激活保险。
+
+ **保险赔付对象** 
+
+仅限于招行白金信用卡的持卡人本人，同行的配偶、子女在符合条件的情况下只能享受意外险。
+
+ **保险赔付额度** 
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9nGzClicXorP4ZrwR3r3pyH32jn8bfolW9yo1u6aqMdpRMwETdbHia0ow/0?wx_fmt=png)
+
+  
+
+具体金额如表格所示，这张表格漏了黑金卡和无限卡，黑金卡的赔付额度是5000元，无限卡是4000元，所有赔付都包含了500元的定额津贴。定额津贴的意思是，如果你没有提供报销凭证或报销凭证不足500元得，按照500元给。此外，这个旅行不便险只有单次事故赔偿限额，并没有累计赔偿限额，因此，理论上你可以获赔无数次。
+
+  
+
+ **保险责任详解** 
+
+  
+
+> **班机延误  
+> **
+
+  
+
+航班延误四小时或以上即可获得赔付。
+
+  
+
+**几个要点：**
+
+  
+
+1.班机是指按规定的航线、日期、时刻运行的定期航班，如果你搭乘私人包机，抱歉，你太有钱了，保险公司不赔；
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9V1H4Y0fzDsnKK3cEQxOk37Nhl34JtptA6kICibEic36BFfmFiaSewsTmg/0?wx_fmt=jpeg)
+
+  
+
+2\. 延误时间的计算口径，是指旅客因航班延误、取消、或超售，并且由航空公司安排的最快改搭班机到达目的地时间和原定到达时间之间时间差。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9p6wFZ8icT4WVJ6G1SXSibNkGPmz15lCnJiaNHfID6ia1oBCNicGLlw5bRicw/0?wx_fmt=png)
+
+  
+
+如果改成说人话，就是计算计划到达与实际到达的时间差，达到4小时或以上即可赔付。
+
+  
+
+3. 赔偿的费用主要有四个方面，一是在到达目的地前于出发地或者转机地发生的食宿费用；二是来往机场及酒店的交通费，来往居住地的不算；三是与机场或酒店联系的电话费；四是因为行李已托运而购买急需的衣物及其他日用必需品的费用。
+
+  
+
+4\. 因为下面的原因所导致的航班延误，航空公司会拒赔：  
+
+一是搭乘航班的航空公司被依法宣告破产了，保险公司不赔；
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9UHQyia6oBBWqTSRMaIwWKmTyvibBsFJlG0Q46eibl80JhkW2SYTUHxrLQ/0?wx_fmt=png)
+
+  
+
+二是自中国境内出发（含港、澳、台地区）出发，在办理登机手续前已确定航班延误或取消的，保险公司不赔。因此，你需要提供取消前或者改签前航班的纸质登机牌，切记，电子登机牌不算；
+
+  
+
+三是因为未按规定办妥登机手续、旅行证件不符合规定未能乘机、办了登机手续但没赶上飞机、在经停站下了没飞机没赶上，或者做错了飞机等，保险公司都不赔。
+
+> 行李延误/丢失
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9AqcMXqGs43lqYRC2eKTuibAyaWVRNRBwgu46kKWaBxfDmeUic2h4ocTg/0?wx_fmt=png)
+
+  
+
+**托运行李延误六个小时或者托运行李丢失即可获得赔付。**
+
+  
+
+**几个要点：**
+
+  
+
+1\. 行李延误是指你抵达目的六小时以后还没拿到行李，但是，返回居住地时的行李延误不算。
+
+  
+
+2.行李丢失是指你抵达目的24小时以后还没拿到行李，返回居住地时同样没有行李丢失一说。
+
+  
+
+3\. 赔偿的费用主要是两方面，一是因紧急需要购买衣物及其它日用必需品；二是为领取行李往返机场和住宿地点之间的交通费用，除此之外没有其他。
+
+  
+
+4\. 购买衣服或者其他日用必需品的费用产生时限要注意，行李延误是到达目的后24小时以内，行李丢失是到达目的后120小时以内。
+
+  
+
+> **旅行证件重置**
+
+  
+
+在港澳台地区以及境外旅行时，护照或其他旅行证件遗失、被盗窃、被抢劫或抢夺，重置证件时可获得赔付。
+
+  
+
+**几个要点：**
+
+  
+
+1\. 赔付范围仅限境外地区（含港澳台），护照在国内转机时丢了也不算。
+
+  
+
+2\. 赔偿的费用主要是两方面，一是因补办旅行证件所发生的直接补办费用；二是在补办旅行证件期间发生的必要的、合理的住宿费、餐费及交通费。
+
+  
+
+3\. 发现丢了护照之后二十四小时内必须向事故发生地警方报案，并取得报警证明，否则保险公司会拒赔。
+
+  
+
+> **旅游中断**
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9Q3piaqsF68fice9Vq1yVhlVNxdaHvJyL5IgFaTPuW82HriaB5czqXib6ew/0?wx_fmt=jpeg)
+
+  
+
+在港澳台地区以及境外参团旅游期间，因被保险人的配偶、父母或子女病危或身故，必须中断行程时可获得赔付。
+
+  
+
+几个要点：
+
+  
+
+1\. 必须是参团游，自由行旅客请无视本条。
+
+  
+
+2\. 赔偿的费用主要是两方面，一是已支付且不能退还的交通、住宿、餐饮等旅行费用；二是中断行程前往病危或身故的被保险人配偶、父母或子女所在地发生的交通费用。
+
+  
+
+**你需要注意的几个事情**
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9iaAKEJRJ5qr9vuKjr3hFOqYDEXPdjKBxNdSkw6QY6EvHhWgE2iaGBfkA/0?wx_fmt=jpeg)
+
+  
+
+1.及时拨打95556找华安保险，需在发生保险事故后48小时内向保险公司报案。
+
+  
+
+2.保留好所有的登机牌、行李票、延误证明、小票、刷卡单、发票等原始资料。
+
+  
+
+3\. 所有开具的发票，抬头均直接填写被保险人的姓名，开个人增值税普票，项目要写明细，与实际消费内容相对应。
+
+  
+
+4\. 需要提供购票信用卡以及购票消费记录，消费记录提供短信或者网银截图均可，要能显示信用卡后四位以及机票价格。
+
+  
+
+* * *
+
+* * *
+
+模棱两可的赔付项目说明让很多人都看不明白，到底什么能赔什么不能赔？这也是该保险最大的坑，没有之一，下面仅就一些本人顺利获得赔付的项目进行详解。  
+
+* * *
+
+* * *
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9xyoW3eXrX3tfibNYcqSziaxTOVLIEetib01h5nekLWRib7iceIWXX2tIU9A/0?wx_fmt=jpeg)
+
+  
+
+ **住宿费用** 
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH97vsta47icZf5PME0PW0TryWAAicorh3QBibZTn3jUGYaJnMmEbfzMO6Ng/0?wx_fmt=png)
+
+发生航班延误时，住宿费用的发生时间必须在最快改搭班机出发前，发生地点必须是出发地或者转机地，比如5月1日三亚\-珠海\-义务的航班延误，你提供的住宿发票必须是5月1日当天（第二天开出也大多认可）在三亚或者珠海开出的。其他的赔付项目有单独的时限要求，不在这里重复。需要注意的是，正规酒店都需要提供入住收费清单（俗称“水单”），如果不能提供的话很有可能会被拒赔。
+
+  
+
+ **吃饭费用** 
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9rJXekaHoWg2sTJL2fjzFeuPb8A5Gs5L8hqnkaibV9e1MTX7Uq14PRJw/0?wx_fmt=jpeg)
+
+  
+
+吃饭费用的发生时间、发生地点要求基本与住宿费用相同，目的地发票是不接受的。该项目提供个人增值税普票即可。
+
+  
+
+ **交通费用** 
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_png/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH98AicwFrGw0hJNUfaj0UdIv08FKN0H5dw3Wr4twXZojOAGoL89AsBWfA/0?wx_fmt=png)
+
+  
+
+来往机场及酒店，或是吃饭的地方之间的交通费都可以进行赔付，但往返居住地除外，意思就是你不能回家拿东西。如果搭乘的是的士，直接要机打发票即可，如果叫的是专车，在提供电子发票的同时，还需要上面这样一个显示行程路线和支付金额的行程截图。
+
+  
+
+ **通话费用** 
+
+  
+
+一般是买话费充值卡，或者手机充值，并提供相关消费记录，同时还要有和机场、酒店的电话联系记录，挺费劲的。
+
+  
+
+ **日用必需品费用** 
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/FhSvyaQyVknsSDTibfMfPUZ2rDx18iaEH9ibxQs3NfnSxGrEFpNT30BuJghz31fibP9TrPbYulmpLicvf7JqxNUn6ZA/0?wx_fmt=jpeg)
+
+  
+
+“日用必需品”的范围，在保险细则中的规定也比较含糊，因此是否能够通过审核，得看勘察员的尺度把握。曾经有人直接在机场买一瓶Lamer面霜去索赔的案例早已成为保险公司中广为人知的反面教材，如今对于“日用必需品”的审核标准日趋严格，实际上很多种类的物品都已经不能报销了，我曾经报销过的其实就洗漱用品，主要是各类的洗脸洗澡洗头用品，牙膏牙刷之类的，有人会问：那电动牙刷行不行？电动剃须刀行不行？电吹风行不行？怎么说呢，我劝你带电的玩意儿都别买。
+
+  
+
+此外，如果遇到航班延误或取消，能够赔付的前提是“行李已交寄托运”，如果想赔这项费用，切记要保留好托运行李的小票。
+
+  
+
+* * *
+
+* * *
+
+**如此复杂的赔付项目，着实让人抓狂，但在保险公司勘察出险情况越来越严格的大背景之下，详细地了解这些情况还是大有裨益的，如果还想进一步去钻研规则，欢迎点击“阅读原文”。最后，希望大家诚实撸毛，切勿因小失大，否则，《刑法》第198条就离你不远了。**
+
+* * *
+
+* * *
+
+  
+
+**转载声明**：本文转载自「Aires行记」，搜索「AiresTravel」即可关注。  
+
+  
+
+[阅读原文](javascript:;)

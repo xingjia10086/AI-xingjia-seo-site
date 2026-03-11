@@ -1,0 +1,73 @@
+---
+title: 借助微博的大数据来分析你自己
+description: 新朋友点击标题下面蓝色字星佳是个小人物即可关注
+date: 2022-05-22
+category: 其他与日常
+tags: ['生活记录']
+---
+
+借助微博的大数据来分析你自己！
+
+
+[星佳是个小人物](javascript:void\(0\);)
+
+
+
+![](http://mmsns.qpic.cn/mmsns/vVEysRjVVwLWSWhIqMbDf8Cy9QHWgrrXc6h0pLxUYSgXTnGUb4ic99g/0)  
+【新朋友】点击标题下面蓝色字“星佳是个小人物”即可关注
+
+【老朋友】点击右上角，转发或分享本页面内容，查看历史消息![](http://mmsns.qpic.cn/mmsns/vVEysRjVVwLWSWhIqMbDf8Cy9QHWgrrXicdAjroLsJ62m3DvyHfIBVA/0)
+
+看到这个标题是不是顿时有了高大上的感觉，微博的大数据是如何来分析我们自己的呢？  
+
+  
+
+围脖关键词，是清华大学自然语言处理组开发的一个自然语言处理应用平台。该应用利用自然语言处理的关键词抽取技术，分析用户近期发表微博内容， 提取代表用户兴趣的关键词，并采用文档可视化技术对关键词进行可视化，便于用户快速了解自己、好友、主题等的关键词。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquJue1ZnCq3FtnFfu1tPvwTDXuB9nbP52RjExDthkUpctQ2jUHWdupo8vg5n6f02tN22oB6sPR8aQ/0)
+
+如图是我的微博关键词分析出的一张图，是不是很酷？《围脖关键词》这个工具除了做分析外，还可以把这张属于你自己的独一无二的图做个T恤呃，很好玩吧？  
+
+  
+
+我们具体来说说这个有啥用户，对于不玩微博的人来说您就别浪费时间看了。
+
+  
+
+大家都知道微博在微信没这么火之前那可是如日中天哇，各国元首都要开微博，作为平常老百姓的我们肯定也要赶时髦玩微博了。
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquJue1ZnCq3FtnFfu1tPvwTx7rpYibjiaSNf5FichGwBWc50elEpn5bZa7Nbu6HQcNUiakqszFHu76n7Q/0)
+
+可以看到星佳发了大约2000条的微博，既然都是自己发的，肯定是跟你的主观意识有关了，通过微博除了发表自己的观点，肯定关注的人也好话题也好都是自己感兴趣的，甚至参与的一些活动都是属于“星佳”真实的想法的，这么一说就好玩了，其实这个工具可以真正的让你搞明白自己 到底是喜欢什么的，或者如何定义自己的。
+
+  
+
+除了分析自己，这款工具还可惜分析你任何朋友的数据，或者是你跟他的兴趣相投指数图，星佳测试了自己跟一位朋友的兴趣相投指数，说实话自我感觉还是比较准的，因为那货根本对互联网没兴趣，哈哈。  
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wquJue1ZnCq3FtnFfu1tPvwTz6gx1ItqqZosPJOnFibNGG1Y4WaBPetFhOuJ3PHShPicd4GBlrSOSLYQ/0)
+
+当然基于大数据还有很多好玩的工具，星佳觉得科技的力量就是帮自己认清楚自己到底是谁，或者告诉自己与某个人的连接到底有多么牢固，扯远了。如果想玩这个的请直接在搜索“微博关键词”即可，可以秀一秀你跟星佳的“兴趣相投数”给我呃！
+
+欢迎大家多多分享转载，微信ID：xingjia10086 星佳是个小人物
+
+  
+
+> **星佳是个小人物，发现趣味生活**
+
+> ****◎ 分享与阅读  
+> ****独享不如众分享，点击右上角![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfXhw3rpyVmZqo6oVZetlQfydRzlgh4YhYGrk5oQq4Vb4Q/0)或![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfXhw3rpyVmZqo6oVZetlQfyJlB1ygrl7bnjd1qJ50Qh1A/0)分享到朋友圈和朋友一起订阅吧。查看历史消息可以看到更多的惊喜哦！**  
+> ◎ 两种订阅方式  
+> **☆点击标题下方, 蓝色“**星佳是个小人物**” 关注！  
+> ☆或**通讯录**右上角**![](http://mmsns.qpic.cn/mmsns/yGbKooqBhfVgk2344QoIB04ibplcVIEGSMic6SgTtb1iacUILazaiaRr1Q/0)**搜**xingjia10086**订阅！  
+
+> **分享文章后，点击「阅读原文」查看历史文章！**
+
+  
+
+[阅读原文](javascript:;)

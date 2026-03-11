@@ -1,8 +1,9 @@
 ---
-title: "规划是需要提前的也是可以实操的  为客户量身定制香港身份具体实操案例"
-description: "规划是需要提前的也是可以实操的——为客户量身定制香港身份具体实操案例。"
-date: "2023-02-02"
-tags: ["DSE", "香港落户"]
+title: 规划是需要提前的也是可以实操的  为客户量身定制香港身份具体实操案例
+description: 规划是需要提前的也是可以实操的为客户量身定制香港身份具体实操案例。
+date: 2026-04-27
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '落户']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawSeicLgSp5nR4p2wI0eA4E5GONjcjpZJblJSBo8vssAgjFPAfNOLVhRcy82ZtsJHrsf9htR9fG0mHQ/0?wx_fmt=jpeg)

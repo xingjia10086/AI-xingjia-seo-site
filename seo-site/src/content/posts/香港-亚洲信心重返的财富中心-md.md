@@ -1,8 +1,9 @@
 ---
-title: "香港 亚洲信心重返的财富中心"
-description: "**![](https://mmbiz.qpic.cn/mmbiz_jpg/DgUs24w7xyYqIWjAgXgQk5JmslIxxbYsEOJBaiaOU0UHQUYuRypzkCSN2F3IZNfLUZJE90ib7ycTSXN5T6dicRLiaA/640?wx_fmt=jpeg&wxfro"
-date: "2023-02-11"
-tags: ["香港生活"]
+title: 香港 亚洲信心重返的财富中心
+description: httpsmmbizqpiccnmmbiz_jpgDgUs24w7xyYqIWjAgXgQk5JmslIxxbYsEOJBaiaOU0UHQUYuRypzkCSN2F3IZNfLUZJE90ib7ycTSXN5T6dicRLiaA640wx_fmtjpegwxfro
+date: 2026-05-06
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawSxUqoMuqreShicX85hkLwbtNiaCWz7Q8r8SHlEygX4ZiabUzMEnzQmY6QKuCxwHPx7Lia31vzDgYSMYA/0?wx_fmt=jpeg)

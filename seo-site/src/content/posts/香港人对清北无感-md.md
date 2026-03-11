@@ -1,8 +1,9 @@
 ---
-title: "香港人对清北无感"
-description: "《 [四个早点和六个国际化](https://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649819989&idx=1&sn=ec54b723fb97320439b1536350255045&chksm=88978412bfe00d04d7f444"
-date: "2023-02-14"
-tags: ["香港生活"]
+title: 香港人对清北无感
+description: 四个早点和六个国际化httpsmpweixinqqcoms__bizMzA5ODQwMDgwOAmid2649819989idx1snec54b723fb97320439b1536350255045chksm88978412bfe00d04d7f444
+date: 2026-05-09
+category: 香港身份与生活
+tags: ['香港身份', '香港规划']
 ---
 
 ![cover_image](http://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqu74NlkzFwqX6khHRKzxXdezqKChKAia2bZprlicWfofLdhxkiauXSxGTia9qksp64ibZqdKmKsm2Q0ghQ/0?wx_fmt=jpeg)

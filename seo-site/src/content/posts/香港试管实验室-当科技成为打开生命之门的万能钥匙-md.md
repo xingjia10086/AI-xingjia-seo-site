@@ -1,8 +1,9 @@
 ---
-title: "香港试管实验室 当科技成为打开生命之门的万能钥匙"
-description: "香港试管实验室：当科技成为打开生命之门的万能钥匙"
-date: "2023-02-20"
-tags: ["香港生活"]
+title: 香港试管实验室 当科技成为打开生命之门的万能钥匙
+description: 香港试管实验室当科技成为打开生命之门的万能钥匙
+date: 2026-05-15
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', 'AI人工智能']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/tOFSAibJ5wqtF93c6b4mXmUXdm9OTAX0kTPibf98DgmhFthtssEsPBLsSuQsOQ4uIk0fQNN4c8PeBDC5znqdibeug/0?wx_fmt=jpeg)

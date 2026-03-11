@@ -1,0 +1,76 @@
+---
+title: 老前辈献身说法 教你如何和酒店谈心 和酒廊妹子谈待遇
+description: 老前辈献身说法，教你如何和酒店谈心，和酒廊妹子谈待遇？
+date: 2025-07-26
+category: 常旅客与信用卡
+tags: ['常旅客羊毛', '信用卡攻略']
+---
+
+老前辈献身说法，教你如何和酒店谈心，和酒廊妹子谈待遇？
+
+
+原创 小白大神&星佳 小白大神&星佳 [星佳是个小人物](javascript:void\(0\);)
+
+
+
+好久不见，星佳最近消失了一段时间去好好的打理了私密微信群和小密圈，我们尝试鼓励圈里的优秀学员们可以每周一次通过直播课程系统来分享各位老前辈在自己领域多年总结的经验，比如这次的老司机分享系列第一课：
+
+  
+
+**老前辈现身说法，如何跟酒店谈心？**
+
+  
+
+我们先来看看分享里说的『小费大法』的效果：  
+
+  
+
+这哥们在听了小白大神的分享后，在北京金融街丽思卡尔顿直接花了50元小费升级到了行政套房，同时西班牙总经理和房务部的副总监也过来问候，顺便拿到了名片，你懂的....（成为了朋友哦）  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wquLcNyibrSnYOhZxadJVkeIbmgJtCCweZYUPicXYCksicBPRY7eTCicUmgX24PJcaIwic3Cgia7q9qabLeA/0.png)
+
+  
+
+在课程里，小白大神分享了自己的『谈心经验』和『给小费的正确姿势』跟『投诉的技巧』，最终目的就是省钱，比如待遇升级，早餐，房型升级和其他合理的需求等等，接下来，我们听听小白大神性感的声音吧：
+
+  
+
+  
+
+说完了老司机分享系列第一课的谈心经验分享，这一周我们这位老司机带来了第二课，如果飞机延误了你应该怎么办的经验分享，欢迎扫描下方二维码直接来听哦，对了，剧透下，互动环节会吐一个路子，关于国航金和白金的正收益玩法，你懂这个有多厉害了吧！！
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquLcNyibrSnYOhZxadJVkeIbBibaiawibY2blMj0mQvZuKicBQd6BOyYV5xGf7AmT0ib6a8VFV5Qo37ZJpQ/0.jpeg)
+
+  
+
+最后再说一件重要的事情，请各位务必加星佳的个人微信，毕竟交流起来很畅快嘛，你说是不是？
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqtcZDSW8Q9OSfGFvR9uvhoIzxyK9uXOXCWicliaAo84wUrhibdw4qeWFMUTicxkCwSVhANG3jSbhokxXw/0.jpeg)
+
+  
+
+如果你对五星级酒店呀，飞机出行还是有顾虑，觉得怎么可能做到和汉庭如家的成本，怎么可能不花钱去得到免费机票呢，请务必关注星佳的公众号之后挨个阅读历史文章即可找到答案，比如如下的几篇推荐阅读：
+
+  
+
+[出行 | 三天四晚的免费三亚旅行如何炼成？](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649813214&idx=2&sn=87e096af2bb74421fefbc46d02c51614&chksm=88967f99bfe1f68faab992ed77079ac32b80b2676d0ab6c7ec9805543f08fb54a9580afdcdda&scene=21#wechat_redirect)  
+
+  
+
+[给你推荐两个帮你解决信用卡&机场贵宾厅问题的小程序](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649813206&idx=1&sn=824d2ad8679b70c9002590d2ff14a4e2&chksm=88967f91bfe1f687aec4167a64fb5d040230c42369d7a96c34ac66de2e945fda9777acdccc47&scene=21#wechat_redirect)  
+
+  
+
+[一毛钱没花，记录在杭州的两天....](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649813175&idx=1&sn=301dfe600f4773ebce282e5fa0783611&chksm=88967ff0bfe1f6e6ba4fc5ebbdb59af0a202cc2f6f91b7110ae2bc8f98d53c1ec1675d6c6039&scene=21#wechat_redirect)  
+
+  
+
+微博：@星佳是个小人物
+
+微信:   xingjia10086

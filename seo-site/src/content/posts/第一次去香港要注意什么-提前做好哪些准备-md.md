@@ -1,8 +1,9 @@
 ---
-title: "第一次去香港要注意什么 提前做好哪些准备"
-description: "第一次去香港要注意什么，提前做好哪些准备？"
-date: "2023-02-01"
-tags: ["优才", "高才", "DSE"]
+title: 第一次去香港要注意什么 提前做好哪些准备
+description: 第一次去香港要注意什么，提前做好哪些准备？
+date: 2026-04-26
+category: 香港身份与生活
+tags: ['香港身份', '香港规划', '优才']
 ---
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/oQoD5vplawTD0zrj4x4ZMzB3wBHp0HkiafoLhK6pSian6Dlquq1DlHSZotWtSpbkKXLj9ExKicKPDTXvliabUkgG4Q/0?wx_fmt=jpeg)

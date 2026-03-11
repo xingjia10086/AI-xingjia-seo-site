@@ -1,0 +1,255 @@
+---
+title: 居然还可以如此抄作业
+description: 早点结婚，早点生娃，早点来大城市，早点用好家族资源。
+date: 2022-11-07
+category: 其他与日常
+tags: ['生活记录']
+---
+
+![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsLW4s5smyD96cAWnHiaQrTpLbc00l62UGwhS1PA8uEC3JmuLPBc6Dqw9hp59AUX2A3h2JLxI9vbUA/0?wx_fmt=jpeg)
+
+居然还可以如此抄作业？
+
+
+原创 
+
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wquqpyHRBwNeDZNdYLVD05duKVuKXGbf83eiarwpnexQTLK96Te9DoWDUF6LCJjdvK3c1C0ricTMO15Q/640?wx_fmt=jpeg)
+
+  
+
+  
+
+早点结婚，早点生娃，早点来大城市，早点用好家族资源。
+
+  
+
+早点《 [做对家庭发展规划](https://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649819989&idx=1&sn=ec54b723fb97320439b1536350255045&chksm=88978412bfe00d04d7f4447fb82dc86e5566d8925c7ea57dc688ee8182b7fe8e2b9315f20ca3&scene=21#wechat_redirect) 》，早点《 [跟着做出结果的人抄作业](https://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649820516&idx=1&sn=a5013d1154d4c86daeee210a38c388f8&chksm=88978223bfe00b357b00b88fa3fea95539e08999f4b189e7f76334badd9b9c1d57980d6327c8&scene=21#wechat_redirect) 》。
+
+  
+
+实现《 [四个早点和六个国际化](https://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=2649819989&idx=1&sn=ec54b723fb97320439b1536350255045&chksm=88978412bfe00d04d7f4447fb82dc86e5566d8925c7ea57dc688ee8182b7fe8e2b9315f20ca3&scene=21#wechat_redirect) 》
+
+  
+
+  
+
+  
+
+01
+
+—
+
+  
+
+抄作业挺好
+
+     请抄全啊！
+
+  
+
+  
+
+国庆节本来想好好放个假，结果本想躺平的心态突然被微信好友发来的文章，给瞬间点燃，人生要一刻不停的战斗啊！
+
+  
+
+想起来之前跟 腾讯防水墙 的同事们聊天的时候一句口头禅：
+
+  
+
+**你根本不知道,xx为了x你,到底有多努力。  
+**
+
+**![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsLW4s5smyD96cAWnHiaQrTp3cOLtXDGsicHekJXicPnLw2RpMQPH1QjfyJtg97ibgySGE2K7AO06smicQ/640?wx_fmt=jpeg)**
+
+  
+
+  
+
+先看一段截图，起初看到这篇文章就觉得眼熟，这个 五国六早 怎么跟 「4个早点和6个国际化」差不多的答案啊。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsLW4s5smyD96cAWnHiaQrTpTNq5e48WWexvHkAkkvA1KIIwMia5AtotT96yYVkBmcVSibPs5tLR40Mg/640?wx_fmt=jpeg)
+
+  
+
+  
+
+当初就怕被人举报，还专门做了公众号认证，但是观点这东西，又没办法写论文去发表，只能根据公开发表时间决定谁是原创吧，我也懒得去搞什么举报申诉，好在微信认证也是很好的佐证。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsLW4s5smyD96cAWnHiaQrTpN77SJI1ROgl9WUksOIcibrOsbmy2rcBeB8EpYd3iatcicXfBmk86xQSMQ/640?wx_fmt=png)
+
+  
+
+  
+
+对，星佳应该高兴，自己瞎写的观点居然能被其他公众号拿去坚持宣传，很好很好。
+
+  
+
+于是也更加清晰的告诉自己，就跟杰伦哥哥唱给我们听的那样：
+
+  
+
+> 下坡的路 
+> 
+> 不费功夫 
+> 
+> 别人已经帮你铺路 
+> 
+> 但我选择上坡 
+> 
+> 因为我取名叫自负 
+> 
+> 谦虚和那虚伪 
+> 
+> 就只差一个字 
+> 
+> 有时有点分不清 
+> 
+> 因为我喜欢真实的自己
+> 
+> 红磨坊歌词
+
+  
+
+  
+
+图里这 6个早点 ，还真的概况了星佳和爱米写公众号完整记录的整整八年呀，1000多篇原创文章啊，每一条都是这些年实实在在践行过的原则和做出的结果。
+
+  
+
+不过好像 六个早点 早就是公众号每篇的头部阅读，雷打不动的公众号模板套用。
+
+  
+
+还真没想到，能有人把自己的理论完善的更好，佩服，感恩。  
+
+  
+
+但是再看 5个国际化，居然删除了一个很重要的国际化目标：
+
+  
+生娃和婚姻国际化。
+
+  
+
+这就有点过分了啊，抄作业怎么还能把答案没抄全呢，况且国际化理论起初也是在董藩教授的付费群里学习到的，甚至在文章里也多次指出了原始出处。  
+
+  
+
+  
+
+但偏偏人家直接赤裸裸的拿来用，不标明出处也就算了，居然还是付费文章，你找谁说理去？
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqsLW4s5smyD96cAWnHiaQrTpt3TBoyHZHlsYDkAAPN06ZYxLXUJicAdA2ell4qFRYvwksk0x9nUnRrA/640?wx_fmt=jpeg)
+
+  
+
+再一翻文章作者，还是共同好友，看下共同群聊，我去，还是我的付费用户。  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsLW4s5smyD96cAWnHiaQrTpfLW2xCUbUTPNHcdibXCJ2s85pozVIdlLsUw1wFAmWrbOiao2ktQU0LQg/640?wx_fmt=png)
+
+  
+
+记忆中好像还简单跟他聊过，虽然没见过面，但毕竟是付费客户，写就写吧，又翻了下历史文章，这是把星佳和爱米这么多年走过的路直接拿去为我所用的节奏啊。  
+
+  
+
+你看，这就是内卷。
+
+  
+
+怪不得古人说，教会徒弟饿死师傅，所谓恩怨，就是如此，有智慧的师傅总要留一手才行，难怪很多手艺和智慧只能靠家学传承，外人是万万不能的。
+
+  
+
+所以你看多生孩子，之后培养好至亲去跟门当户对的家族联姻，是不是也是跨越阶级的方式之一呢？  
+
+  
+
+果真，能说真话的人只会越来越少，能说的话也只能在越来越小的圈子里说，天下熙熙皆为利来，天下攘攘皆为利往。  
+
+  
+
+不知道这位仁兄会不会也是90后，真想听听你们做出的结果，跟这些年家族的奋斗故事，用实实在在的经历诠释文章里写的目标：5国6早，而不是只悟了表面功夫。
+
+  
+
+亦敌亦友，才是人生百态，各位加油啊！  
+
+  
+
+最近可能业务做的好，名声在外，不断有外地的渠道想谈合作，分享四个指标供参考，适用于各个行业的商业思路：  
+
+  
+
+1.  敢不敢给客户们建群，组织线下活动，鼓励客户之前彼此认识，资源和人脉共享？
+    
+2.  能不能把给客户做了哪些实实在在的服务，明明白白的亮出来，而不是只靠嘴和PPT的空中楼阁？
+    
+3.  有没有去听听不同中介服务后的客户们给的真实评价，这些才是市场最真实的声音，而不是只听王婆卖瓜，自卖自夸？
+    
+4.  是不是创始团队能把自己取得的结果拿出来给大家看看，自己都没走过的路怎么放心让客户去走呢？  
+    
+
+  
+
+什么是竞争壁垒？  
+
+  
+
+只有时间和积累才是，这也是孟母三迁的核心竞争力。
+
+  
+
+所以，下半年我们要好好做视频(公众号视频版)，好好做直播（即时互动不露馅），真人出镜的那种，把积累了这么多年的智慧，弯路和血泪真真切切的放大出去，佛渡有缘人，其实靠的是筛选。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/tOFSAibJ5wqsLW4s5smyD96cAWnHiaQrTp5CrCdzk4A0KcuK00LpjSqGSz9G55vT7bMORL5rPC2icwibmib7IOptP2Q/640?wx_fmt=png)
+
+  
+
+  
+
+  
+
+  
+
+  
+
+临在时刻
+
+—  
+
+  
+
+  
+
+看完文章，不妨再关注下这个记录家学长达七年，积累940多篇原创的公众号。
+
+  
+
+  
+记录生活，做出结果，真诚分享，就一定可以帮有缘的读者抄作业少走人生的弯路：
+
+  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqv3v4ltUle4OGFbWlQNRloKCu0w12ibd0ice6Gka0yOH1VicDBdgpN6dnrrD8kdQ0cjsHOQQYGxPMFag/640?wx_fmt=jpeg)  
+
+  
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/tOFSAibJ5wqtKffYWA51C1VSiaFF7MogS82LtXwicTwz1yj6GKjaXZxiaQ4R6gt4XbKichbA25j14k8ibWNPFQDzzj0w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)

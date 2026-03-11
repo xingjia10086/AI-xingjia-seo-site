@@ -1,0 +1,117 @@
+---
+title: 购买社群空间小助手请戳进来
+description: 社群空间系列教程之挖出潜水员httpmpweixinqqcoms__bizMzA5ODQwMDgwOAmid400561229idx2snff1ba7a0debcbdb2145f003cb097be08scene21wechat_redirect
+date: 2024-11-07
+category: 商业创业与自媒体
+tags: ['创业干货', '自媒体变现']
+---
+
+购买社群空间小助手请戳进来
+
+
+原创 
+
+
+星佳陆续写了关于社群助手的教程，如下：
+
+  
+
+[社群空间系列教程之挖出潜水员](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=400561229&idx=2&sn=ff1ba7a0debcbdb2145f003cb097be08&scene=21#wechat_redirect)  
+
+  
+
+[微信群助手|社群空间群联盟](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=401199593&idx=1&sn=0bda935d61ea0aaf6b6ddb05ee1fb8ba&scene=21#wechat_redirect)  
+
+  
+
+[微信群主有了它，管理社群顶呱呱](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=400492195&idx=1&sn=9d8944dd95135e1cc2f23fbea39e1ac7&scene=21#wechat_redirect)  
+
+  
+
+......
+
+  
+
+而每天后台问的最多的还是，去哪里购买之类的问题....
+
+  
+
+玩转微信群系列教程正在『网易云课堂』连载，年后会根据接下来的软件开发进度涨价，各位小伙伴们抓紧哦...
+
+  
+
+> 本课程由星佳是个小人物出品，详细介绍如何通过『社群空间』有效的管理微信群，学好本课可以成为一个让别人羡慕的群主哦。  
+>   
+> 同时会结合实际的案例和玩法，为群主提供更多的思路管理好你的微信群。  
+>   
+> 管理好你的微信群，看这一个教程就够了。  
+>   
+> 课程内容：  
+> 课时1   社群空间到底是什么？（已发布）  
+> 课时2   社群空间在微信群管理的实际操作演示  （已发布）  
+> 课时3   社群空间的基础功能设置（已发布）  
+> 课时4   社群空间之群联盟介绍  
+> 课时5   社群空间之群购商城介绍  
+> 课时6   社群机器人的场景玩法  
+> 课时7   如何突破微信群100人的限制  
+>   
+
+  
+
+![](http://mmbiz.qpic.cn/mmbiz/tOFSAibJ5wqvcYWf3hUAWtk5DCQLYfdopicm4rwIBZJzwWfSxdoa06EwibGp6ibgqoOyzxQ0FyqFTibQyCU1ia5Upvcw/640?wx_fmt=jpeg)  
+
+  
+
+学习方式：
+
+直接在网易云课堂的App
+
+或者PC电脑网页端
+
+搜索『微信群』即可找到系列教程哦
+
+网址：http://dwz.cn/xingjia
+
+或者新浪微博@星佳是个小人物
+
+  
+
+我们希望可以在后台收到你在使用过程中的疑问，或者对于功能更新的建议，我们会通过视频+图文的方式录制答案持续更新到网易云课堂哦，欢迎直接在下方免费『写评论』
+
+  
+
+记得链接：
+
+http://study.163.com/course/courseMain.htm?courseId=1002780002
+
+  
+
+或者可以直接点击下方的『阅读原文』哦
+
+  
+
+我们希望可以在后台收到你在使用过程中的疑问，或者对于功能更新的建议，我们会通过视频+图文的方式录制答案持续更新到网易云课堂哦，欢迎直接在下方免费『写评论』
+
+  
+
+相关阅读：
+
+  
+
+[企业做好微信运营的必备公式在这里](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=401153505&idx=1&sn=c9ba660803761af86a3301587bcd1a0a&scene=21#wechat_redirect)  
+
+[微信群助手|社群空间的万能说明书](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=400660696&idx=2&sn=1b97dea2e3d8085b571388f89a22b992&scene=21#wechat_redirect)
+
+[微信群主有了它，管理社群顶呱呱](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=400492195&idx=1&sn=9d8944dd95135e1cc2f23fbea39e1ac7&scene=21#wechat_redirect)  
+
+[社群空间系列教程之神奇的榜单](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=400548509&idx=2&sn=2cab4fde0f249b75d52cadaa8c5838e1&scene=21#wechat_redirect)  
+
+[社群空间系列教程之挖出潜水员](http://mp.weixin.qq.com/s?__biz=MzA5ODQwMDgwOA==&mid=400561229&idx=2&sn=ff1ba7a0debcbdb2145f003cb097be08&scene=21#wechat_redirect)
+
+  
+
+点击下方『阅读原文』直接去收看哈
+
+  
+
+[阅读原文](javascript:;)
