@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { getSortedPostsData } from '@/lib/posts'
+import PostList from '@/components/PostList'
 
 export default function Home() {
   const allPostsData = getSortedPostsData()
@@ -50,46 +51,13 @@ export default function Home() {
         </aside>
 
         {/* 右侧列表区域 */}
-        <section className="flex-1">
+        <section className="flex-1 min-w-0">
           <header className="mb-10">
             <h1 className="text-4xl font-extrabold tracking-tight mb-4">全部文章</h1>
             <p className="text-neutral-600 dark:text-neutral-400 text-lg">跨越 10 年的沉淀，1379 篇深度原创新知与经验。</p>
           </header>
 
-          <ul className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {allPostsData.slice(0, 50).map(({ slug, date, title, description, tags, category }) => (
-              <li key={slug} className="group relative rounded-2xl bg-white dark:bg-neutral-800/50 border border-neutral-200 dark:border-neutral-700/50 p-6 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
-                <Link href={`/posts/${slug}`} className="absolute inset-0 z-10">
-                  <span className="sr-only">View {title}</span>
-                </Link>
-                <div className="flex flex-col h-full justify-between gap-4">
-                  <div>
-                    <div className="mb-3">
-                      <span className="text-xs font-semibold text-blue-600 dark:text-blue-400 uppercase tracking-wider">{category}</span>
-                    </div>
-                    <h3 className="text-xl font-semibold mb-2 line-clamp-2 leading-tight group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                      {title}
-                    </h3>
-                    <p className="text-neutral-600 dark:text-neutral-400 line-clamp-3 text-sm leading-relaxed">
-                      {description}
-                    </p>
-                  </div>
-                  <div className="flex items-center justify-between text-xs text-neutral-500 pt-4 border-t border-neutral-100 dark:border-neutral-800">
-                    <time dateTime={date}>{new Date(date).toLocaleDateString('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit' })}</time>
-                    <div className="flex gap-2">
-                      {tags?.slice(0, 2).map((tag, i) => (
-                        <span key={i} className="px-2 py-1 bg-neutral-100 dark:bg-neutral-800 rounded-md">{tag}</span>
-                      ))}
-                    </div>
-                  </div>
-                </div>
-              </li>
-            ))}
-          </ul>
-
-          <div className="mt-12 text-center text-neutral-500 text-sm">
-            <p>仅展示最新的 50 篇文章。请点击左侧分类以查看更多专属领域的深度内容。</p>
-          </div>
+          <PostList posts={allPostsData} initialCount={30} />
         </section>
 
       </main>

@@ -41,18 +41,38 @@ export async function getPostData(slug: string) {
 
     const matterResult = matter(fileContents)
 
-    // Use remark to convert markdown into HTML string
+    // Use modern rehype ecosystem to enable proper IDs on headings
     const remark = (await import('remark')).remark
-    const html = (await import('remark-html')).default
+    const remarkRehype = (await import('remark-rehype')).default
+    const rehypeSlug = (await import('rehype-slug')).default
+    const rehypeStringify = (await import('rehype-stringify')).default
+    const GithubSlugger = (await import('github-slugger')).default
 
     const processedContent = await remark()
-        .use(html)
+        .use(remarkRehype)
+        .use(rehypeSlug)
+        .use(rehypeStringify)
         .process(matterResult.content)
     const contentHtml = processedContent.toString()
+
+    // Extract TOC
+    const slugger = new GithubSlugger()
+    const toc: { level: number, text: string, id: string }[] = [];
+    const headingRegex = /^(#{1,3})\s+(.+)$/gm;
+    let match;
+    while ((match = headingRegex.exec(matterResult.content)) !== null) {
+        const level = match[1].length;
+        const text = match[2].trim();
+        const id = slugger.slug(text);
+        if (text && id) {
+            toc.push({ level, text, id });
+        }
+    }
 
     return {
         slug,
         contentHtml,
+        toc,
         ...(matterResult.data as { date: string; title: string; description: string; tags: string[] }),
     }
 }
